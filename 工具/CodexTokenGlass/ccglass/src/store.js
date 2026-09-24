@@ -91,6 +91,14 @@ export class Store extends EventEmitter {
     // break the proxy with ENOENT.
     fs.mkdirSync(this.sessionDir, { recursive: true });
     const manifest = packRecord(this.root, rec);
+    const body = rec.request?.body || {};
+    manifest.metrics = {
+      estInput: estimateRequestTokens(body),
+      estOutput: rec.response?.raw
+        ? estimateResponseTokens(getAdapter(detectFormat(rec)).reassemble(rec.response.raw))
+        : estimateResponseTokens(rec.response || null),
+      nToolUse: countToolUse(Array.isArray(body.messages) ? body.messages : body.input || []),
+    };
     fs.writeFileSync(this._file(rec.seq), JSON.stringify(manifest, null, 2));
   }
 
@@ -118,15 +126,7 @@ export class Store extends EventEmitter {
 export function summarize(rec) {
   const b = rec.request?.body || {};
   const items = Array.isArray(b.messages) ? b.messages : Array.isArray(b.input) ? b.input : [];
-  // Count tool calls that actually happened in this request (anthropic
-  // tool_use blocks, plus openai-style tool_calls), distinct from nTools
-  // which is just how many tools were *offered*.
-  let nToolUse = 0;
-  for (const m of items) {
-    const c = Array.isArray(m?.content) ? m.content : [];
-    for (const blk of c) if (blk?.type === "tool_use") nToolUse++;
-    if (Array.isArray(m?.tool_calls)) nToolUse += m.tool_calls.length;
-  }
+  const nToolUse = countToolUse(items);
   const ms = latencyMs(rec);
   return {
     id: rec.id,
@@ -147,6 +147,19 @@ export function summarize(rec) {
     pending: !rec.response,
     usage: usageSummary(rec),
   };
+}
+
+// Count tool calls that actually happened in this request (anthropic tool_use
+// blocks, plus openai-style tool_calls), distinct from nTools which is just how
+// many tools were offered.
+function countToolUse(items) {
+  let n = 0;
+  for (const m of items) {
+    const c = Array.isArray(m?.content) ? m.content : [];
+    for (const blk of c) if (blk?.type === "tool_use") n++;
+    if (Array.isArray(m?.tool_calls)) n += m.tool_calls.length;
+  }
+  return n;
 }
 
 // Token totals belong to the whole HTTP round-trip. Providers do not bill
@@ -282,6 +295,9 @@ export function listSessionsMulti(roots) {
 const SUMMARY_CACHE = new Map();
 const SUMMARY_CACHE_MAX_FILES = 20_000;
 const TOOL_COUNT_CACHE = new Map();
+const METRICS_BACKFILL = new Set();
+const METRICS_BACKFILL_QUEUE = [];
+let METRICS_BACKFILL_RUNNING = false;
 
 function summaryCacheKey(root, session, file) {
   return `${root}\u0000${session}\u0000${file}`;
@@ -312,9 +328,18 @@ function summarizeManifest(root, manifest, id) {
   const response = manifest.response ?? null;
   const light = {
     format: manifest.format,
+    ts: manifest.ts,
+    startedAt: manifest.startedAt ?? manifest.ts ?? null,
     request: { method: req.method, url: req.url, body: { model: meta.model } },
     response,
   };
+  const estInput = manifest.metrics?.estInput;
+  const estOutput = manifest.metrics?.estOutput;
+  const usage = usageSummary(light);
+  if (usage && estInput != null) {
+    usage.estInput = estInput;
+    usage.estOutput = estOutput ?? 0;
+  }
   return {
     id,
     session: manifest.session,
@@ -325,14 +350,14 @@ function summarizeManifest(root, manifest, id) {
     format: manifest.format || null,
     method: req.method,
     url: req.url,
-    model: meta.model || response?.model || null,
+    model: response?.model || meta.model || null,
     nMessages: Array.isArray(req.messages) ? req.messages.length : 0,
     nTools: toolCount(root, req.tools),
-    nToolUse: 0,
+    nToolUse: manifest.metrics?.nToolUse ?? 0,
     status: response?.status ?? null,
     error: response?.error ?? null,
     pending: !response,
-    usage: usageSummary(light),
+    usage,
   };
 }
 
@@ -343,13 +368,21 @@ function readSummaryFile(file, id, root, stat) {
   if (hit && hit.stamp === stamp) return hit.summary;
 
   let summary = null;
+  let manifest = null;
   try {
-    const manifest = JSON.parse(fs.readFileSync(file, "utf8"));
+    manifest = JSON.parse(fs.readFileSync(file, "utf8"));
     summary = manifest?.v === 2
       ? summarizeManifest(root, manifest, id)
       : summarize(readRecordFile(file, id, root));
   } catch {
     summary = null;
+  }
+  if (manifest?.v === 2 && !manifest.metrics && !METRICS_BACKFILL.has(file)) {
+    METRICS_BACKFILL.add(file);
+    // Keep only the locator in the queue. Holding the parsed manifest here
+    // would pin every large request body in memory until the backfill drains.
+    METRICS_BACKFILL_QUEUE.push({ file, id, root });
+    setImmediate(runMetricsBackfill);
   }
   if (summary) {
     if (SUMMARY_CACHE.size >= SUMMARY_CACHE_MAX_FILES) {
@@ -359,6 +392,83 @@ function readSummaryFile(file, id, root, stat) {
     SUMMARY_CACHE.set(key, { stamp, summary });
   }
   return summary;
+}
+
+// Async summary reader used by the HTTP list endpoint. A synchronous first
+// scan of a 600 MB session monopolizes the event loop, which makes a
+// concurrent delete response appear to hang. Read in small batches and yield
+// between them; cached files return immediately.
+async function readSummaryFileAsync(file, id, root, stat) {
+  const key = summaryCacheKey(root, path.dirname(file), path.basename(file));
+  const stamp = `${stat.mtimeMs}:${stat.size}`;
+  const hit = SUMMARY_CACHE.get(key);
+  if (hit && hit.stamp === stamp) return hit.summary;
+
+  let manifest = null;
+  let summary = null;
+  try {
+    manifest = JSON.parse(await fs.promises.readFile(file, "utf8"));
+    summary = manifest?.v === 2
+      ? summarizeManifest(root, manifest, id)
+      : summarize(readRecordFile(file, id, root));
+  } catch {
+    summary = null;
+  }
+  if (manifest?.v === 2 && !manifest.metrics && !METRICS_BACKFILL.has(file)) {
+    METRICS_BACKFILL.add(file);
+    METRICS_BACKFILL_QUEUE.push({ file, id, root });
+    setImmediate(runMetricsBackfill);
+  }
+  if (summary) {
+    if (SUMMARY_CACHE.size >= SUMMARY_CACHE_MAX_FILES) {
+      const oldest = SUMMARY_CACHE.keys().next().value;
+      if (oldest != null) SUMMARY_CACHE.delete(oldest);
+    }
+    SUMMARY_CACHE.set(key, { stamp, summary });
+  }
+  return summary;
+}
+
+function runMetricsBackfill() {
+  if (METRICS_BACKFILL_RUNNING) return;
+  const job = METRICS_BACKFILL_QUEUE.shift();
+  if (!job) return;
+  METRICS_BACKFILL_RUNNING = true;
+  setImmediate(() => {
+    backfillMetrics(job.file, job.id, job.root);
+    METRICS_BACKFILL_RUNNING = false;
+    runMetricsBackfill();
+  });
+}
+
+// Older v2 manifests predate the metrics field. Fill it in once in the
+// background so the dashboard can keep serving summaries without unpacking
+// history blobs on every request.
+function backfillMetrics(file, id, root) {
+  try {
+    const manifest = JSON.parse(fs.readFileSync(file, "utf8"));
+    if (!manifest || manifest.v !== 2 || manifest.metrics) return;
+    const rec = unpackRecord(root, manifest);
+    const response = rec.response?.raw
+      ? getAdapter(detectFormat(rec)).reassemble(rec.response.raw)
+      : rec.response || null;
+    manifest.metrics = {
+      estInput: estimateRequestTokens(rec.request?.body || {}),
+      estOutput: estimateResponseTokens(response),
+      nToolUse: countToolUse(Array.isArray(rec.request?.body?.messages)
+        ? rec.request.body.messages
+        : rec.request?.body?.input || []),
+    };
+    const tmp = `${file}.${process.pid}.metrics.tmp`;
+    fs.writeFileSync(tmp, JSON.stringify(manifest, null, 2));
+    fs.renameSync(tmp, file);
+    const key = summaryCacheKey(root, path.dirname(file), path.basename(file));
+    SUMMARY_CACHE.delete(key);
+  } catch {
+    /* best effort; a read-only root simply keeps the cheap fallback */
+  } finally {
+    METRICS_BACKFILL.delete(file);
+  }
 }
 
 /**
@@ -391,6 +501,46 @@ export function summarizeSessionMulti(roots, session) {
       const prev = byId.get(id);
       if (!prev || (summary.ts ?? 0) > (prev.ts ?? 0)) byId.set(id, summary);
     }
+  }
+  return [...byId.values()].sort((a, b) => (a.ts ?? 0) - (b.ts ?? 0));
+}
+
+export async function summarizeSessionMultiAsync(roots, session) {
+  const byId = new Map();
+  const entries = [];
+  for (const root of roots) {
+    const dir = path.join(root, session);
+    let files;
+    try {
+      files = (await fs.promises.readdir(dir)).filter((f) => f.endsWith(".json")).sort();
+    } catch {
+      continue;
+    }
+    for (const f of files) {
+      const file = path.join(dir, f);
+      let stat;
+      try {
+        stat = await fs.promises.stat(file);
+      } catch {
+        continue;
+      }
+      entries.push({ file, stat, id: `${session}/${f.replace(/\.json$/, "")}`, root });
+    }
+  }
+
+  const BATCH = 24;
+  for (let i = 0; i < entries.length; i += BATCH) {
+    const slice = entries.slice(i, i + BATCH);
+    const summaries = await Promise.all(
+      slice.map(({ file, stat, id, root }) => readSummaryFileAsync(file, id, root, stat))
+    );
+    for (let j = 0; j < slice.length; j++) {
+      const summary = summaries[j];
+      if (!summary) continue;
+      const prev = byId.get(slice[j].id);
+      if (!prev || (summary.ts ?? 0) > (prev.ts ?? 0)) byId.set(slice[j].id, summary);
+    }
+    await new Promise((resolve) => setImmediate(resolve));
   }
   return [...byId.values()].sort((a, b) => (a.ts ?? 0) - (b.ts ?? 0));
 }
@@ -484,6 +634,20 @@ export function readEntryById(root, id) {
 export function rmSession(root, session) {
   fs.rmSync(path.join(root, session), { recursive: true, force: true });
   gcBlobs(root, listSessions, (r, s) => path.join(r, s));
+}
+
+/** Remove whole session directories without waiting for orphaned-blob GC. */
+export function rmSessionFast(roots, session) {
+  const touched = [];
+  let removed = 0;
+  for (const root of roots) {
+    const dir = path.join(root, session);
+    if (!fs.existsSync(dir)) continue;
+    fs.rmSync(dir, { recursive: true, force: true });
+    touched.push(root);
+    removed++;
+  }
+  return { removed, touched };
 }
 
 /**

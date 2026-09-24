@@ -6,7 +6,7 @@ import http from "node:http";
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { summarize, listSessionsMulti, loadSessionMulti, summarizeSessionMulti, readEntryByIdMulti, rmEntryMulti, rmEntriesMulti, rmEntriesMultiFast, rmSession, listSessions, scheduleBlobGc } from "./store.js";
+import { summarize, listSessionsMulti, loadSessionMulti, summarizeSessionMulti, summarizeSessionMultiAsync, readEntryByIdMulti, rmEntriesMulti, rmEntriesMultiFast, rmSessionFast, listSessions, scheduleBlobGc } from "./store.js";
 import { getAdapter, detectFormat } from "./formats/index.js";
 import { aggregateSessionStats, latencyMs, requestTiming, sessionModels } from "./session-stats.js";
 import { diffBlockLists } from "./diff.js";
@@ -38,16 +38,16 @@ export function createServer({ roots, store }) {
     });
   }
 
-  return http.createServer((req, res) => {
+  return http.createServer(async (req, res) => {
     const url = new URL(req.url, "http://localhost");
     const p = url.pathname;
 
     try {
       if (p === "/api/sessions") return json(res, apiSessions(roots, store));
-      if (p === "/api/requests") return json(res, apiRequests(roots, store, url));
+      if (p === "/api/requests") return json(res, await apiRequests(roots, store, url));
       if (p === "/api/delete") return apiDelete(roots, store, url, req, res);
       if (p === "/api/delete-batch") return apiDeleteBatch(roots, store, req, res);
-      if (p === "/api/session-stats") return json(res, apiSessionStats(roots, store, url));
+      if (p === "/api/session-stats") return json(res, await apiSessionStats(roots, store, url));
       if (p === "/api/usage") return json(res, summarizeUsage(roots, { names: url.searchParams.get("names") === "1" }));
       if (p.startsWith("/api/request/")) return json(res, apiRequest(roots, store, decodeURIComponent(p.slice("/api/request/".length))));
       if (p === "/api/diff") return json(res, apiDiff(roots, store, url));
@@ -80,7 +80,7 @@ function sessionRecords(roots, store, session) {
   return loadSessionMulti(roots, session);
 }
 
-function apiRequests(roots, store, url) {
+async function apiRequests(roots, store, url) {
   const session = url.searchParams.get("session");
   if (store && (!session || session === store.sessionId)) {
     return { entries: store.entries.map(summarize) };
@@ -89,7 +89,7 @@ function apiRequests(roots, store, url) {
   // Prefer cached summaries for disk sessions. This endpoint is polled after
   // every deletion; unpacking hundreds of large manifests here is what made
   // delete look broken (the UI waited ~66 s for the refresh).
-  return { entries: summarizeSessionMulti(roots, session) };
+  return { entries: await summarizeSessionMultiAsync(roots, session) };
 }
 
 // ---- deletion ------------------------------------------------------------
@@ -109,27 +109,28 @@ function apiDelete(roots, store, url, req, res) {
     if (parts.length !== 2 || !parts[0] || !parts[1]) {
       return json(res, { error: "invalid id" }, 400);
     }
-    const removed = rmEntryMulti(roots, id);
+    const result = rmEntriesMultiFast(roots, [id]);
+    if (!result.removed.length) return json(res, { error: "not found", id }, 404);
     if (store) store.remove(id);
-    if (!removed) return json(res, { error: "not found", id }, 404);
-    return json(res, { deleted: id, removed });
+    if (result.touched.length) {
+      setImmediate(() => scheduleBlobGc(result.touched, listSessions, (r, s) => path.join(r, s)));
+    }
+    return json(res, { deleted: id, removed: result.removed.length });
   }
 
   if (session) {
     if (session !== path.basename(session) || session === "." || session === "..") {
       return json(res, { error: "invalid session" }, 400);
     }
-    let removed = 0;
-    for (const root of roots) {
-      if (fs.existsSync(path.join(root, session))) {
-        rmSession(root, session);
-        removed++;
-      }
-    }
+    const result = rmSessionFast(roots, session);
+    const removed = result.removed;
     if (store && store.sessionId === session) {
       for (const e of [...store.entries]) store.remove(e.id);
     }
     if (!removed) return json(res, { error: "not found", session }, 404);
+    if (result.touched.length) {
+      setImmediate(() => scheduleBlobGc(result.touched, listSessions, (r, s) => path.join(r, s)));
+    }
     return json(res, { deleted: session, removed });
   }
 
@@ -181,11 +182,11 @@ async function apiDeleteBatch(roots, store, req, res) {
   return json(res, { deleted: removed, removed: removed.length });
 }
 
-function apiSessionStats(roots, store, url) {
+async function apiSessionStats(roots, store, url) {
   const session = url.searchParams.get("session");
   if (!session) return { error: "session required" };
   const live = store && session === store.sessionId;
-  const summaries = !live ? summarizeSessionMulti(roots, session) : null;
+  const summaries = !live ? await summarizeSessionMultiAsync(roots, session) : null;
   const model = url.searchParams.get("model") || "all";
   if (summaries) {
     const scoped = model && model !== "all"

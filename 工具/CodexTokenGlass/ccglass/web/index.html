@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Codex Token 消耗查询</title>
+    <meta name="color-scheme" content="dark light" />
+    <link rel="stylesheet" href="/style.css?v=20260924-select-all" />
+    <link rel="stylesheet" href="/stream.css?v=20260924-select-all" />
+    <script src="/theme.js"></script>
+  </head>
+  <body>
+    <header>
+      <span class="logo">● Token 消耗查询</span>
+      <select id="session"></select>
+      <span id="live" class="badge">实时</span>
+      <span class="spacer"></span>
+      <select id="modelFilter" class="model-filter" title="按模型筛选统计和延迟" hidden>
+        <option value="all">全部模型</option>
+      </select>
+      <div id="sessionStats" class="session-stats" hidden></div>
+      <select id="themeSelect" class="theme-select" title="主题">
+        <option value="system">跟随系统</option>
+        <option value="light">浅色</option>
+        <option value="dark">深色</option>
+      </select>
+      <button id="manageBtn" title="勾选左侧历史请求后批量删除">管理：关闭</button>
+      <button id="selectAllBtn" title="勾选/取消勾选当前会话中列出的全部请求" hidden>全选 (0)</button>
+      <button id="invertBtn" title="把当前列出的请求勾选状态取反" hidden>反选</button>
+      <button id="deleteSelectedBtn" class="danger" title="删除已勾选的请求" hidden>删除选中 (0)</button>
+      <button id="deleteSessionBtn" class="danger" title="删除当前选中的整个采集会话" hidden>删除本会话</button>
+      <button id="errorsBtn">错误 (0)</button>
+      <button id="diffBtn" title="选择两条请求进行对比">对比：关闭</button>
+      <button id="summaryBtn" title="汇总当前项目所有已捕获会话的 Token 和费用">汇总：关闭</button>
+    </header>
+    <main>
+      <aside>
+        <div id="latencyTrend" class="latency-trend" hidden></div>
+        <div id="list"></div>
+      </aside>
+      <section id="detail"><div class="empty">请选择一条请求，或开始在 Codex 中对话。</div></section>
+    </main>
+    <script src="/app.js?v=20260924-select-all"></script>
+  </body>
+</html>

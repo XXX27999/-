@@ -1,0 +1,143 @@
+{
+  "sourceFolder": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍",
+  "targetPath": "/IslandAuctionKing/Asset/TuPian/AuctionUI",
+  "textureGroup": 16,
+  "totalFiles": 11,
+  "files": [
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\中部区域.png",
+      "originalName": "中部区域.png",
+      "assetName": "xbuxx",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\价格输入.png",
+      "originalName": "价格输入.png",
+      "assetName": "jiaxxx",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\右侧竞拍仓库.png",
+      "originalName": "右侧竞拍仓库.png",
+      "assetName": "youcexxxx",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\名称.png",
+      "originalName": "名称.png",
+      "assetName": "mingcheng",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\左侧玩家席位.png",
+      "originalName": "左侧玩家席位.png",
+      "assetName": "xcexxxwei",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\底板.png",
+      "originalName": "底板.png",
+      "assetName": "dix",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\底色.png",
+      "originalName": "底色.png",
+      "assetName": "dix_1",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\底部报价.png",
+      "originalName": "底部报价.png",
+      "assetName": "dibuxjia",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\竞拍参考图.png",
+      "originalName": "竞拍参考图.png",
+      "assetName": "xxcankaotu",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\说明.png",
+      "originalName": "说明.png",
+      "assetName": "xx",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\长条UI底.png",
+      "originalName": "长条UI底.png",
+      "assetName": "xxUIdi",
+      "subDirectory": "",
+      "extension": ".png"
+    }
+  ],
+  "mapping": [
+    {
+      "original": "中部区域.png",
+      "asset": "xbuxx",
+      "path": "中部区域.png"
+    },
+    {
+      "original": "价格输入.png",
+      "asset": "jiaxxx",
+      "path": "价格输入.png"
+    },
+    {
+      "original": "右侧竞拍仓库.png",
+      "asset": "youcexxxx",
+      "path": "右侧竞拍仓库.png"
+    },
+    {
+      "original": "名称.png",
+      "asset": "mingcheng",
+      "path": "名称.png"
+    },
+    {
+      "original": "左侧玩家席位.png",
+      "asset": "xcexxxwei",
+      "path": "左侧玩家席位.png"
+    },
+    {
+      "original": "底板.png",
+      "asset": "dix",
+      "path": "底板.png"
+    },
+    {
+      "original": "底色.png",
+      "asset": "dix_1",
+      "path": "底色.png"
+    },
+    {
+      "original": "底部报价.png",
+      "asset": "dibuxjia",
+      "path": "底部报价.png"
+    },
+    {
+      "original": "竞拍参考图.png",
+      "asset": "xxcankaotu",
+      "path": "竞拍参考图.png"
+    },
+    {
+      "original": "说明.png",
+      "asset": "xx",
+      "path": "说明.png"
+    },
+    {
+      "original": "长条UI底.png",
+      "asset": "xxUIdi",
+      "path": "长条UI底.png"
+    }
+  ],
+  "timestamp": "2026-08-31T09:14:31.789Z"
+}

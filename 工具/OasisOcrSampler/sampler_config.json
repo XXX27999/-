@@ -1,0 +1,19 @@
+{
+  "adb_path": "D:\\知识库\\和平精英绿洲起源\\工具\\platform-tools\\adb.exe",
+  "rects": {
+    "标签": [
+      144,
+      487,
+      453,
+      543
+    ]
+  },
+  "card_count": 2,
+  "card_step": 500,
+  "ocr_scale": 4,
+  "layout_mode": "lobby",
+  "geom_version": 2,
+  "ncol": 3,
+  "row_step": 500,
+  "card_h": 170
+}

@@ -1,0 +1,126 @@
+==============================================================================
+地图项目：D:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\SearchInfectionZone
+生成时间：2026-09-14 15:37:55
+==============================================================================
+
+【表格文件夹】配置表 / DataTable 目录
+------------------------------------------------------------------------------
+表格文件夹  (Asset/Data)  [配置表 / DataTable 目录]
+├── Table/  ->  配置表
+│   ├── Customized/  ->  自定义
+│   │   ├── CollectibleDataTable.uasset  ->  收藏品数据表
+│   │   └── UGCTemplateRowStruct_CollectibleDataTable.uasset  ->  表格行结构模板：收藏品数据表
+│   ├── CollectibleTable.uasset  ->  收藏品表
+│   ├── ExUIList.uasset  ->  扩展界面列表
+│   ├── UGCBattleItem.uasset  ->  战斗物品
+│   ├── UGCDrop.uasset  ->  掉落
+│   ├── UGCDropGroup.uasset  ->  掉落组
+│   └── UGCWeaponAttachment.uasset  ->  武器配件
+└── DA_GameModeGeneral.uasset  ->  数据资产：游戏模式通用
+
+【UI 文件夹】界面蓝图预制体目录
+------------------------------------------------------------------------------
+UI 文件夹  (Asset/Blueprint/Prefabs/UI)  [界面蓝图预制体目录]
+├── Chest/  ->  箱子
+│   ├── ChestLootUI.uasset  ->  箱子掉落界面
+│   ├── ItemUI.uasset  ->  物品界面
+│   └── SouSUo.uasset  ->  搜索
+├── CustomBackpck/  ->  自定义背包
+│   ├── BackpackMainUI.uasset  ->  背包主界面
+│   ├── ItemUI.uasset  ->  物品界面
+│   └── TestUI.uasset  ->  测试界面
+├── Lobby/  ->  大厅
+│   ├── LobbyMain_UIBP.uasset  ->  大厅主界面
+│   └── PlayerAvatarFrame_UIBP.uasset  ->  玩家头像框
+└── Warehouse/  ->  仓库
+    └── WarehouseMainUI.uasset  ->  仓库主界面
+
+【物品文件夹】物品编辑器（物编）物品资产目录
+------------------------------------------------------------------------------
+物品文件夹  (Asset/Blueprint/Prefabs/Items)  [物品编辑器（物编）物品资产目录]
+├── AssaultRifles/  ->  突击步枪
+│   ├── AKM.uasset  ->  AKM
+│   ├── AKM_Blue.uasset  ->  AKM 蓝色
+│   ├── AKM_Green.uasset  ->  AKM 绿色
+│   ├── AKM_Orange.uasset  ->  AKM 橙色
+│   ├── AKM_Purple.uasset  ->  AKM 紫色
+│   ├── FAMAS.uasset  ->  FAMAS
+│   ├── FAMAS_Blue.uasset  ->  FAMAS 蓝色
+│   ├── FAMAS_Green.uasset  ->  FAMAS 绿色
+│   ├── FAMAS_Orange.uasset  ->  FAMAS 橙色
+│   ├── FAMAS_Purple.uasset  ->  FAMAS 紫色
+│   ├── Groza.uasset  ->  Groza
+│   ├── Groza_Blue.uasset  ->  Groza 蓝色
+│   ├── Groza_Green.uasset  ->  Groza 绿色
+│   ├── Groza_Orange.uasset  ->  Groza 橙色
+│   ├── Groza_Purple.uasset  ->  Groza 紫色
+│   ├── M16A4.uasset  ->  M16A4
+│   ├── M16A4_Blue.uasset  ->  M16A4 蓝色
+│   ├── M16A4_Green.uasset  ->  M16A4 绿色
+│   ├── M16A4_Orange.uasset  ->  M16A4 橙色
+│   ├── M16A4_Purple.uasset  ->  M16A4 紫色
+│   ├── M416.uasset  ->  M416
+│   ├── M416_Blue.uasset  ->  M416 蓝色
+│   ├── M416_Green.uasset  ->  M416 绿色
+│   ├── M416_Orange.uasset  ->  M416 橙色
+│   ├── M416_Purple.uasset  ->  M416 紫色
+│   ├── MK47.uasset  ->  MK47
+│   ├── MK47_Blue.uasset  ->  MK47 蓝色
+│   ├── MK47_Green.uasset  ->  MK47 绿色
+│   ├── MK47_Orange.uasset  ->  MK47 橙色
+│   ├── MK47_Purple.uasset  ->  MK47 紫色
+│   ├── QBZ.uasset  ->  QBZ
+│   ├── QBZ_Blue.uasset  ->  QBZ 蓝色
+│   ├── QBZ_Green.uasset  ->  QBZ 绿色
+│   ├── QBZ_Orange.uasset  ->  QBZ 橙色
+│   ├── QBZ_Purple.uasset  ->  QBZ 紫色
+│   ├── SCARL.uasset  ->  SCARL
+│   ├── SCARL_Blue.uasset  ->  SCARL 蓝色
+│   ├── SCARL_Green.uasset  ->  SCARL 绿色
+│   ├── SCARL_Orange.uasset  ->  SCARL 橙色
+│   └── SCARL_Purple.uasset  ->  SCARL 紫色
+├── CollectionItem/  ->  收藏品
+│   └── aa.uasset  ->  aa
+├── MachineGuns/  ->  机枪
+│   ├── M249.uasset  ->  M249
+│   ├── M249_Blue.uasset  ->  M249 蓝色
+│   ├── M249_Green.uasset  ->  M249 绿色
+│   ├── M249_Orange.uasset  ->  M249 橙色
+│   └── M249_Purple.uasset  ->  M249 紫色
+├── MarksmanRifles/  ->  精确射手步枪
+│   ├── MK14.uasset  ->  MK14
+│   ├── MK14_Blue.uasset  ->  MK14 蓝色
+│   ├── MK14_Green.uasset  ->  MK14 绿色
+│   ├── MK14_Orange.uasset  ->  MK14 橙色
+│   ├── MK14_Purple.uasset  ->  MK14 紫色
+│   ├── SKS.uasset  ->  SKS
+│   ├── SKS_Blue.uasset  ->  SKS 蓝色
+│   ├── SKS_Green.uasset  ->  SKS 绿色
+│   ├── SKS_Orange.uasset  ->  SKS 橙色
+│   └── SKS_Purple.uasset  ->  SKS 紫色
+├── SniperRifles/  ->  狙击步枪
+│   ├── AWM.uasset  ->  AWM
+│   ├── AWM_Blue.uasset  ->  AWM 蓝色
+│   ├── AWM_Green.uasset  ->  AWM 绿色
+│   ├── AWM_Orange.uasset  ->  AWM 橙色
+│   └── AWM_Purple.uasset  ->  AWM 紫色
+├── SubmachineGuns/  ->  冲锋枪
+│   ├── TommyGun.uasset  ->  汤姆逊冲锋枪
+│   ├── TommyGun_Blue.uasset  ->  汤姆逊冲锋枪蓝色
+│   ├── TommyGun_Green.uasset  ->  汤姆逊冲锋枪绿色
+│   ├── TommyGun_Orange.uasset  ->  汤姆逊冲锋枪橙色
+│   ├── TommyGun_Purple.uasset  ->  汤姆逊冲锋枪紫色
+│   ├── UMP45.uasset  ->  UMP45
+│   ├── UMP45_Blue.uasset  ->  UMP45 蓝色
+│   ├── UMP45_Green.uasset  ->  UMP45 绿色
+│   ├── UMP45_Orange.uasset  ->  UMP45 橙色
+│   ├── UMP45_Purple.uasset  ->  UMP45 紫色
+│   ├── Vector.uasset  ->  Vector
+│   ├── Vector_Blue.uasset  ->  Vector 蓝色
+│   ├── Vector_Green.uasset  ->  Vector 绿色
+│   ├── Vector_Orange.uasset  ->  Vector 橙色
+│   └── Vector_Purple.uasset  ->  Vector 紫色
+├── AidBag.uasset  ->  急救包
+└── kk.uasset  ->  kk
+
+扫描完成：15 个文件夹 · 96 个文件 · 合计 1.4 MB · 中文名完整率 87.5%

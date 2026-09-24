@@ -1,0 +1,5279 @@
+{
+  "sourceFolder": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍",
+  "targetPath": "/IslandAuctionKing/Asset/TuPian/Auction",
+  "textureGroup": 16,
+  "totalFiles": 439,
+  "files": [
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\主界面\\上半名称.png",
+      "originalName": "上半名称.png",
+      "assetName": "shangbanmingcheng",
+      "subDirectory": "主界面",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\主界面\\主界面UI参考.png",
+      "originalName": "主界面UI参考.png",
+      "assetName": "zhujiemianUIcankao",
+      "subDirectory": "主界面",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\主界面\\名称.png",
+      "originalName": "名称.png",
+      "assetName": "mingcheng",
+      "subDirectory": "主界面",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\主界面\\大厅右侧.png",
+      "originalName": "大厅右侧.png",
+      "assetName": "datingyouce",
+      "subDirectory": "主界面",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\主界面\\头像框.png",
+      "originalName": "头像框.png",
+      "assetName": "touxiangkuang",
+      "subDirectory": "主界面",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\主界面\\帮助按钮.png",
+      "originalName": "帮助按钮.png",
+      "assetName": "bangzhuanniu",
+      "subDirectory": "主界面",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\主界面\\每日任务.png",
+      "originalName": "每日任务.png",
+      "assetName": "meirirenwu",
+      "subDirectory": "主界面",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\主界面\\金币.png",
+      "originalName": "金币.png",
+      "assetName": "jinbi",
+      "subDirectory": "主界面",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\主界面\\金币UI.png",
+      "originalName": "金币UI.png",
+      "assetName": "jinbiUI",
+      "subDirectory": "主界面",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\主界面\\顶部UI.png",
+      "originalName": "顶部UI.png",
+      "assetName": "dingbuUI",
+      "subDirectory": "主界面",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\主界面\\领取保底金.png",
+      "originalName": "领取保底金.png",
+      "assetName": "lingqubaodijin",
+      "subDirectory": "主界面",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\价格输入.png",
+      "originalName": "价格输入.png",
+      "assetName": "jiaxxx",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\仓库.png",
+      "originalName": "仓库.png",
+      "assetName": "xx",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\展示柜.png",
+      "originalName": "展示柜.png",
+      "assetName": "zhanshix",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\放大镜图.png",
+      "originalName": "放大镜图.png",
+      "assetName": "xdaxtu",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\格子.png",
+      "originalName": "格子.png",
+      "assetName": "xzi",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\白色发光.png",
+      "originalName": "白色发光.png",
+      "assetName": "xxxguang",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\白色物品格.png",
+      "originalName": "白色物品格.png",
+      "assetName": "xxwuxx",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\紫色物品格.png",
+      "originalName": "紫色物品格.png",
+      "assetName": "xxwuxx_1",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\红色发光.png",
+      "originalName": "红色发光.png",
+      "assetName": "xxxguang_1",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\红色物品格.png",
+      "originalName": "红色物品格.png",
+      "assetName": "xxwuxx_2",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\绿色物品格.png",
+      "originalName": "绿色物品格.png",
+      "assetName": "xxwuxx_3",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\蓝色物品格.png",
+      "originalName": "蓝色物品格.png",
+      "assetName": "xxwuxx_4",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\金色发光.png",
+      "originalName": "金色发光.png",
+      "assetName": "jinxxguang",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\金色物品格.png",
+      "originalName": "金色物品格.png",
+      "assetName": "jinxwuxx",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\仓库\\黑色物品格.png",
+      "originalName": "黑色物品格.png",
+      "assetName": "xxwuxx_5",
+      "subDirectory": "可用/仓库",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\紫色\\便携制氧机.png",
+      "originalName": "便携制氧机.png",
+      "assetName": "xxxxx",
+      "subDirectory": "可用/道具/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\紫色\\便携制氧机（带底图.png",
+      "originalName": "便携制氧机（带底图.png",
+      "assetName": "xxxxxxditu",
+      "subDirectory": "可用/道具/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\紫色\\古代硬币匣.png",
+      "originalName": "古代硬币匣.png",
+      "assetName": "xxxbix",
+      "subDirectory": "可用/道具/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\紫色\\古代硬币匣（带底图.png",
+      "originalName": "古代硬币匣（带底图.png",
+      "assetName": "xxxbixxditu",
+      "subDirectory": "可用/道具/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\加密存储阵列.png",
+      "originalName": "加密存储阵列.png",
+      "assetName": "xxxxxx",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\加密存储阵列（带底图.png",
+      "originalName": "加密存储阵列（带底图.png",
+      "assetName": "xxxxxxxditu",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\时空裂隙样本.png",
+      "originalName": "时空裂隙样本.png",
+      "assetName": "xkongxxxx",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\时空裂隙样本（带底图.png",
+      "originalName": "时空裂隙样本（带底图.png",
+      "assetName": "xkongxxxxxditu",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\星辉钻石.png",
+      "originalName": "星辉钻石.png",
+      "assetName": "xxxx",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\星辉钻石（带底图.png",
+      "originalName": "星辉钻石（带底图.png",
+      "assetName": "xxxxxditu",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\永鲜补给仓.png",
+      "originalName": "永鲜补给仓.png",
+      "assetName": "xxxxx_1",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\永鲜补给仓（带底图.png",
+      "originalName": "永鲜补给仓（带底图.png",
+      "assetName": "xxxxxxditu_1",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\海岛之心原石.png",
+      "originalName": "海岛之心原石.png",
+      "assetName": "xxxxxx_1",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\海岛之心原石（带底图.png",
+      "originalName": "海岛之心原石（带底图.png",
+      "assetName": "xxxxxxxditu_1",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\猩红信号核心.png",
+      "originalName": "猩红信号核心.png",
+      "assetName": "xxxxxx_2",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\猩红信号核心（带底图.png",
+      "originalName": "猩红信号核心（带底图.png",
+      "assetName": "xxxxxxxditu_2",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\王冠碎片.png",
+      "originalName": "王冠碎片.png",
+      "assetName": "xxxx_1",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\王冠碎片（带底图.png",
+      "originalName": "王冠碎片（带底图.png",
+      "assetName": "xxxxxditu_1",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\磁悬浮核心.png",
+      "originalName": "磁悬浮核心.png",
+      "assetName": "xxxxx_2",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\磁悬浮核心（带底图.png",
+      "originalName": "磁悬浮核心（带底图.png",
+      "assetName": "xxxxxxditu_2",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\限量战术腕表.png",
+      "originalName": "限量战术腕表.png",
+      "assetName": "xxxxxx_3",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\红色\\限量战术腕表（带底图.png",
+      "originalName": "限量战术腕表（带底图.png",
+      "assetName": "xxxxxxxditu_3",
+      "subDirectory": "可用/道具/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\绿色\\便携太阳能板.png",
+      "originalName": "便携太阳能板.png",
+      "assetName": "xxxxnengx",
+      "subDirectory": "可用/道具/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\绿色\\便携太阳能板（带底图.png",
+      "originalName": "便携太阳能板（带底图.png",
+      "assetName": "xxxxnengxxditu",
+      "subDirectory": "可用/道具/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\绿色\\旧式唱片机.png",
+      "originalName": "旧式唱片机.png",
+      "assetName": "xxxxx_3",
+      "subDirectory": "可用/道具/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\绿色\\旧式唱片机（带底图.png",
+      "originalName": "旧式唱片机（带底图.png",
+      "assetName": "xxxxxxditu_3",
+      "subDirectory": "可用/道具/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\绿色\\潮汐观测仪.png",
+      "originalName": "潮汐观测仪.png",
+      "assetName": "xxxxx_4",
+      "subDirectory": "可用/道具/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\绿色\\潮汐观测仪（带底图.png",
+      "originalName": "潮汐观测仪（带底图.png",
+      "assetName": "xxxxxxditu_4",
+      "subDirectory": "可用/道具/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\蓝色\\军用电台.png",
+      "originalName": "军用电台.png",
+      "assetName": "xxxx_2",
+      "subDirectory": "可用/道具/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\蓝色\\军用电台（带底图.png",
+      "originalName": "军用电台（带底图.png",
+      "assetName": "xxxxxditu_2",
+      "subDirectory": "可用/道具/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\蓝色\\碳纤维旅行箱.png",
+      "originalName": "碳纤维旅行箱.png",
+      "assetName": "xxxxxx_4",
+      "subDirectory": "可用/道具/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具\\蓝色\\碳纤维旅行箱（带底图.png",
+      "originalName": "碳纤维旅行箱（带底图.png",
+      "assetName": "xxxxxxxditu_4",
+      "subDirectory": "可用/道具/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\紫色\\Ancient_Coin_Box.png",
+      "originalName": "Ancient_Coin_Box.png",
+      "assetName": "Ancient_Coin_Box",
+      "subDirectory": "可用/道具-英文/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\紫色\\Ancient_Coin_Box_With_Background.png",
+      "originalName": "Ancient_Coin_Box_With_Background.png",
+      "assetName": "Ancient_Coin_Box_With_Background",
+      "subDirectory": "可用/道具-英文/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\紫色\\Portable_Oxygen_Generator.png",
+      "originalName": "Portable_Oxygen_Generator.png",
+      "assetName": "Portable_Oxygen_Generator",
+      "subDirectory": "可用/道具-英文/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\紫色\\Portable_Oxygen_Generator_With_Background.png",
+      "originalName": "Portable_Oxygen_Generator_With_Background.png",
+      "assetName": "Portable_Oxygen_Generator_With_Background",
+      "subDirectory": "可用/道具-英文/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Crimson_Signal_Core.png",
+      "originalName": "Crimson_Signal_Core.png",
+      "assetName": "Crimson_Signal_Core",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Crimson_Signal_Core_With_Background.png",
+      "originalName": "Crimson_Signal_Core_With_Background.png",
+      "assetName": "Crimson_Signal_Core_With_Background",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Crown_Fragment.png",
+      "originalName": "Crown_Fragment.png",
+      "assetName": "Crown_Fragment",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Crown_Fragment_With_Background.png",
+      "originalName": "Crown_Fragment_With_Background.png",
+      "assetName": "Crown_Fragment_With_Background",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Encrypted_Storage_Array.png",
+      "originalName": "Encrypted_Storage_Array.png",
+      "assetName": "Encrypted_Storage_Array",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Encrypted_Storage_Array_With_Background.png",
+      "originalName": "Encrypted_Storage_Array_With_Background.png",
+      "assetName": "Encrypted_Storage_Array_With_Background",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Freshness_Supply_Crate.png",
+      "originalName": "Freshness_Supply_Crate.png",
+      "assetName": "Freshness_Supply_Crate",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Freshness_Supply_Crate_With_Background.png",
+      "originalName": "Freshness_Supply_Crate_With_Background.png",
+      "assetName": "Freshness_Supply_Crate_With_Background",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Island_Heart_Raw_Stone.png",
+      "originalName": "Island_Heart_Raw_Stone.png",
+      "assetName": "Island_Heart_Raw_Stone",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Island_Heart_Raw_Stone_With_Background.png",
+      "originalName": "Island_Heart_Raw_Stone_With_Background.png",
+      "assetName": "Island_Heart_Raw_Stone_With_Background",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Limited_Tactical_Watch.png",
+      "originalName": "Limited_Tactical_Watch.png",
+      "assetName": "Limited_Tactical_Watch",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Limited_Tactical_Watch_With_Background.png",
+      "originalName": "Limited_Tactical_Watch_With_Background.png",
+      "assetName": "Limited_Tactical_Watch_With_Background",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Maglev_Core.png",
+      "originalName": "Maglev_Core.png",
+      "assetName": "Maglev_Core",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Maglev_Core_With_Background.png",
+      "originalName": "Maglev_Core_With_Background.png",
+      "assetName": "Maglev_Core_With_Background",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Spacetime_Rift_Sample.png",
+      "originalName": "Spacetime_Rift_Sample.png",
+      "assetName": "Spacetime_Rift_Sample",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Spacetime_Rift_Sample_With_Background.png",
+      "originalName": "Spacetime_Rift_Sample_With_Background.png",
+      "assetName": "Spacetime_Rift_Sample_With_Background",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Starlight_Diamond.png",
+      "originalName": "Starlight_Diamond.png",
+      "assetName": "Starlight_Diamond",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\红色\\Starlight_Diamond_With_Background.png",
+      "originalName": "Starlight_Diamond_With_Background.png",
+      "assetName": "Starlight_Diamond_With_Background",
+      "subDirectory": "可用/道具-英文/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\绿色\\Portable_Solar_Panel.png",
+      "originalName": "Portable_Solar_Panel.png",
+      "assetName": "Portable_Solar_Panel",
+      "subDirectory": "可用/道具-英文/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\绿色\\Portable_Solar_Panel_With_Background.png",
+      "originalName": "Portable_Solar_Panel_With_Background.png",
+      "assetName": "Portable_Solar_Panel_With_Background",
+      "subDirectory": "可用/道具-英文/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\绿色\\Tide_Monitor.png",
+      "originalName": "Tide_Monitor.png",
+      "assetName": "Tide_Monitor",
+      "subDirectory": "可用/道具-英文/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\绿色\\Tide_Monitor_With_Background.png",
+      "originalName": "Tide_Monitor_With_Background.png",
+      "assetName": "Tide_Monitor_With_Background",
+      "subDirectory": "可用/道具-英文/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\绿色\\Vintage_Record_Player.png",
+      "originalName": "Vintage_Record_Player.png",
+      "assetName": "Vintage_Record_Player",
+      "subDirectory": "可用/道具-英文/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\绿色\\Vintage_Record_Player_With_Background.png",
+      "originalName": "Vintage_Record_Player_With_Background.png",
+      "assetName": "Vintage_Record_Player_With_Background",
+      "subDirectory": "可用/道具-英文/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\蓝色\\Carbon_Fiber_Suitcase.png",
+      "originalName": "Carbon_Fiber_Suitcase.png",
+      "assetName": "Carbon_Fiber_Suitcase",
+      "subDirectory": "可用/道具-英文/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\蓝色\\Carbon_Fiber_Suitcase_With_Background.png",
+      "originalName": "Carbon_Fiber_Suitcase_With_Background.png",
+      "assetName": "Carbon_Fiber_Suitcase_With_Background",
+      "subDirectory": "可用/道具-英文/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\蓝色\\Military_Radio.png",
+      "originalName": "Military_Radio.png",
+      "assetName": "Military_Radio",
+      "subDirectory": "可用/道具-英文/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\道具-英文\\蓝色\\Military_Radio_With_Background.png",
+      "originalName": "Military_Radio_With_Background.png",
+      "assetName": "Military_Radio_With_Background",
+      "subDirectory": "可用/道具-英文/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\右侧图鉴层.png",
+      "originalName": "右侧图鉴层.png",
+      "assetName": "youcetuxx",
+      "subDirectory": "图鉴",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\名称UI.png",
+      "originalName": "名称UI.png",
+      "assetName": "mingchengUI",
+      "subDirectory": "图鉴",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\图鉴参考图.png",
+      "originalName": "图鉴参考图.png",
+      "assetName": "tuxcankaotu",
+      "subDirectory": "图鉴",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\左侧UI选项.png",
+      "originalName": "左侧UI选项.png",
+      "assetName": "xceUIxuanx",
+      "subDirectory": "图鉴",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\左侧选项格.png",
+      "originalName": "左侧选项格.png",
+      "assetName": "xcexuanxx",
+      "subDirectory": "图鉴",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\底板.png",
+      "originalName": "底板.png",
+      "assetName": "dix",
+      "subDirectory": "图鉴",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\最顶部UI.png",
+      "originalName": "最顶部UI.png",
+      "assetName": "xdingbuUI",
+      "subDirectory": "图鉴",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\滚轮.png",
+      "originalName": "滚轮.png",
+      "assetName": "xx_1",
+      "subDirectory": "图鉴",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\滚轮底.png",
+      "originalName": "滚轮底.png",
+      "assetName": "xxdi",
+      "subDirectory": "图鉴",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\背景底.png",
+      "originalName": "背景底.png",
+      "assetName": "beijingdi",
+      "subDirectory": "图鉴",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\藏品格子.png",
+      "originalName": "藏品格子.png",
+      "assetName": "xxxzi",
+      "subDirectory": "图鉴",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\退出叉号.png",
+      "originalName": "退出叉号.png",
+      "assetName": "xxxx_3",
+      "subDirectory": "图鉴",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\参考.png",
+      "originalName": "参考.png",
+      "assetName": "cankao",
+      "subDirectory": "技能",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\技能勾选.png",
+      "originalName": "技能勾选.png",
+      "assetName": "jinenggouxuan",
+      "subDirectory": "技能",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\技能底.png",
+      "originalName": "技能底.png",
+      "assetName": "jinengdi",
+      "subDirectory": "技能",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\技能底部栏.png",
+      "originalName": "技能底部栏.png",
+      "assetName": "jinengdibulan",
+      "subDirectory": "技能",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\滑动块.png",
+      "originalName": "滑动块.png",
+      "assetName": "xxx",
+      "subDirectory": "技能",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\空槽位.png",
+      "originalName": "空槽位.png",
+      "assetName": "kongcaowei",
+      "subDirectory": "技能",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\选项格.png",
+      "originalName": "选项格.png",
+      "assetName": "xuanxx",
+      "subDirectory": "技能",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\长条透明底.png",
+      "originalName": "长条透明底.png",
+      "assetName": "xxxxdi",
+      "subDirectory": "技能",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\107d395a-bf39-4cbf-a70e-6dfce25b5ebc.png",
+      "originalName": "107d395a-bf39-4cbf-a70e-6dfce25b5ebc.png",
+      "assetName": "Image_107d395a_bf39_4cbf_a70e_6dfce25b5ebc",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\215c258c-f403-48b1-8780-8263d43b535f.png",
+      "originalName": "215c258c-f403-48b1-8780-8263d43b535f.png",
+      "assetName": "Image_215c258c_f403_48b1_8780_8263d43b535f",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\23fed2a9-df20-4670-a1ba-f0af6576a5e7.png",
+      "originalName": "23fed2a9-df20-4670-a1ba-f0af6576a5e7.png",
+      "assetName": "Image_23fed2a9_df20_4670_a1ba_f0af6576a5e7",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\2a5ff2e1-d7af-4d23-906b-5045d4442898.png",
+      "originalName": "2a5ff2e1-d7af-4d23-906b-5045d4442898.png",
+      "assetName": "Image_2a5ff2e1_d7af_4d23_906b_5045d4442898",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\366982da-37bf-410b-a5ed-c53fcaf9623f.png",
+      "originalName": "366982da-37bf-410b-a5ed-c53fcaf9623f.png",
+      "assetName": "Image_366982da_37bf_410b_a5ed_c53fcaf9623f",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\463416b4-6d78-4053-9b30-9e5616d03521.png",
+      "originalName": "463416b4-6d78-4053-9b30-9e5616d03521.png",
+      "assetName": "Image_463416b4_6d78_4053_9b30_9e5616d03521",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\51e5a1cd-14fd-497d-a278-6bc6ac63fd09.png",
+      "originalName": "51e5a1cd-14fd-497d-a278-6bc6ac63fd09.png",
+      "assetName": "Image_51e5a1cd_14fd_497d_a278_6bc6ac63fd09",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\573466de-1efe-4f88-8698-ed9b78e02938.png",
+      "originalName": "573466de-1efe-4f88-8698-ed9b78e02938.png",
+      "assetName": "Image_573466de_1efe_4f88_8698_ed9b78e02938",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\5ae4625f-5497-48ab-8726-fad667a7c904.png",
+      "originalName": "5ae4625f-5497-48ab-8726-fad667a7c904.png",
+      "assetName": "Image_5ae4625f_5497_48ab_8726_fad667a7c904",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\6e65022e-44d4-435b-ace6-437b4442c819.png",
+      "originalName": "6e65022e-44d4-435b-ace6-437b4442c819.png",
+      "assetName": "Image_6e65022e_44d4_435b_ace6_437b4442c819",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\819a15a7-e21f-452e-a47d-535e52310353.png",
+      "originalName": "819a15a7-e21f-452e-a47d-535e52310353.png",
+      "assetName": "Image_819a15a7_e21f_452e_a47d_535e52310353",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\84d65634-b099-4718-88f1-4dbe12d68512.png",
+      "originalName": "84d65634-b099-4718-88f1-4dbe12d68512.png",
+      "assetName": "Image_84d65634_b099_4718_88f1_4dbe12d68512",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\9012d33d-3335-477b-a4fd-4ac0f268ee5a.png",
+      "originalName": "9012d33d-3335-477b-a4fd-4ac0f268ee5a.png",
+      "assetName": "Image_9012d33d_3335_477b_a4fd_4ac0f268ee5a",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\a0ed9d83-6f01-49d1-a0cf-d832bd6c26a6.png",
+      "originalName": "a0ed9d83-6f01-49d1-a0cf-d832bd6c26a6.png",
+      "assetName": "a0ed9d83_6f01_49d1_a0cf_d832bd6c26a6",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\a2ed075a-7d0e-4eb0-bde5-3e62d6fb77e7.png",
+      "originalName": "a2ed075a-7d0e-4eb0-bde5-3e62d6fb77e7.png",
+      "assetName": "a2ed075a_7d0e_4eb0_bde5_3e62d6fb77e7",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\a58bb935-b6cb-43e9-a09a-9a8618f00f3d.png",
+      "originalName": "a58bb935-b6cb-43e9-a09a-9a8618f00f3d.png",
+      "assetName": "a58bb935_b6cb_43e9_a09a_9a8618f00f3d",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\a8bf8640-9860-4b12-91ce-7e331c5917cc.png",
+      "originalName": "a8bf8640-9860-4b12-91ce-7e331c5917cc.png",
+      "assetName": "a8bf8640_9860_4b12_91ce_7e331c5917cc",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\af0aa8af-e9bf-4a0d-8c54-2333dbd3f619.png",
+      "originalName": "af0aa8af-e9bf-4a0d-8c54-2333dbd3f619.png",
+      "assetName": "af0aa8af_e9bf_4a0d_8c54_2333dbd3f619",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\be53d2e4-b6ea-4b87-acf9-89523704a236.png",
+      "originalName": "be53d2e4-b6ea-4b87-acf9-89523704a236.png",
+      "assetName": "be53d2e4_b6ea_4b87_acf9_89523704a236",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\c57fb46a-0145-42af-9025-7ec1b0d9734e.png",
+      "originalName": "c57fb46a-0145-42af-9025-7ec1b0d9734e.png",
+      "assetName": "c57fb46a_0145_42af_9025_7ec1b0d9734e",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\c845b041-9042-4e8a-bd6a-f7318b56d0a8.png",
+      "originalName": "c845b041-9042-4e8a-bd6a-f7318b56d0a8.png",
+      "assetName": "c845b041_9042_4e8a_bd6a_f7318b56d0a8",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\d3073415-851e-4b24-89b8-2ba6035ac1b4.png",
+      "originalName": "d3073415-851e-4b24-89b8-2ba6035ac1b4.png",
+      "assetName": "d3073415_851e_4b24_89b8_2ba6035ac1b4",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\e1b63d06-67a0-4e6a-8388-b305419a06cf.png",
+      "originalName": "e1b63d06-67a0-4e6a-8388-b305419a06cf.png",
+      "assetName": "e1b63d06_67a0_4e6a_8388_b305419a06cf",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\e6ee6e2b-41f9-4d50-96a2-bd2d160c637a.png",
+      "originalName": "e6ee6e2b-41f9-4d50-96a2-bd2d160c637a.png",
+      "assetName": "e6ee6e2b_41f9_4d50_96a2_bd2d160c637a",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\格子\\ef1c543d-6406-42bd-ae16-f635151b91e0.png",
+      "originalName": "ef1c543d-6406-42bd-ae16-f635151b91e0.png",
+      "assetName": "ef1c543d_6406_42bd_ae16_f635151b91e0",
+      "subDirectory": "格子",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\中部区域.png",
+      "originalName": "中部区域.png",
+      "assetName": "xbuxx",
+      "subDirectory": "竞拍",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\价格输入.png",
+      "originalName": "价格输入.png",
+      "assetName": "jiaxxx_1",
+      "subDirectory": "竞拍",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\右侧竞拍仓库.png",
+      "originalName": "右侧竞拍仓库.png",
+      "assetName": "youcexxxx",
+      "subDirectory": "竞拍",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\名称.png",
+      "originalName": "名称.png",
+      "assetName": "mingcheng_1",
+      "subDirectory": "竞拍",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\左侧玩家席位.png",
+      "originalName": "左侧玩家席位.png",
+      "assetName": "xcexxxwei",
+      "subDirectory": "竞拍",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\底板.png",
+      "originalName": "底板.png",
+      "assetName": "dix_1",
+      "subDirectory": "竞拍",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\底色.png",
+      "originalName": "底色.png",
+      "assetName": "dix_2",
+      "subDirectory": "竞拍",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\底部报价.png",
+      "originalName": "底部报价.png",
+      "assetName": "dibuxjia",
+      "subDirectory": "竞拍",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\竞拍参考图.png",
+      "originalName": "竞拍参考图.png",
+      "assetName": "xxcankaotu",
+      "subDirectory": "竞拍",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\说明.png",
+      "originalName": "说明.png",
+      "assetName": "xx_2",
+      "subDirectory": "竞拍",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\竞拍\\长条UI底.png",
+      "originalName": "长条UI底.png",
+      "assetName": "xxUIdi",
+      "subDirectory": "竞拍",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\说明\\箭头右.png",
+      "originalName": "箭头右.png",
+      "assetName": "xtouyou",
+      "subDirectory": "说明",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\说明\\箭头左.png",
+      "originalName": "箭头左.png",
+      "assetName": "xtoux",
+      "subDirectory": "说明",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\说明\\说明.png",
+      "originalName": "说明.png",
+      "assetName": "xx_3",
+      "subDirectory": "说明",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\说明\\说明参考图.png",
+      "originalName": "说明参考图.png",
+      "assetName": "xxcankaotu_1",
+      "subDirectory": "说明",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Amber_Pendant.png",
+      "originalName": "Amber_Pendant.png",
+      "assetName": "Amber_Pendant",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Amber_Pendant_BG.png",
+      "originalName": "Amber_Pendant_BG.png",
+      "assetName": "Amber_Pendant_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Anti_Gravity_Fragment.png",
+      "originalName": "Anti_Gravity_Fragment.png",
+      "assetName": "Anti_Gravity_Fragment",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Anti_Gravity_Fragment_BG.png",
+      "originalName": "Anti_Gravity_Fragment_BG.png",
+      "assetName": "Anti_Gravity_Fragment_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Battlefield_Medical_Kit.png",
+      "originalName": "Battlefield_Medical_Kit.png",
+      "assetName": "Battlefield_Medical_Kit",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Battlefield_Medical_Kit_BG.png",
+      "originalName": "Battlefield_Medical_Kit_BG.png",
+      "assetName": "Battlefield_Medical_Kit_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Carbon_Fiber_Travel_Case.png",
+      "originalName": "Carbon_Fiber_Travel_Case.png",
+      "assetName": "Carbon_Fiber_Travel_Case",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Carbon_Fiber_Travel_Case_BG.png",
+      "originalName": "Carbon_Fiber_Travel_Case_BG.png",
+      "assetName": "Carbon_Fiber_Travel_Case_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Explosion_Proof_Tool_Box.png",
+      "originalName": "Explosion_Proof_Tool_Box.png",
+      "assetName": "Explosion_Proof_Tool_Box",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Explosion_Proof_Tool_Box_BG.png",
+      "originalName": "Explosion_Proof_Tool_Box_BG.png",
+      "assetName": "Explosion_Proof_Tool_Box_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Freeze_Dried_Supply_Box.png",
+      "originalName": "Freeze_Dried_Supply_Box.png",
+      "assetName": "Freeze_Dried_Supply_Box",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Freeze_Dried_Supply_Box_BG.png",
+      "originalName": "Freeze_Dried_Supply_Box_BG.png",
+      "assetName": "Freeze_Dried_Supply_Box_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Glimmer_Mycelium_Sample.png",
+      "originalName": "Glimmer_Mycelium_Sample.png",
+      "assetName": "Glimmer_Mycelium_Sample",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Glimmer_Mycelium_Sample_BG.png",
+      "originalName": "Glimmer_Mycelium_Sample_BG.png",
+      "assetName": "Glimmer_Mycelium_Sample_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Military_Radio.png",
+      "originalName": "Military_Radio.png",
+      "assetName": "Military_Radio_1",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Military_Radio_BG.png",
+      "originalName": "Military_Radio_BG.png",
+      "assetName": "Military_Radio_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Mutated_Wood_Carving.png",
+      "originalName": "Mutated_Wood_Carving.png",
+      "assetName": "Mutated_Wood_Carving",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Mutated_Wood_Carving_BG.png",
+      "originalName": "Mutated_Wood_Carving_BG.png",
+      "assetName": "Mutated_Wood_Carving_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Obsidian_Carving.png",
+      "originalName": "Obsidian_Carving.png",
+      "assetName": "Obsidian_Carving",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Obsidian_Carving_BG.png",
+      "originalName": "Obsidian_Carving_BG.png",
+      "assetName": "Obsidian_Carving_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Old_Navigation_Chip.png",
+      "originalName": "Old_Navigation_Chip.png",
+      "assetName": "Old_Navigation_Chip",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Old_Navigation_Chip_BG.png",
+      "originalName": "Old_Navigation_Chip_BG.png",
+      "assetName": "Old_Navigation_Chip_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Portable_Water_Purifier.png",
+      "originalName": "Portable_Water_Purifier.png",
+      "assetName": "Portable_Water_Purifier",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Portable_Water_Purifier_BG.png",
+      "originalName": "Portable_Water_Purifier_BG.png",
+      "assetName": "Portable_Water_Purifier_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Premium_Battlefield_Coffee.png",
+      "originalName": "Premium_Battlefield_Coffee.png",
+      "assetName": "Premium_Battlefield_Coffee",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Premium_Battlefield_Coffee_BG.png",
+      "originalName": "Premium_Battlefield_Coffee_BG.png",
+      "assetName": "Premium_Battlefield_Coffee_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Rusty_Ship_Nameplate.png",
+      "originalName": "Rusty_Ship_Nameplate.png",
+      "assetName": "Rusty_Ship_Nameplate",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Rusty_Ship_Nameplate_BG.png",
+      "originalName": "Rusty_Ship_Nameplate_BG.png",
+      "assetName": "Rusty_Ship_Nameplate_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Tactical_Telescope.png",
+      "originalName": "Tactical_Telescope.png",
+      "assetName": "Tactical_Telescope",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Tactical_Telescope_BG.png",
+      "originalName": "Tactical_Telescope_BG.png",
+      "assetName": "Tactical_Telescope_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Vacuum_Ration_Box.png",
+      "originalName": "Vacuum_Ration_Box.png",
+      "assetName": "Vacuum_Ration_Box",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Blue\\Vacuum_Ration_Box_BG.png",
+      "originalName": "Vacuum_Ration_Box_BG.png",
+      "assetName": "Vacuum_Ration_Box_BG",
+      "subDirectory": "道具/Blue",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Blue_Flame_Sapphire.png",
+      "originalName": "Blue_Flame_Sapphire.png",
+      "assetName": "Blue_Flame_Sapphire",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Blue_Flame_Sapphire_BG.png",
+      "originalName": "Blue_Flame_Sapphire_BG.png",
+      "assetName": "Blue_Flame_Sapphire_BG",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Brass_Diving_Bell.png",
+      "originalName": "Brass_Diving_Bell.png",
+      "assetName": "Brass_Diving_Bell",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Brass_Diving_Bell_BG.png",
+      "originalName": "Brass_Diving_Bell_BG.png",
+      "assetName": "Brass_Diving_Bell_BG",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Emerald_Brooch.png",
+      "originalName": "Emerald_Brooch.png",
+      "assetName": "Emerald_Brooch",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Emerald_Brooch_BG.png",
+      "originalName": "Emerald_Brooch_BG.png",
+      "assetName": "Emerald_Brooch_BG",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Gilded_Military_Medal.png",
+      "originalName": "Gilded_Military_Medal.png",
+      "assetName": "Gilded_Military_Medal",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Gilded_Military_Medal_BG.png",
+      "originalName": "Gilded_Military_Medal_BG.png",
+      "assetName": "Gilded_Military_Medal_BG",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Golden_Caviar.png",
+      "originalName": "Golden_Caviar.png",
+      "assetName": "Golden_Caviar",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Golden_Caviar_BG.png",
+      "originalName": "Golden_Caviar_BG.png",
+      "assetName": "Golden_Caviar_BG",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Quantum_Rangefinder.png",
+      "originalName": "Quantum_Rangefinder.png",
+      "assetName": "Quantum_Rangefinder",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Quantum_Rangefinder_BG.png",
+      "originalName": "Quantum_Rangefinder_BG.png",
+      "assetName": "Quantum_Rangefinder_BG",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Retro_Typewriter.png",
+      "originalName": "Retro_Typewriter.png",
+      "assetName": "Retro_Typewriter",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Retro_Typewriter_BG.png",
+      "originalName": "Retro_Typewriter_BG.png",
+      "assetName": "Retro_Typewriter_BG",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Thermal_Imaging_Module.png",
+      "originalName": "Thermal_Imaging_Module.png",
+      "assetName": "Thermal_Imaging_Module",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Thermal_Imaging_Module_BG.png",
+      "originalName": "Thermal_Imaging_Module_BG.png",
+      "assetName": "Thermal_Imaging_Module_BG",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Titanium_Alloy_Drone.png",
+      "originalName": "Titanium_Alloy_Drone.png",
+      "assetName": "Titanium_Alloy_Drone",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Titanium_Alloy_Drone_BG.png",
+      "originalName": "Titanium_Alloy_Drone_BG.png",
+      "assetName": "Titanium_Alloy_Drone_BG",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Whisper_Black_Box.png",
+      "originalName": "Whisper_Black_Box.png",
+      "assetName": "Whisper_Black_Box",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Gold\\Whisper_Black_Box_BG.png",
+      "originalName": "Whisper_Black_Box_BG.png",
+      "assetName": "Whisper_Black_Box_BG",
+      "subDirectory": "道具/Gold",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Compressed_Biscuit_Box.png",
+      "originalName": "Compressed_Biscuit_Box.png",
+      "assetName": "Compressed_Biscuit_Box",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Compressed_Biscuit_Box_BG.png",
+      "originalName": "Compressed_Biscuit_Box_BG.png",
+      "assetName": "Compressed_Biscuit_Box_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Coral_Bead_Strand.png",
+      "originalName": "Coral_Bead_Strand.png",
+      "assetName": "Coral_Bead_Strand",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Coral_Bead_Strand_BG.png",
+      "originalName": "Coral_Bead_Strand_BG.png",
+      "assetName": "Coral_Bead_Strand_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\F2.png",
+      "originalName": "F2.png",
+      "assetName": "F2",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Hand_Drawn_Navigation_Log.png",
+      "originalName": "Hand_Drawn_Navigation_Log.png",
+      "assetName": "Hand_Drawn_Navigation_Log",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Hand_Drawn_Navigation_Log_BG.png",
+      "originalName": "Hand_Drawn_Navigation_Log_BG.png",
+      "assetName": "Hand_Drawn_Navigation_Log_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\High_Energy_Nutrient.png",
+      "originalName": "High_Energy_Nutrient.png",
+      "assetName": "High_Energy_Nutrient",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\High_Energy_Nutrient_BG.png",
+      "originalName": "High_Energy_Nutrient_BG.png",
+      "assetName": "High_Energy_Nutrient_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Instant_Self_Heating_Meal_Box.png",
+      "originalName": "Instant_Self_Heating_Meal_Box.png",
+      "assetName": "Instant_Self_Heating_Meal_Box",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Instant_Self_Heating_Meal_Box_BG.png",
+      "originalName": "Instant_Self_Heating_Meal_Box_BG.png",
+      "assetName": "Instant_Self_Heating_Meal_Box_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Magnetized_Fragment.png",
+      "originalName": "Magnetized_Fragment.png",
+      "assetName": "Magnetized_Fragment",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Magnetized_Fragment_BG.png",
+      "originalName": "Magnetized_Fragment_BG.png",
+      "assetName": "Magnetized_Fragment_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Military_Thermos.png",
+      "originalName": "Military_Thermos.png",
+      "assetName": "Military_Thermos",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Military_Thermos_BG.png",
+      "originalName": "Military_Thermos_BG.png",
+      "assetName": "Military_Thermos_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Portable_Solar_Panel.png",
+      "originalName": "Portable_Solar_Panel.png",
+      "assetName": "Portable_Solar_Panel_1",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Portable_Solar_Panel_BG.png",
+      "originalName": "Portable_Solar_Panel_BG.png",
+      "assetName": "Portable_Solar_Panel_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Precision_Circuit_Board.png",
+      "originalName": "Precision_Circuit_Board.png",
+      "assetName": "Precision_Circuit_Board",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Precision_Circuit_Board_BG.png",
+      "originalName": "Precision_Circuit_Board_BG.png",
+      "assetName": "Precision_Circuit_Board_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Quartz_Crystal_Cluster.png",
+      "originalName": "Quartz_Crystal_Cluster.png",
+      "assetName": "Quartz_Crystal_Cluster",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Quartz_Crystal_Cluster_BG.png",
+      "originalName": "Quartz_Crystal_Cluster_BG.png",
+      "assetName": "Quartz_Crystal_Cluster_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Sealed_Energy_Drink_Box.png",
+      "originalName": "Sealed_Energy_Drink_Box.png",
+      "assetName": "Sealed_Energy_Drink_Box",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Sealed_Energy_Drink_Box_BG.png",
+      "originalName": "Sealed_Energy_Drink_Box_BG.png",
+      "assetName": "Sealed_Energy_Drink_Box_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Tide_Observer.png",
+      "originalName": "Tide_Observer.png",
+      "assetName": "Tide_Observer",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Tide_Observer_BG.png",
+      "originalName": "Tide_Observer_BG.png",
+      "assetName": "Tide_Observer_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Vintage_Kerosene_Lamp.png",
+      "originalName": "Vintage_Kerosene_Lamp.png",
+      "assetName": "Vintage_Kerosene_Lamp",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Vintage_Kerosene_Lamp_BG.png",
+      "originalName": "Vintage_Kerosene_Lamp_BG.png",
+      "assetName": "Vintage_Kerosene_Lamp_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Vintage_Phonograph.png",
+      "originalName": "Vintage_Phonograph.png",
+      "assetName": "Vintage_Phonograph",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Vintage_Phonograph_BG.png",
+      "originalName": "Vintage_Phonograph_BG.png",
+      "assetName": "Vintage_Phonograph_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Waterproof_Tent_Bag.png",
+      "originalName": "Waterproof_Tent_Bag.png",
+      "assetName": "Waterproof_Tent_Bag",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Green\\Waterproof_Tent_Bag_BG.png",
+      "originalName": "Waterproof_Tent_Bag_BG.png",
+      "assetName": "Waterproof_Tent_Bag_BG",
+      "subDirectory": "道具/Green",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Abnormal_Spore_Sample.png",
+      "originalName": "Abnormal_Spore_Sample.png",
+      "assetName": "Abnormal_Spore_Sample",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Abnormal_Spore_Sample_BG.png",
+      "originalName": "Abnormal_Spore_Sample_BG.png",
+      "assetName": "Abnormal_Spore_Sample_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Amethyst_Rough.png",
+      "originalName": "Amethyst_Rough.png",
+      "assetName": "Amethyst_Rough",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Amethyst_Rough_BG.png",
+      "originalName": "Amethyst_Rough_BG.png",
+      "assetName": "Amethyst_Rough_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Ancient_Coin_Box.png",
+      "originalName": "Ancient_Coin_Box.png",
+      "assetName": "Ancient_Coin_Box_1",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Ancient_Coin_Box_BG.png",
+      "originalName": "Ancient_Coin_Box_BG.png",
+      "assetName": "Ancient_Coin_Box_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Battlefield_Pocket_Watch.png",
+      "originalName": "Battlefield_Pocket_Watch.png",
+      "assetName": "Battlefield_Pocket_Watch",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Battlefield_Pocket_Watch_BG.png",
+      "originalName": "Battlefield_Pocket_Watch_BG.png",
+      "assetName": "Battlefield_Pocket_Watch_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Electrostatic_Storm_Bottle.png",
+      "originalName": "Electrostatic_Storm_Bottle.png",
+      "assetName": "Electrostatic_Storm_Bottle",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Electrostatic_Storm_Bottle_BG.png",
+      "originalName": "Electrostatic_Storm_Bottle_BG.png",
+      "assetName": "Electrostatic_Storm_Bottle_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Encrypted_Data_Terminal.png",
+      "originalName": "Encrypted_Data_Terminal.png",
+      "assetName": "Encrypted_Data_Terminal",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Encrypted_Data_Terminal_BG.png",
+      "originalName": "Encrypted_Data_Terminal_BG.png",
+      "assetName": "Encrypted_Data_Terminal_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Folding_Drone.png",
+      "originalName": "Folding_Drone.png",
+      "assetName": "Folding_Drone",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Folding_Drone_BG.png",
+      "originalName": "Folding_Drone_BG.png",
+      "assetName": "Folding_Drone_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Moonstone_Bracelet.png",
+      "originalName": "Moonstone_Bracelet.png",
+      "assetName": "Moonstone_Bracelet",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Moonstone_Bracelet_BG.png",
+      "originalName": "Moonstone_Bracelet_BG.png",
+      "assetName": "Moonstone_Bracelet_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Old_Nautical_Chart_Scroll.png",
+      "originalName": "Old_Nautical_Chart_Scroll.png",
+      "assetName": "Old_Nautical_Chart_Scroll",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Old_Nautical_Chart_Scroll_BG.png",
+      "originalName": "Old_Nautical_Chart_Scroll_BG.png",
+      "assetName": "Old_Nautical_Chart_Scroll_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Portable_Oxygen_Generator.png",
+      "originalName": "Portable_Oxygen_Generator.png",
+      "assetName": "Portable_Oxygen_Generator_1",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Portable_Oxygen_Generator_BG.png",
+      "originalName": "Portable_Oxygen_Generator_BG.png",
+      "assetName": "Portable_Oxygen_Generator_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Radiant_Crystal_Box.png",
+      "originalName": "Radiant_Crystal_Box.png",
+      "assetName": "Radiant_Crystal_Box",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Radiant_Crystal_Box_BG.png",
+      "originalName": "Radiant_Crystal_Box_BG.png",
+      "assetName": "Radiant_Crystal_Box_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Steak_Cooler.png",
+      "originalName": "Steak_Cooler.png",
+      "assetName": "Steak_Cooler",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Steak_Cooler_BG.png",
+      "originalName": "Steak_Cooler_BG.png",
+      "assetName": "Steak_Cooler_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Vintage_Military_Compass.png",
+      "originalName": "Vintage_Military_Compass.png",
+      "assetName": "Vintage_Military_Compass",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Purple\\Vintage_Military_Compass_BG.png",
+      "originalName": "Vintage_Military_Compass_BG.png",
+      "assetName": "Vintage_Military_Compass_BG",
+      "subDirectory": "道具/Purple",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Crown_Fragment.png",
+      "originalName": "Crown_Fragment.png",
+      "assetName": "Crown_Fragment_1",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Crown_Fragment_BG.png",
+      "originalName": "Crown_Fragment_BG.png",
+      "assetName": "Crown_Fragment_BG",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Encrypted_Storage_Array.png",
+      "originalName": "Encrypted_Storage_Array.png",
+      "assetName": "Encrypted_Storage_Array_1",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Encrypted_Storage_Array_BG.png",
+      "originalName": "Encrypted_Storage_Array_BG.png",
+      "assetName": "Encrypted_Storage_Array_BG",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Fresh_Supply_Storage.png",
+      "originalName": "Fresh_Supply_Storage.png",
+      "assetName": "Fresh_Supply_Storage",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Fresh_Supply_Storage_BG.png",
+      "originalName": "Fresh_Supply_Storage_BG.png",
+      "assetName": "Fresh_Supply_Storage_BG",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Island_Heart_Rough_Stone.png",
+      "originalName": "Island_Heart_Rough_Stone.png",
+      "assetName": "Island_Heart_Rough_Stone",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Island_Heart_Rough_Stone_BG.png",
+      "originalName": "Island_Heart_Rough_Stone_BG.png",
+      "assetName": "Island_Heart_Rough_Stone_BG",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Limited_Tactical_Watch.png",
+      "originalName": "Limited_Tactical_Watch.png",
+      "assetName": "Limited_Tactical_Watch_1",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Limited_Tactical_Watch_BG.png",
+      "originalName": "Limited_Tactical_Watch_BG.png",
+      "assetName": "Limited_Tactical_Watch_BG",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Maglev_Core.png",
+      "originalName": "Maglev_Core.png",
+      "assetName": "Maglev_Core_1",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Maglev_Core_BG.png",
+      "originalName": "Maglev_Core_BG.png",
+      "assetName": "Maglev_Core_BG",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Scarlet_Signal_Core.png",
+      "originalName": "Scarlet_Signal_Core.png",
+      "assetName": "Scarlet_Signal_Core",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Scarlet_Signal_Core_BG.png",
+      "originalName": "Scarlet_Signal_Core_BG.png",
+      "assetName": "Scarlet_Signal_Core_BG",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Starlight_Diamond.png",
+      "originalName": "Starlight_Diamond.png",
+      "assetName": "Starlight_Diamond_1",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Starlight_Diamond_BG.png",
+      "originalName": "Starlight_Diamond_BG.png",
+      "assetName": "Starlight_Diamond_BG",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Time_Space_Rift_Sample.png",
+      "originalName": "Time_Space_Rift_Sample.png",
+      "assetName": "Time_Space_Rift_Sample",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\Red\\Time_Space_Rift_Sample_BG.png",
+      "originalName": "Time_Space_Rift_Sample_BG.png",
+      "assetName": "Time_Space_Rift_Sample_BG",
+      "subDirectory": "道具/Red",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Canned_Luncheon_Meat.png",
+      "originalName": "Canned_Luncheon_Meat.png",
+      "assetName": "Canned_Luncheon_Meat",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Canned_Luncheon_Meat_BG.png",
+      "originalName": "Canned_Luncheon_Meat_BG.png",
+      "assetName": "Canned_Luncheon_Meat_BG",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Commemorative_Can_Set.png",
+      "originalName": "Commemorative_Can_Set.png",
+      "assetName": "Commemorative_Can_Set",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Commemorative_Can_Set_BG.png",
+      "originalName": "Commemorative_Can_Set_BG.png",
+      "assetName": "Commemorative_Can_Set_BG",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Enamel_Water_Cup.png",
+      "originalName": "Enamel_Water_Cup.png",
+      "assetName": "Enamel_Water_Cup",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Enamel_Water_Cup_BG.png",
+      "originalName": "Enamel_Water_Cup_BG.png",
+      "assetName": "Enamel_Water_Cup_BG",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Folding_Cutlery.png",
+      "originalName": "Folding_Cutlery.png",
+      "assetName": "Folding_Cutlery",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Folding_Cutlery_BG.png",
+      "originalName": "Folding_Cutlery_BG.png",
+      "assetName": "Folding_Cutlery_BG",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Glass_Marble_Bag.png",
+      "originalName": "Glass_Marble_Bag.png",
+      "assetName": "Glass_Marble_Bag",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Glass_Marble_Bag_BG.png",
+      "originalName": "Glass_Marble_Bag_BG.png",
+      "assetName": "Glass_Marble_Bag_BG",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Old_Stamp_Album.png",
+      "originalName": "Old_Stamp_Album.png",
+      "assetName": "Old_Stamp_Album",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Old_Stamp_Album_BG.png",
+      "originalName": "Old_Stamp_Album_BG.png",
+      "assetName": "Old_Stamp_Album_BG",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Rolled_Bandage.png",
+      "originalName": "Rolled_Bandage.png",
+      "assetName": "Rolled_Bandage",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Rolled_Bandage_BG.png",
+      "originalName": "Rolled_Bandage_BG.png",
+      "assetName": "Rolled_Bandage_BG",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Slightly_Flawed_Crystal_Ball.png",
+      "originalName": "Slightly_Flawed_Crystal_Ball.png",
+      "assetName": "Slightly_Flawed_Crystal_Ball",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Slightly_Flawed_Crystal_Ball_BG.png",
+      "originalName": "Slightly_Flawed_Crystal_Ball_BG.png",
+      "assetName": "Slightly_Flawed_Crystal_Ball_BG",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Vinyl_Military_Music_Record.png",
+      "originalName": "Vinyl_Military_Music_Record.png",
+      "assetName": "Vinyl_Military_Music_Record",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具\\White\\Vinyl_Military_Music_Record_BG.png",
+      "originalName": "Vinyl_Military_Music_Record_BG.png",
+      "assetName": "Vinyl_Military_Music_Record_BG",
+      "subDirectory": "道具/White",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\午餐肉罐头.png",
+      "originalName": "午餐肉罐头.png",
+      "assetName": "xxxxtou",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\午餐肉罐头（带底图.png",
+      "originalName": "午餐肉罐头（带底图.png",
+      "assetName": "xxxxtouxditu",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\卷装绷带.png",
+      "originalName": "卷装绷带.png",
+      "assetName": "xzhuangxx",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\卷装绷带（带底图.png",
+      "originalName": "卷装绷带（带底图.png",
+      "assetName": "xzhuangxxxditu",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\微瑕水晶球(带底图.png",
+      "originalName": "微瑕水晶球(带底图.png",
+      "assetName": "xxxxxxditu_5",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\微瑕水晶球.png",
+      "originalName": "微瑕水晶球.png",
+      "assetName": "xxxxx_5",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\折叠餐具.png",
+      "originalName": "折叠餐具.png",
+      "assetName": "xxxju",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\折叠餐具（带底图.png",
+      "originalName": "折叠餐具（带底图.png",
+      "assetName": "xxxjuxditu",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\搪瓷水杯.png",
+      "originalName": "搪瓷水杯.png",
+      "assetName": "xxxx_4",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\搪瓷水杯（带底图.png",
+      "originalName": "搪瓷水杯（带底图.png",
+      "assetName": "xxxxxditu_3",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\旧邮票册.png",
+      "originalName": "旧邮票册.png",
+      "assetName": "xxxx_5",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\旧邮票册（带底图.png",
+      "originalName": "旧邮票册（带底图.png",
+      "assetName": "xxxxxditu_4",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\玻璃弹珠袋(带底图.png",
+      "originalName": "玻璃弹珠袋(带底图.png",
+      "assetName": "xxxxxxditu_6",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\玻璃弹珠袋.png",
+      "originalName": "玻璃弹珠袋.png",
+      "assetName": "xxxxx_6",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\纪念罐头套装.png",
+      "originalName": "纪念罐头套装.png",
+      "assetName": "xxxtouxzhuang",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\纪念罐头套装（带底图.png",
+      "originalName": "纪念罐头套装（带底图.png",
+      "assetName": "xxxtouxzhuangxditu",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\黑胶军乐唱片.png",
+      "originalName": "黑胶军乐唱片.png",
+      "assetName": "xxxxxx_5",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\白色\\黑胶军乐唱片（带底图.png",
+      "originalName": "黑胶军乐唱片（带底图.png",
+      "assetName": "xxxxxxxditu_5",
+      "subDirectory": "道具 - 副本/白色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\便携制氧机.png",
+      "originalName": "便携制氧机.png",
+      "assetName": "xxxxx_7",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\便携制氧机（带底图.png",
+      "originalName": "便携制氧机（带底图.png",
+      "assetName": "xxxxxxditu_7",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\加密数据终端.png",
+      "originalName": "加密数据终端.png",
+      "assetName": "xxxxxx_6",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\加密数据终端（带底图.png",
+      "originalName": "加密数据终端（带底图.png",
+      "assetName": "xxxxxxxditu_6",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\古代硬币匣.png",
+      "originalName": "古代硬币匣.png",
+      "assetName": "xxxbix_1",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\古代硬币匣（带底图.png",
+      "originalName": "古代硬币匣（带底图.png",
+      "assetName": "xxxbixxditu_1",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\异常孢子样本.png",
+      "originalName": "异常孢子样本.png",
+      "assetName": "xxxzixx",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\异常孢子样本（带底图.png",
+      "originalName": "异常孢子样本（带底图.png",
+      "assetName": "xxxzixxxditu",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\战地怀表.png",
+      "originalName": "战地怀表.png",
+      "assetName": "xxxx_6",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\战地怀表（带底图.png",
+      "originalName": "战地怀表（带底图.png",
+      "assetName": "xxxxxditu_5",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\折叠无人机.png",
+      "originalName": "折叠无人机.png",
+      "assetName": "xxxrenx",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\折叠无人机（带底图.png",
+      "originalName": "折叠无人机（带底图.png",
+      "assetName": "xxxrenxxditu",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\旧式军用罗盘.png",
+      "originalName": "旧式军用罗盘.png",
+      "assetName": "xxxxxpan",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\旧式军用罗盘（带底图.png",
+      "originalName": "旧式军用罗盘（带底图.png",
+      "assetName": "xxxxxpanxditu",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\旧海图密卷.png",
+      "originalName": "旧海图密卷.png",
+      "assetName": "xxtuxx",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\旧海图密卷（带底图.png",
+      "originalName": "旧海图密卷（带底图.png",
+      "assetName": "xxtuxxxditu",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\月光石手链.png",
+      "originalName": "月光石手链.png",
+      "assetName": "xguangxxx",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\月光石手链（带底图.png",
+      "originalName": "月光石手链（带底图.png",
+      "assetName": "xguangxxxxditu",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\牛排冷藏箱.png",
+      "originalName": "牛排冷藏箱.png",
+      "assetName": "xxxxx_8",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\牛排冷藏箱（带底图.png",
+      "originalName": "牛排冷藏箱（带底图.png",
+      "assetName": "xxxxxxditu_8",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\紫晶原矿(带底图.png",
+      "originalName": "紫晶原矿(带底图.png",
+      "assetName": "xxxxxditu_6",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\紫晶原矿.png",
+      "originalName": "紫晶原矿.png",
+      "assetName": "xxxx_7",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\辐光结晶盒.png",
+      "originalName": "辐光结晶盒.png",
+      "assetName": "xguangxxx_1",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\辐光结晶盒（带底图.png",
+      "originalName": "辐光结晶盒（带底图.png",
+      "assetName": "xguangxxxxditu_1",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\静电风暴瓶.png",
+      "originalName": "静电风暴瓶.png",
+      "assetName": "xxxxx_9",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\紫色\\静电风暴瓶（带底图.png",
+      "originalName": "静电风暴瓶（带底图.png",
+      "assetName": "xxxxxxditu_9",
+      "subDirectory": "道具 - 副本/紫色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\加密存储阵列.png",
+      "originalName": "加密存储阵列.png",
+      "assetName": "xxxxxx_7",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\加密存储阵列（带底图.png",
+      "originalName": "加密存储阵列（带底图.png",
+      "assetName": "xxxxxxxditu_7",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\时空裂隙样本.png",
+      "originalName": "时空裂隙样本.png",
+      "assetName": "xkongxxxx_1",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\时空裂隙样本（带底图.png",
+      "originalName": "时空裂隙样本（带底图.png",
+      "assetName": "xkongxxxxxditu_1",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\星辉钻石.png",
+      "originalName": "星辉钻石.png",
+      "assetName": "xxxx_8",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\星辉钻石（带底图.png",
+      "originalName": "星辉钻石（带底图.png",
+      "assetName": "xxxxxditu_7",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\永鲜补给仓.png",
+      "originalName": "永鲜补给仓.png",
+      "assetName": "xxxxx_10",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\永鲜补给仓（带底图.png",
+      "originalName": "永鲜补给仓（带底图.png",
+      "assetName": "xxxxxxditu_10",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\海岛之心原石.png",
+      "originalName": "海岛之心原石.png",
+      "assetName": "xxxxxx_8",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\海岛之心原石（带底图.png",
+      "originalName": "海岛之心原石（带底图.png",
+      "assetName": "xxxxxxxditu_8",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\猩红信号核心.png",
+      "originalName": "猩红信号核心.png",
+      "assetName": "xxxxxx_9",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\猩红信号核心（带底图.png",
+      "originalName": "猩红信号核心（带底图.png",
+      "assetName": "xxxxxxxditu_9",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\王冠碎片.png",
+      "originalName": "王冠碎片.png",
+      "assetName": "xxxx_9",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\王冠碎片（带底图.png",
+      "originalName": "王冠碎片（带底图.png",
+      "assetName": "xxxxxditu_8",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\磁悬浮核心.png",
+      "originalName": "磁悬浮核心.png",
+      "assetName": "xxxxx_11",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\磁悬浮核心（带底图.png",
+      "originalName": "磁悬浮核心（带底图.png",
+      "assetName": "xxxxxxditu_11",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\限量战术腕表.png",
+      "originalName": "限量战术腕表.png",
+      "assetName": "xxxxxx_10",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\红色\\限量战术腕表（带底图.png",
+      "originalName": "限量战术腕表（带底图.png",
+      "assetName": "xxxxxxxditu_10",
+      "subDirectory": "道具 - 副本/红色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\便携太阳能板.png",
+      "originalName": "便携太阳能板.png",
+      "assetName": "xxxxnengx_1",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\便携太阳能板（带底图.png",
+      "originalName": "便携太阳能板（带底图.png",
+      "assetName": "xxxxnengxxditu_1",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\军用保温壶.png",
+      "originalName": "军用保温壶.png",
+      "assetName": "xxbaoxx",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\军用保温壶（带底图.png",
+      "originalName": "军用保温壶（带底图.png",
+      "assetName": "xxbaoxxxditu",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\压缩饼干箱.png",
+      "originalName": "压缩饼干箱.png",
+      "assetName": "xxxxx_12",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\压缩饼干箱（带底图.png",
+      "originalName": "压缩饼干箱（带底图.png",
+      "assetName": "xxxxxxditu_12",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\密封能量饮料箱.png",
+      "originalName": "密封能量饮料箱.png",
+      "assetName": "xxnengxxxx",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\密封能量饮料箱（带底图.png",
+      "originalName": "密封能量饮料箱（带底图.png",
+      "assetName": "xxnengxxxxxditu",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\手绘航海日志(带底图.png",
+      "originalName": "手绘航海日志(带底图.png",
+      "assetName": "xxxxrixxditu",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\手绘航海日志.png",
+      "originalName": "手绘航海日志.png",
+      "assetName": "xxxxrix",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\旧式唱片机.png",
+      "originalName": "旧式唱片机.png",
+      "assetName": "xxxxx_13",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\旧式唱片机（带底图.png",
+      "originalName": "旧式唱片机（带底图.png",
+      "assetName": "xxxxxxditu_13",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\潮汐观测仪.png",
+      "originalName": "潮汐观测仪.png",
+      "assetName": "xxxxx_14",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\潮汐观测仪（带底图.png",
+      "originalName": "潮汐观测仪（带底图.png",
+      "assetName": "xxxxxxditu_14",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\珊瑚珠串(带底图.png",
+      "originalName": "珊瑚珠串(带底图.png",
+      "assetName": "xxxxxditu_9",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\珊瑚珠串.png",
+      "originalName": "珊瑚珠串.png",
+      "assetName": "xxxx_10",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\石英晶簇.png",
+      "originalName": "石英晶簇.png",
+      "assetName": "xxxx_11",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\石英晶簇（带底图.png",
+      "originalName": "石英晶簇（带底图.png",
+      "assetName": "xxxxxditu_10",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\磁化碎片.png",
+      "originalName": "磁化碎片.png",
+      "assetName": "xxxx_12",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\磁化碎片（带底图.png",
+      "originalName": "磁化碎片（带底图.png",
+      "assetName": "xxxxxditu_11",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\精密电路板.png",
+      "originalName": "精密电路板.png",
+      "assetName": "xxxxx_15",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\精密电路板（带底图.png",
+      "originalName": "精密电路板（带底图.png",
+      "assetName": "xxxxxxditu_15",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\老式煤油灯.png",
+      "originalName": "老式煤油灯.png",
+      "assetName": "xxxxx_16",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\老式煤油灯（带底图.png",
+      "originalName": "老式煤油灯（带底图.png",
+      "assetName": "xxxxxxditu_16",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\速食自热餐箱(带底图.png",
+      "originalName": "速食自热餐箱(带底图.png",
+      "assetName": "xxxxxxxditu_11",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\速食自热餐箱.png",
+      "originalName": "速食自热餐箱.png",
+      "assetName": "xxxxxx_11",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\防水帐篷包(带底图.png",
+      "originalName": "防水帐篷包(带底图.png",
+      "assetName": "xxxxxxditu_17",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\防水帐篷包.png",
+      "originalName": "防水帐篷包.png",
+      "assetName": "xxxxx_17",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\高能营养剂.png",
+      "originalName": "高能营养剂.png",
+      "assetName": "xnengxxx",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\绿色\\高能营养剂（带底图.png",
+      "originalName": "高能营养剂（带底图.png",
+      "assetName": "xnengxxxxditu",
+      "subDirectory": "道具 - 副本/绿色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\便携净水器.png",
+      "originalName": "便携净水器.png",
+      "assetName": "xxxxx_18",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\便携净水器（带底图.png",
+      "originalName": "便携净水器（带底图.png",
+      "assetName": "xxxxxxditu_18",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\军用电台.png",
+      "originalName": "军用电台.png",
+      "assetName": "xxxx_13",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\军用电台（带底图.png",
+      "originalName": "军用电台（带底图.png",
+      "assetName": "xxxxxditu_12",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\冻干补给箱.png",
+      "originalName": "冻干补给箱.png",
+      "assetName": "xxxxx_19",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\冻干补给箱（带底图.png",
+      "originalName": "冻干补给箱（带底图.png",
+      "assetName": "xxxxxxditu_19",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\反重力碎片.png",
+      "originalName": "反重力碎片.png",
+      "assetName": "xxxxx_20",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\反重力碎片（带底图.png",
+      "originalName": "反重力碎片（带底图.png",
+      "assetName": "xxxxxxditu_20",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\异变木雕.png",
+      "originalName": "异变木雕.png",
+      "assetName": "xxxx_14",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\异变木雕（带底图.png",
+      "originalName": "异变木雕（带底图.png",
+      "assetName": "xxxxxditu_13",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\微光菌丝样本.png",
+      "originalName": "微光菌丝样本.png",
+      "assetName": "xguangxxxx",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\微光菌丝样本（带底图.png",
+      "originalName": "微光菌丝样本（带底图.png",
+      "assetName": "xguangxxxxxditu",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\战地医疗箱.png",
+      "originalName": "战地医疗箱.png",
+      "assetName": "xxxxx_21",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\战地医疗箱（带底图.png",
+      "originalName": "战地医疗箱（带底图.png",
+      "assetName": "xxxxxxditu_21",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\战术望远镜.png",
+      "originalName": "战术望远镜.png",
+      "assetName": "xxxxx_22",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\战术望远镜（带底图.png",
+      "originalName": "战术望远镜（带底图.png",
+      "assetName": "xxxxxxditu_22",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\旧型导航芯片.png",
+      "originalName": "旧型导航芯片.png",
+      "assetName": "xxxxxx_12",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\旧型导航芯片（带底图.png",
+      "originalName": "旧型导航芯片（带底图.png",
+      "assetName": "xxxxxxxditu_12",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\特级战地咖啡.png",
+      "originalName": "特级战地咖啡.png",
+      "assetName": "texxxxx",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\特级战地咖啡（带底图.png",
+      "originalName": "特级战地咖啡（带底图.png",
+      "assetName": "texxxxxxditu",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\琥珀吊坠.png",
+      "originalName": "琥珀吊坠.png",
+      "assetName": "xxxx_15",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\琥珀吊坠（带底图.png",
+      "originalName": "琥珀吊坠（带底图.png",
+      "assetName": "xxxxxditu_14",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\真空口粮箱(带底图.png",
+      "originalName": "真空口粮箱(带底图.png",
+      "assetName": "xkongxxxxditu",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\真空口粮箱.png",
+      "originalName": "真空口粮箱.png",
+      "assetName": "xkongxxx",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\碳纤维旅行箱.png",
+      "originalName": "碳纤维旅行箱.png",
+      "assetName": "xxxxxx_13",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\碳纤维旅行箱（带底图.png",
+      "originalName": "碳纤维旅行箱（带底图.png",
+      "assetName": "xxxxxxxditu_13",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\锈蚀舰船铭牌.png",
+      "originalName": "锈蚀舰船铭牌.png",
+      "assetName": "xxxxxx_14",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\锈蚀舰船铭牌（带底图.png",
+      "originalName": "锈蚀舰船铭牌（带底图.png",
+      "assetName": "xxxxxxxditu_14",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\防爆工具箱.png",
+      "originalName": "防爆工具箱.png",
+      "assetName": "xxxjux",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\防爆工具箱（带底图.png",
+      "originalName": "防爆工具箱（带底图.png",
+      "assetName": "xxxjuxxditu",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\黑曜石雕件(带底图.png",
+      "originalName": "黑曜石雕件(带底图.png",
+      "assetName": "xxxxxxditu_23",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\蓝色\\黑曜石雕件.png",
+      "originalName": "黑曜石雕件.png",
+      "assetName": "xxxxx_23",
+      "subDirectory": "道具 - 副本/蓝色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\低语黑匣.png",
+      "originalName": "低语黑匣.png",
+      "assetName": "xxxx_16",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\低语黑匣（带底图.png",
+      "originalName": "低语黑匣（带底图.png",
+      "assetName": "xxxxxditu_15",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\复古打字机(带底图.png",
+      "originalName": "复古打字机(带底图.png",
+      "assetName": "xxxzixxditu",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\复古打字机.png",
+      "originalName": "复古打字机.png",
+      "assetName": "xxxzix",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\热成像模组.png",
+      "originalName": "热成像模组.png",
+      "assetName": "xxxiangxx",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\热成像模组（带底图.png",
+      "originalName": "热成像模组（带底图.png",
+      "assetName": "xxxiangxxxditu",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\祖母绿胸针.png",
+      "originalName": "祖母绿胸针.png",
+      "assetName": "xxxxx_24",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\祖母绿胸针（带底图.png",
+      "originalName": "祖母绿胸针（带底图.png",
+      "assetName": "xxxxxxditu_24",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\蓝焰蓝宝石(带底图.png",
+      "originalName": "蓝焰蓝宝石(带底图.png",
+      "assetName": "xxxxxxditu_25",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\蓝焰蓝宝石.png",
+      "originalName": "蓝焰蓝宝石.png",
+      "assetName": "xxxxx_25",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\量子测距仪.png",
+      "originalName": "量子测距仪.png",
+      "assetName": "xzixxx",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\量子测距仪（带底图.png",
+      "originalName": "量子测距仪（带底图.png",
+      "assetName": "xzixxxxditu",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\鎏金军功章.png",
+      "originalName": "鎏金军功章.png",
+      "assetName": "xjinxxx",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\鎏金军功章（带底图.png",
+      "originalName": "鎏金军功章（带底图.png",
+      "assetName": "xjinxxxxditu",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\钛合金无人机.png",
+      "originalName": "钛合金无人机.png",
+      "assetName": "xxjinxrenx",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\钛合金无人机（带底图.png",
+      "originalName": "钛合金无人机（带底图.png",
+      "assetName": "xxjinxrenxxditu",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\黄金鱼子酱.png",
+      "originalName": "黄金鱼子酱.png",
+      "assetName": "xjinxzix",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\黄金鱼子酱（带底图.png",
+      "originalName": "黄金鱼子酱（带底图.png",
+      "assetName": "xjinxzixxditu",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\黄铜潜水钟.png",
+      "originalName": "黄铜潜水钟.png",
+      "assetName": "xxxxx_26",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\道具 - 副本\\金色\\黄铜潜水钟（带底图.png",
+      "originalName": "黄铜潜水钟（带底图.png",
+      "assetName": "xxxxxxditu_26",
+      "subDirectory": "道具 - 副本/金色",
+      "extension": ".png"
+    }
+  ],
+  "mapping": [
+    {
+      "original": "上半名称.png",
+      "asset": "shangbanmingcheng",
+      "path": "主界面\\上半名称.png"
+    },
+    {
+      "original": "主界面UI参考.png",
+      "asset": "zhujiemianUIcankao",
+      "path": "主界面\\主界面UI参考.png"
+    },
+    {
+      "original": "名称.png",
+      "asset": "mingcheng",
+      "path": "主界面\\名称.png"
+    },
+    {
+      "original": "大厅右侧.png",
+      "asset": "datingyouce",
+      "path": "主界面\\大厅右侧.png"
+    },
+    {
+      "original": "头像框.png",
+      "asset": "touxiangkuang",
+      "path": "主界面\\头像框.png"
+    },
+    {
+      "original": "帮助按钮.png",
+      "asset": "bangzhuanniu",
+      "path": "主界面\\帮助按钮.png"
+    },
+    {
+      "original": "每日任务.png",
+      "asset": "meirirenwu",
+      "path": "主界面\\每日任务.png"
+    },
+    {
+      "original": "金币.png",
+      "asset": "jinbi",
+      "path": "主界面\\金币.png"
+    },
+    {
+      "original": "金币UI.png",
+      "asset": "jinbiUI",
+      "path": "主界面\\金币UI.png"
+    },
+    {
+      "original": "顶部UI.png",
+      "asset": "dingbuUI",
+      "path": "主界面\\顶部UI.png"
+    },
+    {
+      "original": "领取保底金.png",
+      "asset": "lingqubaodijin",
+      "path": "主界面\\领取保底金.png"
+    },
+    {
+      "original": "价格输入.png",
+      "asset": "jiaxxx",
+      "path": "价格输入.png"
+    },
+    {
+      "original": "仓库.png",
+      "asset": "xx",
+      "path": "可用\\仓库\\仓库.png"
+    },
+    {
+      "original": "展示柜.png",
+      "asset": "zhanshix",
+      "path": "可用\\仓库\\展示柜.png"
+    },
+    {
+      "original": "放大镜图.png",
+      "asset": "xdaxtu",
+      "path": "可用\\仓库\\放大镜图.png"
+    },
+    {
+      "original": "格子.png",
+      "asset": "xzi",
+      "path": "可用\\仓库\\格子.png"
+    },
+    {
+      "original": "白色发光.png",
+      "asset": "xxxguang",
+      "path": "可用\\仓库\\白色发光.png"
+    },
+    {
+      "original": "白色物品格.png",
+      "asset": "xxwuxx",
+      "path": "可用\\仓库\\白色物品格.png"
+    },
+    {
+      "original": "紫色物品格.png",
+      "asset": "xxwuxx_1",
+      "path": "可用\\仓库\\紫色物品格.png"
+    },
+    {
+      "original": "红色发光.png",
+      "asset": "xxxguang_1",
+      "path": "可用\\仓库\\红色发光.png"
+    },
+    {
+      "original": "红色物品格.png",
+      "asset": "xxwuxx_2",
+      "path": "可用\\仓库\\红色物品格.png"
+    },
+    {
+      "original": "绿色物品格.png",
+      "asset": "xxwuxx_3",
+      "path": "可用\\仓库\\绿色物品格.png"
+    },
+    {
+      "original": "蓝色物品格.png",
+      "asset": "xxwuxx_4",
+      "path": "可用\\仓库\\蓝色物品格.png"
+    },
+    {
+      "original": "金色发光.png",
+      "asset": "jinxxguang",
+      "path": "可用\\仓库\\金色发光.png"
+    },
+    {
+      "original": "金色物品格.png",
+      "asset": "jinxwuxx",
+      "path": "可用\\仓库\\金色物品格.png"
+    },
+    {
+      "original": "黑色物品格.png",
+      "asset": "xxwuxx_5",
+      "path": "可用\\仓库\\黑色物品格.png"
+    },
+    {
+      "original": "便携制氧机.png",
+      "asset": "xxxxx",
+      "path": "可用\\道具\\紫色\\便携制氧机.png"
+    },
+    {
+      "original": "便携制氧机（带底图.png",
+      "asset": "xxxxxxditu",
+      "path": "可用\\道具\\紫色\\便携制氧机（带底图.png"
+    },
+    {
+      "original": "古代硬币匣.png",
+      "asset": "xxxbix",
+      "path": "可用\\道具\\紫色\\古代硬币匣.png"
+    },
+    {
+      "original": "古代硬币匣（带底图.png",
+      "asset": "xxxbixxditu",
+      "path": "可用\\道具\\紫色\\古代硬币匣（带底图.png"
+    },
+    {
+      "original": "加密存储阵列.png",
+      "asset": "xxxxxx",
+      "path": "可用\\道具\\红色\\加密存储阵列.png"
+    },
+    {
+      "original": "加密存储阵列（带底图.png",
+      "asset": "xxxxxxxditu",
+      "path": "可用\\道具\\红色\\加密存储阵列（带底图.png"
+    },
+    {
+      "original": "时空裂隙样本.png",
+      "asset": "xkongxxxx",
+      "path": "可用\\道具\\红色\\时空裂隙样本.png"
+    },
+    {
+      "original": "时空裂隙样本（带底图.png",
+      "asset": "xkongxxxxxditu",
+      "path": "可用\\道具\\红色\\时空裂隙样本（带底图.png"
+    },
+    {
+      "original": "星辉钻石.png",
+      "asset": "xxxx",
+      "path": "可用\\道具\\红色\\星辉钻石.png"
+    },
+    {
+      "original": "星辉钻石（带底图.png",
+      "asset": "xxxxxditu",
+      "path": "可用\\道具\\红色\\星辉钻石（带底图.png"
+    },
+    {
+      "original": "永鲜补给仓.png",
+      "asset": "xxxxx_1",
+      "path": "可用\\道具\\红色\\永鲜补给仓.png"
+    },
+    {
+      "original": "永鲜补给仓（带底图.png",
+      "asset": "xxxxxxditu_1",
+      "path": "可用\\道具\\红色\\永鲜补给仓（带底图.png"
+    },
+    {
+      "original": "海岛之心原石.png",
+      "asset": "xxxxxx_1",
+      "path": "可用\\道具\\红色\\海岛之心原石.png"
+    },
+    {
+      "original": "海岛之心原石（带底图.png",
+      "asset": "xxxxxxxditu_1",
+      "path": "可用\\道具\\红色\\海岛之心原石（带底图.png"
+    },
+    {
+      "original": "猩红信号核心.png",
+      "asset": "xxxxxx_2",
+      "path": "可用\\道具\\红色\\猩红信号核心.png"
+    },
+    {
+      "original": "猩红信号核心（带底图.png",
+      "asset": "xxxxxxxditu_2",
+      "path": "可用\\道具\\红色\\猩红信号核心（带底图.png"
+    },
+    {
+      "original": "王冠碎片.png",
+      "asset": "xxxx_1",
+      "path": "可用\\道具\\红色\\王冠碎片.png"
+    },
+    {
+      "original": "王冠碎片（带底图.png",
+      "asset": "xxxxxditu_1",
+      "path": "可用\\道具\\红色\\王冠碎片（带底图.png"
+    },
+    {
+      "original": "磁悬浮核心.png",
+      "asset": "xxxxx_2",
+      "path": "可用\\道具\\红色\\磁悬浮核心.png"
+    },
+    {
+      "original": "磁悬浮核心（带底图.png",
+      "asset": "xxxxxxditu_2",
+      "path": "可用\\道具\\红色\\磁悬浮核心（带底图.png"
+    },
+    {
+      "original": "限量战术腕表.png",
+      "asset": "xxxxxx_3",
+      "path": "可用\\道具\\红色\\限量战术腕表.png"
+    },
+    {
+      "original": "限量战术腕表（带底图.png",
+      "asset": "xxxxxxxditu_3",
+      "path": "可用\\道具\\红色\\限量战术腕表（带底图.png"
+    },
+    {
+      "original": "便携太阳能板.png",
+      "asset": "xxxxnengx",
+      "path": "可用\\道具\\绿色\\便携太阳能板.png"
+    },
+    {
+      "original": "便携太阳能板（带底图.png",
+      "asset": "xxxxnengxxditu",
+      "path": "可用\\道具\\绿色\\便携太阳能板（带底图.png"
+    },
+    {
+      "original": "旧式唱片机.png",
+      "asset": "xxxxx_3",
+      "path": "可用\\道具\\绿色\\旧式唱片机.png"
+    },
+    {
+      "original": "旧式唱片机（带底图.png",
+      "asset": "xxxxxxditu_3",
+      "path": "可用\\道具\\绿色\\旧式唱片机（带底图.png"
+    },
+    {
+      "original": "潮汐观测仪.png",
+      "asset": "xxxxx_4",
+      "path": "可用\\道具\\绿色\\潮汐观测仪.png"
+    },
+    {
+      "original": "潮汐观测仪（带底图.png",
+      "asset": "xxxxxxditu_4",
+      "path": "可用\\道具\\绿色\\潮汐观测仪（带底图.png"
+    },
+    {
+      "original": "军用电台.png",
+      "asset": "xxxx_2",
+      "path": "可用\\道具\\蓝色\\军用电台.png"
+    },
+    {
+      "original": "军用电台（带底图.png",
+      "asset": "xxxxxditu_2",
+      "path": "可用\\道具\\蓝色\\军用电台（带底图.png"
+    },
+    {
+      "original": "碳纤维旅行箱.png",
+      "asset": "xxxxxx_4",
+      "path": "可用\\道具\\蓝色\\碳纤维旅行箱.png"
+    },
+    {
+      "original": "碳纤维旅行箱（带底图.png",
+      "asset": "xxxxxxxditu_4",
+      "path": "可用\\道具\\蓝色\\碳纤维旅行箱（带底图.png"
+    },
+    {
+      "original": "Ancient_Coin_Box.png",
+      "asset": "Ancient_Coin_Box",
+      "path": "可用\\道具-英文\\紫色\\Ancient_Coin_Box.png"
+    },
+    {
+      "original": "Ancient_Coin_Box_With_Background.png",
+      "asset": "Ancient_Coin_Box_With_Background",
+      "path": "可用\\道具-英文\\紫色\\Ancient_Coin_Box_With_Background.png"
+    },
+    {
+      "original": "Portable_Oxygen_Generator.png",
+      "asset": "Portable_Oxygen_Generator",
+      "path": "可用\\道具-英文\\紫色\\Portable_Oxygen_Generator.png"
+    },
+    {
+      "original": "Portable_Oxygen_Generator_With_Background.png",
+      "asset": "Portable_Oxygen_Generator_With_Background",
+      "path": "可用\\道具-英文\\紫色\\Portable_Oxygen_Generator_With_Background.png"
+    },
+    {
+      "original": "Crimson_Signal_Core.png",
+      "asset": "Crimson_Signal_Core",
+      "path": "可用\\道具-英文\\红色\\Crimson_Signal_Core.png"
+    },
+    {
+      "original": "Crimson_Signal_Core_With_Background.png",
+      "asset": "Crimson_Signal_Core_With_Background",
+      "path": "可用\\道具-英文\\红色\\Crimson_Signal_Core_With_Background.png"
+    },
+    {
+      "original": "Crown_Fragment.png",
+      "asset": "Crown_Fragment",
+      "path": "可用\\道具-英文\\红色\\Crown_Fragment.png"
+    },
+    {
+      "original": "Crown_Fragment_With_Background.png",
+      "asset": "Crown_Fragment_With_Background",
+      "path": "可用\\道具-英文\\红色\\Crown_Fragment_With_Background.png"
+    },
+    {
+      "original": "Encrypted_Storage_Array.png",
+      "asset": "Encrypted_Storage_Array",
+      "path": "可用\\道具-英文\\红色\\Encrypted_Storage_Array.png"
+    },
+    {
+      "original": "Encrypted_Storage_Array_With_Background.png",
+      "asset": "Encrypted_Storage_Array_With_Background",
+      "path": "可用\\道具-英文\\红色\\Encrypted_Storage_Array_With_Background.png"
+    },
+    {
+      "original": "Freshness_Supply_Crate.png",
+      "asset": "Freshness_Supply_Crate",
+      "path": "可用\\道具-英文\\红色\\Freshness_Supply_Crate.png"
+    },
+    {
+      "original": "Freshness_Supply_Crate_With_Background.png",
+      "asset": "Freshness_Supply_Crate_With_Background",
+      "path": "可用\\道具-英文\\红色\\Freshness_Supply_Crate_With_Background.png"
+    },
+    {
+      "original": "Island_Heart_Raw_Stone.png",
+      "asset": "Island_Heart_Raw_Stone",
+      "path": "可用\\道具-英文\\红色\\Island_Heart_Raw_Stone.png"
+    },
+    {
+      "original": "Island_Heart_Raw_Stone_With_Background.png",
+      "asset": "Island_Heart_Raw_Stone_With_Background",
+      "path": "可用\\道具-英文\\红色\\Island_Heart_Raw_Stone_With_Background.png"
+    },
+    {
+      "original": "Limited_Tactical_Watch.png",
+      "asset": "Limited_Tactical_Watch",
+      "path": "可用\\道具-英文\\红色\\Limited_Tactical_Watch.png"
+    },
+    {
+      "original": "Limited_Tactical_Watch_With_Background.png",
+      "asset": "Limited_Tactical_Watch_With_Background",
+      "path": "可用\\道具-英文\\红色\\Limited_Tactical_Watch_With_Background.png"
+    },
+    {
+      "original": "Maglev_Core.png",
+      "asset": "Maglev_Core",
+      "path": "可用\\道具-英文\\红色\\Maglev_Core.png"
+    },
+    {
+      "original": "Maglev_Core_With_Background.png",
+      "asset": "Maglev_Core_With_Background",
+      "path": "可用\\道具-英文\\红色\\Maglev_Core_With_Background.png"
+    },
+    {
+      "original": "Spacetime_Rift_Sample.png",
+      "asset": "Spacetime_Rift_Sample",
+      "path": "可用\\道具-英文\\红色\\Spacetime_Rift_Sample.png"
+    },
+    {
+      "original": "Spacetime_Rift_Sample_With_Background.png",
+      "asset": "Spacetime_Rift_Sample_With_Background",
+      "path": "可用\\道具-英文\\红色\\Spacetime_Rift_Sample_With_Background.png"
+    },
+    {
+      "original": "Starlight_Diamond.png",
+      "asset": "Starlight_Diamond",
+      "path": "可用\\道具-英文\\红色\\Starlight_Diamond.png"
+    },
+    {
+      "original": "Starlight_Diamond_With_Background.png",
+      "asset": "Starlight_Diamond_With_Background",
+      "path": "可用\\道具-英文\\红色\\Starlight_Diamond_With_Background.png"
+    },
+    {
+      "original": "Portable_Solar_Panel.png",
+      "asset": "Portable_Solar_Panel",
+      "path": "可用\\道具-英文\\绿色\\Portable_Solar_Panel.png"
+    },
+    {
+      "original": "Portable_Solar_Panel_With_Background.png",
+      "asset": "Portable_Solar_Panel_With_Background",
+      "path": "可用\\道具-英文\\绿色\\Portable_Solar_Panel_With_Background.png"
+    },
+    {
+      "original": "Tide_Monitor.png",
+      "asset": "Tide_Monitor",
+      "path": "可用\\道具-英文\\绿色\\Tide_Monitor.png"
+    },
+    {
+      "original": "Tide_Monitor_With_Background.png",
+      "asset": "Tide_Monitor_With_Background",
+      "path": "可用\\道具-英文\\绿色\\Tide_Monitor_With_Background.png"
+    },
+    {
+      "original": "Vintage_Record_Player.png",
+      "asset": "Vintage_Record_Player",
+      "path": "可用\\道具-英文\\绿色\\Vintage_Record_Player.png"
+    },
+    {
+      "original": "Vintage_Record_Player_With_Background.png",
+      "asset": "Vintage_Record_Player_With_Background",
+      "path": "可用\\道具-英文\\绿色\\Vintage_Record_Player_With_Background.png"
+    },
+    {
+      "original": "Carbon_Fiber_Suitcase.png",
+      "asset": "Carbon_Fiber_Suitcase",
+      "path": "可用\\道具-英文\\蓝色\\Carbon_Fiber_Suitcase.png"
+    },
+    {
+      "original": "Carbon_Fiber_Suitcase_With_Background.png",
+      "asset": "Carbon_Fiber_Suitcase_With_Background",
+      "path": "可用\\道具-英文\\蓝色\\Carbon_Fiber_Suitcase_With_Background.png"
+    },
+    {
+      "original": "Military_Radio.png",
+      "asset": "Military_Radio",
+      "path": "可用\\道具-英文\\蓝色\\Military_Radio.png"
+    },
+    {
+      "original": "Military_Radio_With_Background.png",
+      "asset": "Military_Radio_With_Background",
+      "path": "可用\\道具-英文\\蓝色\\Military_Radio_With_Background.png"
+    },
+    {
+      "original": "右侧图鉴层.png",
+      "asset": "youcetuxx",
+      "path": "图鉴\\右侧图鉴层.png"
+    },
+    {
+      "original": "名称UI.png",
+      "asset": "mingchengUI",
+      "path": "图鉴\\名称UI.png"
+    },
+    {
+      "original": "图鉴参考图.png",
+      "asset": "tuxcankaotu",
+      "path": "图鉴\\图鉴参考图.png"
+    },
+    {
+      "original": "左侧UI选项.png",
+      "asset": "xceUIxuanx",
+      "path": "图鉴\\左侧UI选项.png"
+    },
+    {
+      "original": "左侧选项格.png",
+      "asset": "xcexuanxx",
+      "path": "图鉴\\左侧选项格.png"
+    },
+    {
+      "original": "底板.png",
+      "asset": "dix",
+      "path": "图鉴\\底板.png"
+    },
+    {
+      "original": "最顶部UI.png",
+      "asset": "xdingbuUI",
+      "path": "图鉴\\最顶部UI.png"
+    },
+    {
+      "original": "滚轮.png",
+      "asset": "xx_1",
+      "path": "图鉴\\滚轮.png"
+    },
+    {
+      "original": "滚轮底.png",
+      "asset": "xxdi",
+      "path": "图鉴\\滚轮底.png"
+    },
+    {
+      "original": "背景底.png",
+      "asset": "beijingdi",
+      "path": "图鉴\\背景底.png"
+    },
+    {
+      "original": "藏品格子.png",
+      "asset": "xxxzi",
+      "path": "图鉴\\藏品格子.png"
+    },
+    {
+      "original": "退出叉号.png",
+      "asset": "xxxx_3",
+      "path": "图鉴\\退出叉号.png"
+    },
+    {
+      "original": "参考.png",
+      "asset": "cankao",
+      "path": "技能\\参考.png"
+    },
+    {
+      "original": "技能勾选.png",
+      "asset": "jinenggouxuan",
+      "path": "技能\\技能勾选.png"
+    },
+    {
+      "original": "技能底.png",
+      "asset": "jinengdi",
+      "path": "技能\\技能底.png"
+    },
+    {
+      "original": "技能底部栏.png",
+      "asset": "jinengdibulan",
+      "path": "技能\\技能底部栏.png"
+    },
+    {
+      "original": "滑动块.png",
+      "asset": "xxx",
+      "path": "技能\\滑动块.png"
+    },
+    {
+      "original": "空槽位.png",
+      "asset": "kongcaowei",
+      "path": "技能\\空槽位.png"
+    },
+    {
+      "original": "选项格.png",
+      "asset": "xuanxx",
+      "path": "技能\\选项格.png"
+    },
+    {
+      "original": "长条透明底.png",
+      "asset": "xxxxdi",
+      "path": "技能\\长条透明底.png"
+    },
+    {
+      "original": "107d395a-bf39-4cbf-a70e-6dfce25b5ebc.png",
+      "asset": "Image_107d395a_bf39_4cbf_a70e_6dfce25b5ebc",
+      "path": "格子\\107d395a-bf39-4cbf-a70e-6dfce25b5ebc.png"
+    },
+    {
+      "original": "215c258c-f403-48b1-8780-8263d43b535f.png",
+      "asset": "Image_215c258c_f403_48b1_8780_8263d43b535f",
+      "path": "格子\\215c258c-f403-48b1-8780-8263d43b535f.png"
+    },
+    {
+      "original": "23fed2a9-df20-4670-a1ba-f0af6576a5e7.png",
+      "asset": "Image_23fed2a9_df20_4670_a1ba_f0af6576a5e7",
+      "path": "格子\\23fed2a9-df20-4670-a1ba-f0af6576a5e7.png"
+    },
+    {
+      "original": "2a5ff2e1-d7af-4d23-906b-5045d4442898.png",
+      "asset": "Image_2a5ff2e1_d7af_4d23_906b_5045d4442898",
+      "path": "格子\\2a5ff2e1-d7af-4d23-906b-5045d4442898.png"
+    },
+    {
+      "original": "366982da-37bf-410b-a5ed-c53fcaf9623f.png",
+      "asset": "Image_366982da_37bf_410b_a5ed_c53fcaf9623f",
+      "path": "格子\\366982da-37bf-410b-a5ed-c53fcaf9623f.png"
+    },
+    {
+      "original": "463416b4-6d78-4053-9b30-9e5616d03521.png",
+      "asset": "Image_463416b4_6d78_4053_9b30_9e5616d03521",
+      "path": "格子\\463416b4-6d78-4053-9b30-9e5616d03521.png"
+    },
+    {
+      "original": "51e5a1cd-14fd-497d-a278-6bc6ac63fd09.png",
+      "asset": "Image_51e5a1cd_14fd_497d_a278_6bc6ac63fd09",
+      "path": "格子\\51e5a1cd-14fd-497d-a278-6bc6ac63fd09.png"
+    },
+    {
+      "original": "573466de-1efe-4f88-8698-ed9b78e02938.png",
+      "asset": "Image_573466de_1efe_4f88_8698_ed9b78e02938",
+      "path": "格子\\573466de-1efe-4f88-8698-ed9b78e02938.png"
+    },
+    {
+      "original": "5ae4625f-5497-48ab-8726-fad667a7c904.png",
+      "asset": "Image_5ae4625f_5497_48ab_8726_fad667a7c904",
+      "path": "格子\\5ae4625f-5497-48ab-8726-fad667a7c904.png"
+    },
+    {
+      "original": "6e65022e-44d4-435b-ace6-437b4442c819.png",
+      "asset": "Image_6e65022e_44d4_435b_ace6_437b4442c819",
+      "path": "格子\\6e65022e-44d4-435b-ace6-437b4442c819.png"
+    },
+    {
+      "original": "819a15a7-e21f-452e-a47d-535e52310353.png",
+      "asset": "Image_819a15a7_e21f_452e_a47d_535e52310353",
+      "path": "格子\\819a15a7-e21f-452e-a47d-535e52310353.png"
+    },
+    {
+      "original": "84d65634-b099-4718-88f1-4dbe12d68512.png",
+      "asset": "Image_84d65634_b099_4718_88f1_4dbe12d68512",
+      "path": "格子\\84d65634-b099-4718-88f1-4dbe12d68512.png"
+    },
+    {
+      "original": "9012d33d-3335-477b-a4fd-4ac0f268ee5a.png",
+      "asset": "Image_9012d33d_3335_477b_a4fd_4ac0f268ee5a",
+      "path": "格子\\9012d33d-3335-477b-a4fd-4ac0f268ee5a.png"
+    },
+    {
+      "original": "a0ed9d83-6f01-49d1-a0cf-d832bd6c26a6.png",
+      "asset": "a0ed9d83_6f01_49d1_a0cf_d832bd6c26a6",
+      "path": "格子\\a0ed9d83-6f01-49d1-a0cf-d832bd6c26a6.png"
+    },
+    {
+      "original": "a2ed075a-7d0e-4eb0-bde5-3e62d6fb77e7.png",
+      "asset": "a2ed075a_7d0e_4eb0_bde5_3e62d6fb77e7",
+      "path": "格子\\a2ed075a-7d0e-4eb0-bde5-3e62d6fb77e7.png"
+    },
+    {
+      "original": "a58bb935-b6cb-43e9-a09a-9a8618f00f3d.png",
+      "asset": "a58bb935_b6cb_43e9_a09a_9a8618f00f3d",
+      "path": "格子\\a58bb935-b6cb-43e9-a09a-9a8618f00f3d.png"
+    },
+    {
+      "original": "a8bf8640-9860-4b12-91ce-7e331c5917cc.png",
+      "asset": "a8bf8640_9860_4b12_91ce_7e331c5917cc",
+      "path": "格子\\a8bf8640-9860-4b12-91ce-7e331c5917cc.png"
+    },
+    {
+      "original": "af0aa8af-e9bf-4a0d-8c54-2333dbd3f619.png",
+      "asset": "af0aa8af_e9bf_4a0d_8c54_2333dbd3f619",
+      "path": "格子\\af0aa8af-e9bf-4a0d-8c54-2333dbd3f619.png"
+    },
+    {
+      "original": "be53d2e4-b6ea-4b87-acf9-89523704a236.png",
+      "asset": "be53d2e4_b6ea_4b87_acf9_89523704a236",
+      "path": "格子\\be53d2e4-b6ea-4b87-acf9-89523704a236.png"
+    },
+    {
+      "original": "c57fb46a-0145-42af-9025-7ec1b0d9734e.png",
+      "asset": "c57fb46a_0145_42af_9025_7ec1b0d9734e",
+      "path": "格子\\c57fb46a-0145-42af-9025-7ec1b0d9734e.png"
+    },
+    {
+      "original": "c845b041-9042-4e8a-bd6a-f7318b56d0a8.png",
+      "asset": "c845b041_9042_4e8a_bd6a_f7318b56d0a8",
+      "path": "格子\\c845b041-9042-4e8a-bd6a-f7318b56d0a8.png"
+    },
+    {
+      "original": "d3073415-851e-4b24-89b8-2ba6035ac1b4.png",
+      "asset": "d3073415_851e_4b24_89b8_2ba6035ac1b4",
+      "path": "格子\\d3073415-851e-4b24-89b8-2ba6035ac1b4.png"
+    },
+    {
+      "original": "e1b63d06-67a0-4e6a-8388-b305419a06cf.png",
+      "asset": "e1b63d06_67a0_4e6a_8388_b305419a06cf",
+      "path": "格子\\e1b63d06-67a0-4e6a-8388-b305419a06cf.png"
+    },
+    {
+      "original": "e6ee6e2b-41f9-4d50-96a2-bd2d160c637a.png",
+      "asset": "e6ee6e2b_41f9_4d50_96a2_bd2d160c637a",
+      "path": "格子\\e6ee6e2b-41f9-4d50-96a2-bd2d160c637a.png"
+    },
+    {
+      "original": "ef1c543d-6406-42bd-ae16-f635151b91e0.png",
+      "asset": "ef1c543d_6406_42bd_ae16_f635151b91e0",
+      "path": "格子\\ef1c543d-6406-42bd-ae16-f635151b91e0.png"
+    },
+    {
+      "original": "中部区域.png",
+      "asset": "xbuxx",
+      "path": "竞拍\\中部区域.png"
+    },
+    {
+      "original": "价格输入.png",
+      "asset": "jiaxxx_1",
+      "path": "竞拍\\价格输入.png"
+    },
+    {
+      "original": "右侧竞拍仓库.png",
+      "asset": "youcexxxx",
+      "path": "竞拍\\右侧竞拍仓库.png"
+    },
+    {
+      "original": "名称.png",
+      "asset": "mingcheng_1",
+      "path": "竞拍\\名称.png"
+    },
+    {
+      "original": "左侧玩家席位.png",
+      "asset": "xcexxxwei",
+      "path": "竞拍\\左侧玩家席位.png"
+    },
+    {
+      "original": "底板.png",
+      "asset": "dix_1",
+      "path": "竞拍\\底板.png"
+    },
+    {
+      "original": "底色.png",
+      "asset": "dix_2",
+      "path": "竞拍\\底色.png"
+    },
+    {
+      "original": "底部报价.png",
+      "asset": "dibuxjia",
+      "path": "竞拍\\底部报价.png"
+    },
+    {
+      "original": "竞拍参考图.png",
+      "asset": "xxcankaotu",
+      "path": "竞拍\\竞拍参考图.png"
+    },
+    {
+      "original": "说明.png",
+      "asset": "xx_2",
+      "path": "竞拍\\说明.png"
+    },
+    {
+      "original": "长条UI底.png",
+      "asset": "xxUIdi",
+      "path": "竞拍\\长条UI底.png"
+    },
+    {
+      "original": "箭头右.png",
+      "asset": "xtouyou",
+      "path": "说明\\箭头右.png"
+    },
+    {
+      "original": "箭头左.png",
+      "asset": "xtoux",
+      "path": "说明\\箭头左.png"
+    },
+    {
+      "original": "说明.png",
+      "asset": "xx_3",
+      "path": "说明\\说明.png"
+    },
+    {
+      "original": "说明参考图.png",
+      "asset": "xxcankaotu_1",
+      "path": "说明\\说明参考图.png"
+    },
+    {
+      "original": "Amber_Pendant.png",
+      "asset": "Amber_Pendant",
+      "path": "道具\\Blue\\Amber_Pendant.png"
+    },
+    {
+      "original": "Amber_Pendant_BG.png",
+      "asset": "Amber_Pendant_BG",
+      "path": "道具\\Blue\\Amber_Pendant_BG.png"
+    },
+    {
+      "original": "Anti_Gravity_Fragment.png",
+      "asset": "Anti_Gravity_Fragment",
+      "path": "道具\\Blue\\Anti_Gravity_Fragment.png"
+    },
+    {
+      "original": "Anti_Gravity_Fragment_BG.png",
+      "asset": "Anti_Gravity_Fragment_BG",
+      "path": "道具\\Blue\\Anti_Gravity_Fragment_BG.png"
+    },
+    {
+      "original": "Battlefield_Medical_Kit.png",
+      "asset": "Battlefield_Medical_Kit",
+      "path": "道具\\Blue\\Battlefield_Medical_Kit.png"
+    },
+    {
+      "original": "Battlefield_Medical_Kit_BG.png",
+      "asset": "Battlefield_Medical_Kit_BG",
+      "path": "道具\\Blue\\Battlefield_Medical_Kit_BG.png"
+    },
+    {
+      "original": "Carbon_Fiber_Travel_Case.png",
+      "asset": "Carbon_Fiber_Travel_Case",
+      "path": "道具\\Blue\\Carbon_Fiber_Travel_Case.png"
+    },
+    {
+      "original": "Carbon_Fiber_Travel_Case_BG.png",
+      "asset": "Carbon_Fiber_Travel_Case_BG",
+      "path": "道具\\Blue\\Carbon_Fiber_Travel_Case_BG.png"
+    },
+    {
+      "original": "Explosion_Proof_Tool_Box.png",
+      "asset": "Explosion_Proof_Tool_Box",
+      "path": "道具\\Blue\\Explosion_Proof_Tool_Box.png"
+    },
+    {
+      "original": "Explosion_Proof_Tool_Box_BG.png",
+      "asset": "Explosion_Proof_Tool_Box_BG",
+      "path": "道具\\Blue\\Explosion_Proof_Tool_Box_BG.png"
+    },
+    {
+      "original": "Freeze_Dried_Supply_Box.png",
+      "asset": "Freeze_Dried_Supply_Box",
+      "path": "道具\\Blue\\Freeze_Dried_Supply_Box.png"
+    },
+    {
+      "original": "Freeze_Dried_Supply_Box_BG.png",
+      "asset": "Freeze_Dried_Supply_Box_BG",
+      "path": "道具\\Blue\\Freeze_Dried_Supply_Box_BG.png"
+    },
+    {
+      "original": "Glimmer_Mycelium_Sample.png",
+      "asset": "Glimmer_Mycelium_Sample",
+      "path": "道具\\Blue\\Glimmer_Mycelium_Sample.png"
+    },
+    {
+      "original": "Glimmer_Mycelium_Sample_BG.png",
+      "asset": "Glimmer_Mycelium_Sample_BG",
+      "path": "道具\\Blue\\Glimmer_Mycelium_Sample_BG.png"
+    },
+    {
+      "original": "Military_Radio.png",
+      "asset": "Military_Radio_1",
+      "path": "道具\\Blue\\Military_Radio.png"
+    },
+    {
+      "original": "Military_Radio_BG.png",
+      "asset": "Military_Radio_BG",
+      "path": "道具\\Blue\\Military_Radio_BG.png"
+    },
+    {
+      "original": "Mutated_Wood_Carving.png",
+      "asset": "Mutated_Wood_Carving",
+      "path": "道具\\Blue\\Mutated_Wood_Carving.png"
+    },
+    {
+      "original": "Mutated_Wood_Carving_BG.png",
+      "asset": "Mutated_Wood_Carving_BG",
+      "path": "道具\\Blue\\Mutated_Wood_Carving_BG.png"
+    },
+    {
+      "original": "Obsidian_Carving.png",
+      "asset": "Obsidian_Carving",
+      "path": "道具\\Blue\\Obsidian_Carving.png"
+    },
+    {
+      "original": "Obsidian_Carving_BG.png",
+      "asset": "Obsidian_Carving_BG",
+      "path": "道具\\Blue\\Obsidian_Carving_BG.png"
+    },
+    {
+      "original": "Old_Navigation_Chip.png",
+      "asset": "Old_Navigation_Chip",
+      "path": "道具\\Blue\\Old_Navigation_Chip.png"
+    },
+    {
+      "original": "Old_Navigation_Chip_BG.png",
+      "asset": "Old_Navigation_Chip_BG",
+      "path": "道具\\Blue\\Old_Navigation_Chip_BG.png"
+    },
+    {
+      "original": "Portable_Water_Purifier.png",
+      "asset": "Portable_Water_Purifier",
+      "path": "道具\\Blue\\Portable_Water_Purifier.png"
+    },
+    {
+      "original": "Portable_Water_Purifier_BG.png",
+      "asset": "Portable_Water_Purifier_BG",
+      "path": "道具\\Blue\\Portable_Water_Purifier_BG.png"
+    },
+    {
+      "original": "Premium_Battlefield_Coffee.png",
+      "asset": "Premium_Battlefield_Coffee",
+      "path": "道具\\Blue\\Premium_Battlefield_Coffee.png"
+    },
+    {
+      "original": "Premium_Battlefield_Coffee_BG.png",
+      "asset": "Premium_Battlefield_Coffee_BG",
+      "path": "道具\\Blue\\Premium_Battlefield_Coffee_BG.png"
+    },
+    {
+      "original": "Rusty_Ship_Nameplate.png",
+      "asset": "Rusty_Ship_Nameplate",
+      "path": "道具\\Blue\\Rusty_Ship_Nameplate.png"
+    },
+    {
+      "original": "Rusty_Ship_Nameplate_BG.png",
+      "asset": "Rusty_Ship_Nameplate_BG",
+      "path": "道具\\Blue\\Rusty_Ship_Nameplate_BG.png"
+    },
+    {
+      "original": "Tactical_Telescope.png",
+      "asset": "Tactical_Telescope",
+      "path": "道具\\Blue\\Tactical_Telescope.png"
+    },
+    {
+      "original": "Tactical_Telescope_BG.png",
+      "asset": "Tactical_Telescope_BG",
+      "path": "道具\\Blue\\Tactical_Telescope_BG.png"
+    },
+    {
+      "original": "Vacuum_Ration_Box.png",
+      "asset": "Vacuum_Ration_Box",
+      "path": "道具\\Blue\\Vacuum_Ration_Box.png"
+    },
+    {
+      "original": "Vacuum_Ration_Box_BG.png",
+      "asset": "Vacuum_Ration_Box_BG",
+      "path": "道具\\Blue\\Vacuum_Ration_Box_BG.png"
+    },
+    {
+      "original": "Blue_Flame_Sapphire.png",
+      "asset": "Blue_Flame_Sapphire",
+      "path": "道具\\Gold\\Blue_Flame_Sapphire.png"
+    },
+    {
+      "original": "Blue_Flame_Sapphire_BG.png",
+      "asset": "Blue_Flame_Sapphire_BG",
+      "path": "道具\\Gold\\Blue_Flame_Sapphire_BG.png"
+    },
+    {
+      "original": "Brass_Diving_Bell.png",
+      "asset": "Brass_Diving_Bell",
+      "path": "道具\\Gold\\Brass_Diving_Bell.png"
+    },
+    {
+      "original": "Brass_Diving_Bell_BG.png",
+      "asset": "Brass_Diving_Bell_BG",
+      "path": "道具\\Gold\\Brass_Diving_Bell_BG.png"
+    },
+    {
+      "original": "Emerald_Brooch.png",
+      "asset": "Emerald_Brooch",
+      "path": "道具\\Gold\\Emerald_Brooch.png"
+    },
+    {
+      "original": "Emerald_Brooch_BG.png",
+      "asset": "Emerald_Brooch_BG",
+      "path": "道具\\Gold\\Emerald_Brooch_BG.png"
+    },
+    {
+      "original": "Gilded_Military_Medal.png",
+      "asset": "Gilded_Military_Medal",
+      "path": "道具\\Gold\\Gilded_Military_Medal.png"
+    },
+    {
+      "original": "Gilded_Military_Medal_BG.png",
+      "asset": "Gilded_Military_Medal_BG",
+      "path": "道具\\Gold\\Gilded_Military_Medal_BG.png"
+    },
+    {
+      "original": "Golden_Caviar.png",
+      "asset": "Golden_Caviar",
+      "path": "道具\\Gold\\Golden_Caviar.png"
+    },
+    {
+      "original": "Golden_Caviar_BG.png",
+      "asset": "Golden_Caviar_BG",
+      "path": "道具\\Gold\\Golden_Caviar_BG.png"
+    },
+    {
+      "original": "Quantum_Rangefinder.png",
+      "asset": "Quantum_Rangefinder",
+      "path": "道具\\Gold\\Quantum_Rangefinder.png"
+    },
+    {
+      "original": "Quantum_Rangefinder_BG.png",
+      "asset": "Quantum_Rangefinder_BG",
+      "path": "道具\\Gold\\Quantum_Rangefinder_BG.png"
+    },
+    {
+      "original": "Retro_Typewriter.png",
+      "asset": "Retro_Typewriter",
+      "path": "道具\\Gold\\Retro_Typewriter.png"
+    },
+    {
+      "original": "Retro_Typewriter_BG.png",
+      "asset": "Retro_Typewriter_BG",
+      "path": "道具\\Gold\\Retro_Typewriter_BG.png"
+    },
+    {
+      "original": "Thermal_Imaging_Module.png",
+      "asset": "Thermal_Imaging_Module",
+      "path": "道具\\Gold\\Thermal_Imaging_Module.png"
+    },
+    {
+      "original": "Thermal_Imaging_Module_BG.png",
+      "asset": "Thermal_Imaging_Module_BG",
+      "path": "道具\\Gold\\Thermal_Imaging_Module_BG.png"
+    },
+    {
+      "original": "Titanium_Alloy_Drone.png",
+      "asset": "Titanium_Alloy_Drone",
+      "path": "道具\\Gold\\Titanium_Alloy_Drone.png"
+    },
+    {
+      "original": "Titanium_Alloy_Drone_BG.png",
+      "asset": "Titanium_Alloy_Drone_BG",
+      "path": "道具\\Gold\\Titanium_Alloy_Drone_BG.png"
+    },
+    {
+      "original": "Whisper_Black_Box.png",
+      "asset": "Whisper_Black_Box",
+      "path": "道具\\Gold\\Whisper_Black_Box.png"
+    },
+    {
+      "original": "Whisper_Black_Box_BG.png",
+      "asset": "Whisper_Black_Box_BG",
+      "path": "道具\\Gold\\Whisper_Black_Box_BG.png"
+    },
+    {
+      "original": "Compressed_Biscuit_Box.png",
+      "asset": "Compressed_Biscuit_Box",
+      "path": "道具\\Green\\Compressed_Biscuit_Box.png"
+    },
+    {
+      "original": "Compressed_Biscuit_Box_BG.png",
+      "asset": "Compressed_Biscuit_Box_BG",
+      "path": "道具\\Green\\Compressed_Biscuit_Box_BG.png"
+    },
+    {
+      "original": "Coral_Bead_Strand.png",
+      "asset": "Coral_Bead_Strand",
+      "path": "道具\\Green\\Coral_Bead_Strand.png"
+    },
+    {
+      "original": "Coral_Bead_Strand_BG.png",
+      "asset": "Coral_Bead_Strand_BG",
+      "path": "道具\\Green\\Coral_Bead_Strand_BG.png"
+    },
+    {
+      "original": "F2.png",
+      "asset": "F2",
+      "path": "道具\\Green\\F2.png"
+    },
+    {
+      "original": "Hand_Drawn_Navigation_Log.png",
+      "asset": "Hand_Drawn_Navigation_Log",
+      "path": "道具\\Green\\Hand_Drawn_Navigation_Log.png"
+    },
+    {
+      "original": "Hand_Drawn_Navigation_Log_BG.png",
+      "asset": "Hand_Drawn_Navigation_Log_BG",
+      "path": "道具\\Green\\Hand_Drawn_Navigation_Log_BG.png"
+    },
+    {
+      "original": "High_Energy_Nutrient.png",
+      "asset": "High_Energy_Nutrient",
+      "path": "道具\\Green\\High_Energy_Nutrient.png"
+    },
+    {
+      "original": "High_Energy_Nutrient_BG.png",
+      "asset": "High_Energy_Nutrient_BG",
+      "path": "道具\\Green\\High_Energy_Nutrient_BG.png"
+    },
+    {
+      "original": "Instant_Self_Heating_Meal_Box.png",
+      "asset": "Instant_Self_Heating_Meal_Box",
+      "path": "道具\\Green\\Instant_Self_Heating_Meal_Box.png"
+    },
+    {
+      "original": "Instant_Self_Heating_Meal_Box_BG.png",
+      "asset": "Instant_Self_Heating_Meal_Box_BG",
+      "path": "道具\\Green\\Instant_Self_Heating_Meal_Box_BG.png"
+    },
+    {
+      "original": "Magnetized_Fragment.png",
+      "asset": "Magnetized_Fragment",
+      "path": "道具\\Green\\Magnetized_Fragment.png"
+    },
+    {
+      "original": "Magnetized_Fragment_BG.png",
+      "asset": "Magnetized_Fragment_BG",
+      "path": "道具\\Green\\Magnetized_Fragment_BG.png"
+    },
+    {
+      "original": "Military_Thermos.png",
+      "asset": "Military_Thermos",
+      "path": "道具\\Green\\Military_Thermos.png"
+    },
+    {
+      "original": "Military_Thermos_BG.png",
+      "asset": "Military_Thermos_BG",
+      "path": "道具\\Green\\Military_Thermos_BG.png"
+    },
+    {
+      "original": "Portable_Solar_Panel.png",
+      "asset": "Portable_Solar_Panel_1",
+      "path": "道具\\Green\\Portable_Solar_Panel.png"
+    },
+    {
+      "original": "Portable_Solar_Panel_BG.png",
+      "asset": "Portable_Solar_Panel_BG",
+      "path": "道具\\Green\\Portable_Solar_Panel_BG.png"
+    },
+    {
+      "original": "Precision_Circuit_Board.png",
+      "asset": "Precision_Circuit_Board",
+      "path": "道具\\Green\\Precision_Circuit_Board.png"
+    },
+    {
+      "original": "Precision_Circuit_Board_BG.png",
+      "asset": "Precision_Circuit_Board_BG",
+      "path": "道具\\Green\\Precision_Circuit_Board_BG.png"
+    },
+    {
+      "original": "Quartz_Crystal_Cluster.png",
+      "asset": "Quartz_Crystal_Cluster",
+      "path": "道具\\Green\\Quartz_Crystal_Cluster.png"
+    },
+    {
+      "original": "Quartz_Crystal_Cluster_BG.png",
+      "asset": "Quartz_Crystal_Cluster_BG",
+      "path": "道具\\Green\\Quartz_Crystal_Cluster_BG.png"
+    },
+    {
+      "original": "Sealed_Energy_Drink_Box.png",
+      "asset": "Sealed_Energy_Drink_Box",
+      "path": "道具\\Green\\Sealed_Energy_Drink_Box.png"
+    },
+    {
+      "original": "Sealed_Energy_Drink_Box_BG.png",
+      "asset": "Sealed_Energy_Drink_Box_BG",
+      "path": "道具\\Green\\Sealed_Energy_Drink_Box_BG.png"
+    },
+    {
+      "original": "Tide_Observer.png",
+      "asset": "Tide_Observer",
+      "path": "道具\\Green\\Tide_Observer.png"
+    },
+    {
+      "original": "Tide_Observer_BG.png",
+      "asset": "Tide_Observer_BG",
+      "path": "道具\\Green\\Tide_Observer_BG.png"
+    },
+    {
+      "original": "Vintage_Kerosene_Lamp.png",
+      "asset": "Vintage_Kerosene_Lamp",
+      "path": "道具\\Green\\Vintage_Kerosene_Lamp.png"
+    },
+    {
+      "original": "Vintage_Kerosene_Lamp_BG.png",
+      "asset": "Vintage_Kerosene_Lamp_BG",
+      "path": "道具\\Green\\Vintage_Kerosene_Lamp_BG.png"
+    },
+    {
+      "original": "Vintage_Phonograph.png",
+      "asset": "Vintage_Phonograph",
+      "path": "道具\\Green\\Vintage_Phonograph.png"
+    },
+    {
+      "original": "Vintage_Phonograph_BG.png",
+      "asset": "Vintage_Phonograph_BG",
+      "path": "道具\\Green\\Vintage_Phonograph_BG.png"
+    },
+    {
+      "original": "Waterproof_Tent_Bag.png",
+      "asset": "Waterproof_Tent_Bag",
+      "path": "道具\\Green\\Waterproof_Tent_Bag.png"
+    },
+    {
+      "original": "Waterproof_Tent_Bag_BG.png",
+      "asset": "Waterproof_Tent_Bag_BG",
+      "path": "道具\\Green\\Waterproof_Tent_Bag_BG.png"
+    },
+    {
+      "original": "Abnormal_Spore_Sample.png",
+      "asset": "Abnormal_Spore_Sample",
+      "path": "道具\\Purple\\Abnormal_Spore_Sample.png"
+    },
+    {
+      "original": "Abnormal_Spore_Sample_BG.png",
+      "asset": "Abnormal_Spore_Sample_BG",
+      "path": "道具\\Purple\\Abnormal_Spore_Sample_BG.png"
+    },
+    {
+      "original": "Amethyst_Rough.png",
+      "asset": "Amethyst_Rough",
+      "path": "道具\\Purple\\Amethyst_Rough.png"
+    },
+    {
+      "original": "Amethyst_Rough_BG.png",
+      "asset": "Amethyst_Rough_BG",
+      "path": "道具\\Purple\\Amethyst_Rough_BG.png"
+    },
+    {
+      "original": "Ancient_Coin_Box.png",
+      "asset": "Ancient_Coin_Box_1",
+      "path": "道具\\Purple\\Ancient_Coin_Box.png"
+    },
+    {
+      "original": "Ancient_Coin_Box_BG.png",
+      "asset": "Ancient_Coin_Box_BG",
+      "path": "道具\\Purple\\Ancient_Coin_Box_BG.png"
+    },
+    {
+      "original": "Battlefield_Pocket_Watch.png",
+      "asset": "Battlefield_Pocket_Watch",
+      "path": "道具\\Purple\\Battlefield_Pocket_Watch.png"
+    },
+    {
+      "original": "Battlefield_Pocket_Watch_BG.png",
+      "asset": "Battlefield_Pocket_Watch_BG",
+      "path": "道具\\Purple\\Battlefield_Pocket_Watch_BG.png"
+    },
+    {
+      "original": "Electrostatic_Storm_Bottle.png",
+      "asset": "Electrostatic_Storm_Bottle",
+      "path": "道具\\Purple\\Electrostatic_Storm_Bottle.png"
+    },
+    {
+      "original": "Electrostatic_Storm_Bottle_BG.png",
+      "asset": "Electrostatic_Storm_Bottle_BG",
+      "path": "道具\\Purple\\Electrostatic_Storm_Bottle_BG.png"
+    },
+    {
+      "original": "Encrypted_Data_Terminal.png",
+      "asset": "Encrypted_Data_Terminal",
+      "path": "道具\\Purple\\Encrypted_Data_Terminal.png"
+    },
+    {
+      "original": "Encrypted_Data_Terminal_BG.png",
+      "asset": "Encrypted_Data_Terminal_BG",
+      "path": "道具\\Purple\\Encrypted_Data_Terminal_BG.png"
+    },
+    {
+      "original": "Folding_Drone.png",
+      "asset": "Folding_Drone",
+      "path": "道具\\Purple\\Folding_Drone.png"
+    },
+    {
+      "original": "Folding_Drone_BG.png",
+      "asset": "Folding_Drone_BG",
+      "path": "道具\\Purple\\Folding_Drone_BG.png"
+    },
+    {
+      "original": "Moonstone_Bracelet.png",
+      "asset": "Moonstone_Bracelet",
+      "path": "道具\\Purple\\Moonstone_Bracelet.png"
+    },
+    {
+      "original": "Moonstone_Bracelet_BG.png",
+      "asset": "Moonstone_Bracelet_BG",
+      "path": "道具\\Purple\\Moonstone_Bracelet_BG.png"
+    },
+    {
+      "original": "Old_Nautical_Chart_Scroll.png",
+      "asset": "Old_Nautical_Chart_Scroll",
+      "path": "道具\\Purple\\Old_Nautical_Chart_Scroll.png"
+    },
+    {
+      "original": "Old_Nautical_Chart_Scroll_BG.png",
+      "asset": "Old_Nautical_Chart_Scroll_BG",
+      "path": "道具\\Purple\\Old_Nautical_Chart_Scroll_BG.png"
+    },
+    {
+      "original": "Portable_Oxygen_Generator.png",
+      "asset": "Portable_Oxygen_Generator_1",
+      "path": "道具\\Purple\\Portable_Oxygen_Generator.png"
+    },
+    {
+      "original": "Portable_Oxygen_Generator_BG.png",
+      "asset": "Portable_Oxygen_Generator_BG",
+      "path": "道具\\Purple\\Portable_Oxygen_Generator_BG.png"
+    },
+    {
+      "original": "Radiant_Crystal_Box.png",
+      "asset": "Radiant_Crystal_Box",
+      "path": "道具\\Purple\\Radiant_Crystal_Box.png"
+    },
+    {
+      "original": "Radiant_Crystal_Box_BG.png",
+      "asset": "Radiant_Crystal_Box_BG",
+      "path": "道具\\Purple\\Radiant_Crystal_Box_BG.png"
+    },
+    {
+      "original": "Steak_Cooler.png",
+      "asset": "Steak_Cooler",
+      "path": "道具\\Purple\\Steak_Cooler.png"
+    },
+    {
+      "original": "Steak_Cooler_BG.png",
+      "asset": "Steak_Cooler_BG",
+      "path": "道具\\Purple\\Steak_Cooler_BG.png"
+    },
+    {
+      "original": "Vintage_Military_Compass.png",
+      "asset": "Vintage_Military_Compass",
+      "path": "道具\\Purple\\Vintage_Military_Compass.png"
+    },
+    {
+      "original": "Vintage_Military_Compass_BG.png",
+      "asset": "Vintage_Military_Compass_BG",
+      "path": "道具\\Purple\\Vintage_Military_Compass_BG.png"
+    },
+    {
+      "original": "Crown_Fragment.png",
+      "asset": "Crown_Fragment_1",
+      "path": "道具\\Red\\Crown_Fragment.png"
+    },
+    {
+      "original": "Crown_Fragment_BG.png",
+      "asset": "Crown_Fragment_BG",
+      "path": "道具\\Red\\Crown_Fragment_BG.png"
+    },
+    {
+      "original": "Encrypted_Storage_Array.png",
+      "asset": "Encrypted_Storage_Array_1",
+      "path": "道具\\Red\\Encrypted_Storage_Array.png"
+    },
+    {
+      "original": "Encrypted_Storage_Array_BG.png",
+      "asset": "Encrypted_Storage_Array_BG",
+      "path": "道具\\Red\\Encrypted_Storage_Array_BG.png"
+    },
+    {
+      "original": "Fresh_Supply_Storage.png",
+      "asset": "Fresh_Supply_Storage",
+      "path": "道具\\Red\\Fresh_Supply_Storage.png"
+    },
+    {
+      "original": "Fresh_Supply_Storage_BG.png",
+      "asset": "Fresh_Supply_Storage_BG",
+      "path": "道具\\Red\\Fresh_Supply_Storage_BG.png"
+    },
+    {
+      "original": "Island_Heart_Rough_Stone.png",
+      "asset": "Island_Heart_Rough_Stone",
+      "path": "道具\\Red\\Island_Heart_Rough_Stone.png"
+    },
+    {
+      "original": "Island_Heart_Rough_Stone_BG.png",
+      "asset": "Island_Heart_Rough_Stone_BG",
+      "path": "道具\\Red\\Island_Heart_Rough_Stone_BG.png"
+    },
+    {
+      "original": "Limited_Tactical_Watch.png",
+      "asset": "Limited_Tactical_Watch_1",
+      "path": "道具\\Red\\Limited_Tactical_Watch.png"
+    },
+    {
+      "original": "Limited_Tactical_Watch_BG.png",
+      "asset": "Limited_Tactical_Watch_BG",
+      "path": "道具\\Red\\Limited_Tactical_Watch_BG.png"
+    },
+    {
+      "original": "Maglev_Core.png",
+      "asset": "Maglev_Core_1",
+      "path": "道具\\Red\\Maglev_Core.png"
+    },
+    {
+      "original": "Maglev_Core_BG.png",
+      "asset": "Maglev_Core_BG",
+      "path": "道具\\Red\\Maglev_Core_BG.png"
+    },
+    {
+      "original": "Scarlet_Signal_Core.png",
+      "asset": "Scarlet_Signal_Core",
+      "path": "道具\\Red\\Scarlet_Signal_Core.png"
+    },
+    {
+      "original": "Scarlet_Signal_Core_BG.png",
+      "asset": "Scarlet_Signal_Core_BG",
+      "path": "道具\\Red\\Scarlet_Signal_Core_BG.png"
+    },
+    {
+      "original": "Starlight_Diamond.png",
+      "asset": "Starlight_Diamond_1",
+      "path": "道具\\Red\\Starlight_Diamond.png"
+    },
+    {
+      "original": "Starlight_Diamond_BG.png",
+      "asset": "Starlight_Diamond_BG",
+      "path": "道具\\Red\\Starlight_Diamond_BG.png"
+    },
+    {
+      "original": "Time_Space_Rift_Sample.png",
+      "asset": "Time_Space_Rift_Sample",
+      "path": "道具\\Red\\Time_Space_Rift_Sample.png"
+    },
+    {
+      "original": "Time_Space_Rift_Sample_BG.png",
+      "asset": "Time_Space_Rift_Sample_BG",
+      "path": "道具\\Red\\Time_Space_Rift_Sample_BG.png"
+    },
+    {
+      "original": "Canned_Luncheon_Meat.png",
+      "asset": "Canned_Luncheon_Meat",
+      "path": "道具\\White\\Canned_Luncheon_Meat.png"
+    },
+    {
+      "original": "Canned_Luncheon_Meat_BG.png",
+      "asset": "Canned_Luncheon_Meat_BG",
+      "path": "道具\\White\\Canned_Luncheon_Meat_BG.png"
+    },
+    {
+      "original": "Commemorative_Can_Set.png",
+      "asset": "Commemorative_Can_Set",
+      "path": "道具\\White\\Commemorative_Can_Set.png"
+    },
+    {
+      "original": "Commemorative_Can_Set_BG.png",
+      "asset": "Commemorative_Can_Set_BG",
+      "path": "道具\\White\\Commemorative_Can_Set_BG.png"
+    },
+    {
+      "original": "Enamel_Water_Cup.png",
+      "asset": "Enamel_Water_Cup",
+      "path": "道具\\White\\Enamel_Water_Cup.png"
+    },
+    {
+      "original": "Enamel_Water_Cup_BG.png",
+      "asset": "Enamel_Water_Cup_BG",
+      "path": "道具\\White\\Enamel_Water_Cup_BG.png"
+    },
+    {
+      "original": "Folding_Cutlery.png",
+      "asset": "Folding_Cutlery",
+      "path": "道具\\White\\Folding_Cutlery.png"
+    },
+    {
+      "original": "Folding_Cutlery_BG.png",
+      "asset": "Folding_Cutlery_BG",
+      "path": "道具\\White\\Folding_Cutlery_BG.png"
+    },
+    {
+      "original": "Glass_Marble_Bag.png",
+      "asset": "Glass_Marble_Bag",
+      "path": "道具\\White\\Glass_Marble_Bag.png"
+    },
+    {
+      "original": "Glass_Marble_Bag_BG.png",
+      "asset": "Glass_Marble_Bag_BG",
+      "path": "道具\\White\\Glass_Marble_Bag_BG.png"
+    },
+    {
+      "original": "Old_Stamp_Album.png",
+      "asset": "Old_Stamp_Album",
+      "path": "道具\\White\\Old_Stamp_Album.png"
+    },
+    {
+      "original": "Old_Stamp_Album_BG.png",
+      "asset": "Old_Stamp_Album_BG",
+      "path": "道具\\White\\Old_Stamp_Album_BG.png"
+    },
+    {
+      "original": "Rolled_Bandage.png",
+      "asset": "Rolled_Bandage",
+      "path": "道具\\White\\Rolled_Bandage.png"
+    },
+    {
+      "original": "Rolled_Bandage_BG.png",
+      "asset": "Rolled_Bandage_BG",
+      "path": "道具\\White\\Rolled_Bandage_BG.png"
+    },
+    {
+      "original": "Slightly_Flawed_Crystal_Ball.png",
+      "asset": "Slightly_Flawed_Crystal_Ball",
+      "path": "道具\\White\\Slightly_Flawed_Crystal_Ball.png"
+    },
+    {
+      "original": "Slightly_Flawed_Crystal_Ball_BG.png",
+      "asset": "Slightly_Flawed_Crystal_Ball_BG",
+      "path": "道具\\White\\Slightly_Flawed_Crystal_Ball_BG.png"
+    },
+    {
+      "original": "Vinyl_Military_Music_Record.png",
+      "asset": "Vinyl_Military_Music_Record",
+      "path": "道具\\White\\Vinyl_Military_Music_Record.png"
+    },
+    {
+      "original": "Vinyl_Military_Music_Record_BG.png",
+      "asset": "Vinyl_Military_Music_Record_BG",
+      "path": "道具\\White\\Vinyl_Military_Music_Record_BG.png"
+    },
+    {
+      "original": "午餐肉罐头.png",
+      "asset": "xxxxtou",
+      "path": "道具 - 副本\\白色\\午餐肉罐头.png"
+    },
+    {
+      "original": "午餐肉罐头（带底图.png",
+      "asset": "xxxxtouxditu",
+      "path": "道具 - 副本\\白色\\午餐肉罐头（带底图.png"
+    },
+    {
+      "original": "卷装绷带.png",
+      "asset": "xzhuangxx",
+      "path": "道具 - 副本\\白色\\卷装绷带.png"
+    },
+    {
+      "original": "卷装绷带（带底图.png",
+      "asset": "xzhuangxxxditu",
+      "path": "道具 - 副本\\白色\\卷装绷带（带底图.png"
+    },
+    {
+      "original": "微瑕水晶球(带底图.png",
+      "asset": "xxxxxxditu_5",
+      "path": "道具 - 副本\\白色\\微瑕水晶球(带底图.png"
+    },
+    {
+      "original": "微瑕水晶球.png",
+      "asset": "xxxxx_5",
+      "path": "道具 - 副本\\白色\\微瑕水晶球.png"
+    },
+    {
+      "original": "折叠餐具.png",
+      "asset": "xxxju",
+      "path": "道具 - 副本\\白色\\折叠餐具.png"
+    },
+    {
+      "original": "折叠餐具（带底图.png",
+      "asset": "xxxjuxditu",
+      "path": "道具 - 副本\\白色\\折叠餐具（带底图.png"
+    },
+    {
+      "original": "搪瓷水杯.png",
+      "asset": "xxxx_4",
+      "path": "道具 - 副本\\白色\\搪瓷水杯.png"
+    },
+    {
+      "original": "搪瓷水杯（带底图.png",
+      "asset": "xxxxxditu_3",
+      "path": "道具 - 副本\\白色\\搪瓷水杯（带底图.png"
+    },
+    {
+      "original": "旧邮票册.png",
+      "asset": "xxxx_5",
+      "path": "道具 - 副本\\白色\\旧邮票册.png"
+    },
+    {
+      "original": "旧邮票册（带底图.png",
+      "asset": "xxxxxditu_4",
+      "path": "道具 - 副本\\白色\\旧邮票册（带底图.png"
+    },
+    {
+      "original": "玻璃弹珠袋(带底图.png",
+      "asset": "xxxxxxditu_6",
+      "path": "道具 - 副本\\白色\\玻璃弹珠袋(带底图.png"
+    },
+    {
+      "original": "玻璃弹珠袋.png",
+      "asset": "xxxxx_6",
+      "path": "道具 - 副本\\白色\\玻璃弹珠袋.png"
+    },
+    {
+      "original": "纪念罐头套装.png",
+      "asset": "xxxtouxzhuang",
+      "path": "道具 - 副本\\白色\\纪念罐头套装.png"
+    },
+    {
+      "original": "纪念罐头套装（带底图.png",
+      "asset": "xxxtouxzhuangxditu",
+      "path": "道具 - 副本\\白色\\纪念罐头套装（带底图.png"
+    },
+    {
+      "original": "黑胶军乐唱片.png",
+      "asset": "xxxxxx_5",
+      "path": "道具 - 副本\\白色\\黑胶军乐唱片.png"
+    },
+    {
+      "original": "黑胶军乐唱片（带底图.png",
+      "asset": "xxxxxxxditu_5",
+      "path": "道具 - 副本\\白色\\黑胶军乐唱片（带底图.png"
+    },
+    {
+      "original": "便携制氧机.png",
+      "asset": "xxxxx_7",
+      "path": "道具 - 副本\\紫色\\便携制氧机.png"
+    },
+    {
+      "original": "便携制氧机（带底图.png",
+      "asset": "xxxxxxditu_7",
+      "path": "道具 - 副本\\紫色\\便携制氧机（带底图.png"
+    },
+    {
+      "original": "加密数据终端.png",
+      "asset": "xxxxxx_6",
+      "path": "道具 - 副本\\紫色\\加密数据终端.png"
+    },
+    {
+      "original": "加密数据终端（带底图.png",
+      "asset": "xxxxxxxditu_6",
+      "path": "道具 - 副本\\紫色\\加密数据终端（带底图.png"
+    },
+    {
+      "original": "古代硬币匣.png",
+      "asset": "xxxbix_1",
+      "path": "道具 - 副本\\紫色\\古代硬币匣.png"
+    },
+    {
+      "original": "古代硬币匣（带底图.png",
+      "asset": "xxxbixxditu_1",
+      "path": "道具 - 副本\\紫色\\古代硬币匣（带底图.png"
+    },
+    {
+      "original": "异常孢子样本.png",
+      "asset": "xxxzixx",
+      "path": "道具 - 副本\\紫色\\异常孢子样本.png"
+    },
+    {
+      "original": "异常孢子样本（带底图.png",
+      "asset": "xxxzixxxditu",
+      "path": "道具 - 副本\\紫色\\异常孢子样本（带底图.png"
+    },
+    {
+      "original": "战地怀表.png",
+      "asset": "xxxx_6",
+      "path": "道具 - 副本\\紫色\\战地怀表.png"
+    },
+    {
+      "original": "战地怀表（带底图.png",
+      "asset": "xxxxxditu_5",
+      "path": "道具 - 副本\\紫色\\战地怀表（带底图.png"
+    },
+    {
+      "original": "折叠无人机.png",
+      "asset": "xxxrenx",
+      "path": "道具 - 副本\\紫色\\折叠无人机.png"
+    },
+    {
+      "original": "折叠无人机（带底图.png",
+      "asset": "xxxrenxxditu",
+      "path": "道具 - 副本\\紫色\\折叠无人机（带底图.png"
+    },
+    {
+      "original": "旧式军用罗盘.png",
+      "asset": "xxxxxpan",
+      "path": "道具 - 副本\\紫色\\旧式军用罗盘.png"
+    },
+    {
+      "original": "旧式军用罗盘（带底图.png",
+      "asset": "xxxxxpanxditu",
+      "path": "道具 - 副本\\紫色\\旧式军用罗盘（带底图.png"
+    },
+    {
+      "original": "旧海图密卷.png",
+      "asset": "xxtuxx",
+      "path": "道具 - 副本\\紫色\\旧海图密卷.png"
+    },
+    {
+      "original": "旧海图密卷（带底图.png",
+      "asset": "xxtuxxxditu",
+      "path": "道具 - 副本\\紫色\\旧海图密卷（带底图.png"
+    },
+    {
+      "original": "月光石手链.png",
+      "asset": "xguangxxx",
+      "path": "道具 - 副本\\紫色\\月光石手链.png"
+    },
+    {
+      "original": "月光石手链（带底图.png",
+      "asset": "xguangxxxxditu",
+      "path": "道具 - 副本\\紫色\\月光石手链（带底图.png"
+    },
+    {
+      "original": "牛排冷藏箱.png",
+      "asset": "xxxxx_8",
+      "path": "道具 - 副本\\紫色\\牛排冷藏箱.png"
+    },
+    {
+      "original": "牛排冷藏箱（带底图.png",
+      "asset": "xxxxxxditu_8",
+      "path": "道具 - 副本\\紫色\\牛排冷藏箱（带底图.png"
+    },
+    {
+      "original": "紫晶原矿(带底图.png",
+      "asset": "xxxxxditu_6",
+      "path": "道具 - 副本\\紫色\\紫晶原矿(带底图.png"
+    },
+    {
+      "original": "紫晶原矿.png",
+      "asset": "xxxx_7",
+      "path": "道具 - 副本\\紫色\\紫晶原矿.png"
+    },
+    {
+      "original": "辐光结晶盒.png",
+      "asset": "xguangxxx_1",
+      "path": "道具 - 副本\\紫色\\辐光结晶盒.png"
+    },
+    {
+      "original": "辐光结晶盒（带底图.png",
+      "asset": "xguangxxxxditu_1",
+      "path": "道具 - 副本\\紫色\\辐光结晶盒（带底图.png"
+    },
+    {
+      "original": "静电风暴瓶.png",
+      "asset": "xxxxx_9",
+      "path": "道具 - 副本\\紫色\\静电风暴瓶.png"
+    },
+    {
+      "original": "静电风暴瓶（带底图.png",
+      "asset": "xxxxxxditu_9",
+      "path": "道具 - 副本\\紫色\\静电风暴瓶（带底图.png"
+    },
+    {
+      "original": "加密存储阵列.png",
+      "asset": "xxxxxx_7",
+      "path": "道具 - 副本\\红色\\加密存储阵列.png"
+    },
+    {
+      "original": "加密存储阵列（带底图.png",
+      "asset": "xxxxxxxditu_7",
+      "path": "道具 - 副本\\红色\\加密存储阵列（带底图.png"
+    },
+    {
+      "original": "时空裂隙样本.png",
+      "asset": "xkongxxxx_1",
+      "path": "道具 - 副本\\红色\\时空裂隙样本.png"
+    },
+    {
+      "original": "时空裂隙样本（带底图.png",
+      "asset": "xkongxxxxxditu_1",
+      "path": "道具 - 副本\\红色\\时空裂隙样本（带底图.png"
+    },
+    {
+      "original": "星辉钻石.png",
+      "asset": "xxxx_8",
+      "path": "道具 - 副本\\红色\\星辉钻石.png"
+    },
+    {
+      "original": "星辉钻石（带底图.png",
+      "asset": "xxxxxditu_7",
+      "path": "道具 - 副本\\红色\\星辉钻石（带底图.png"
+    },
+    {
+      "original": "永鲜补给仓.png",
+      "asset": "xxxxx_10",
+      "path": "道具 - 副本\\红色\\永鲜补给仓.png"
+    },
+    {
+      "original": "永鲜补给仓（带底图.png",
+      "asset": "xxxxxxditu_10",
+      "path": "道具 - 副本\\红色\\永鲜补给仓（带底图.png"
+    },
+    {
+      "original": "海岛之心原石.png",
+      "asset": "xxxxxx_8",
+      "path": "道具 - 副本\\红色\\海岛之心原石.png"
+    },
+    {
+      "original": "海岛之心原石（带底图.png",
+      "asset": "xxxxxxxditu_8",
+      "path": "道具 - 副本\\红色\\海岛之心原石（带底图.png"
+    },
+    {
+      "original": "猩红信号核心.png",
+      "asset": "xxxxxx_9",
+      "path": "道具 - 副本\\红色\\猩红信号核心.png"
+    },
+    {
+      "original": "猩红信号核心（带底图.png",
+      "asset": "xxxxxxxditu_9",
+      "path": "道具 - 副本\\红色\\猩红信号核心（带底图.png"
+    },
+    {
+      "original": "王冠碎片.png",
+      "asset": "xxxx_9",
+      "path": "道具 - 副本\\红色\\王冠碎片.png"
+    },
+    {
+      "original": "王冠碎片（带底图.png",
+      "asset": "xxxxxditu_8",
+      "path": "道具 - 副本\\红色\\王冠碎片（带底图.png"
+    },
+    {
+      "original": "磁悬浮核心.png",
+      "asset": "xxxxx_11",
+      "path": "道具 - 副本\\红色\\磁悬浮核心.png"
+    },
+    {
+      "original": "磁悬浮核心（带底图.png",
+      "asset": "xxxxxxditu_11",
+      "path": "道具 - 副本\\红色\\磁悬浮核心（带底图.png"
+    },
+    {
+      "original": "限量战术腕表.png",
+      "asset": "xxxxxx_10",
+      "path": "道具 - 副本\\红色\\限量战术腕表.png"
+    },
+    {
+      "original": "限量战术腕表（带底图.png",
+      "asset": "xxxxxxxditu_10",
+      "path": "道具 - 副本\\红色\\限量战术腕表（带底图.png"
+    },
+    {
+      "original": "便携太阳能板.png",
+      "asset": "xxxxnengx_1",
+      "path": "道具 - 副本\\绿色\\便携太阳能板.png"
+    },
+    {
+      "original": "便携太阳能板（带底图.png",
+      "asset": "xxxxnengxxditu_1",
+      "path": "道具 - 副本\\绿色\\便携太阳能板（带底图.png"
+    },
+    {
+      "original": "军用保温壶.png",
+      "asset": "xxbaoxx",
+      "path": "道具 - 副本\\绿色\\军用保温壶.png"
+    },
+    {
+      "original": "军用保温壶（带底图.png",
+      "asset": "xxbaoxxxditu",
+      "path": "道具 - 副本\\绿色\\军用保温壶（带底图.png"
+    },
+    {
+      "original": "压缩饼干箱.png",
+      "asset": "xxxxx_12",
+      "path": "道具 - 副本\\绿色\\压缩饼干箱.png"
+    },
+    {
+      "original": "压缩饼干箱（带底图.png",
+      "asset": "xxxxxxditu_12",
+      "path": "道具 - 副本\\绿色\\压缩饼干箱（带底图.png"
+    },
+    {
+      "original": "密封能量饮料箱.png",
+      "asset": "xxnengxxxx",
+      "path": "道具 - 副本\\绿色\\密封能量饮料箱.png"
+    },
+    {
+      "original": "密封能量饮料箱（带底图.png",
+      "asset": "xxnengxxxxxditu",
+      "path": "道具 - 副本\\绿色\\密封能量饮料箱（带底图.png"
+    },
+    {
+      "original": "手绘航海日志(带底图.png",
+      "asset": "xxxxrixxditu",
+      "path": "道具 - 副本\\绿色\\手绘航海日志(带底图.png"
+    },
+    {
+      "original": "手绘航海日志.png",
+      "asset": "xxxxrix",
+      "path": "道具 - 副本\\绿色\\手绘航海日志.png"
+    },
+    {
+      "original": "旧式唱片机.png",
+      "asset": "xxxxx_13",
+      "path": "道具 - 副本\\绿色\\旧式唱片机.png"
+    },
+    {
+      "original": "旧式唱片机（带底图.png",
+      "asset": "xxxxxxditu_13",
+      "path": "道具 - 副本\\绿色\\旧式唱片机（带底图.png"
+    },
+    {
+      "original": "潮汐观测仪.png",
+      "asset": "xxxxx_14",
+      "path": "道具 - 副本\\绿色\\潮汐观测仪.png"
+    },
+    {
+      "original": "潮汐观测仪（带底图.png",
+      "asset": "xxxxxxditu_14",
+      "path": "道具 - 副本\\绿色\\潮汐观测仪（带底图.png"
+    },
+    {
+      "original": "珊瑚珠串(带底图.png",
+      "asset": "xxxxxditu_9",
+      "path": "道具 - 副本\\绿色\\珊瑚珠串(带底图.png"
+    },
+    {
+      "original": "珊瑚珠串.png",
+      "asset": "xxxx_10",
+      "path": "道具 - 副本\\绿色\\珊瑚珠串.png"
+    },
+    {
+      "original": "石英晶簇.png",
+      "asset": "xxxx_11",
+      "path": "道具 - 副本\\绿色\\石英晶簇.png"
+    },
+    {
+      "original": "石英晶簇（带底图.png",
+      "asset": "xxxxxditu_10",
+      "path": "道具 - 副本\\绿色\\石英晶簇（带底图.png"
+    },
+    {
+      "original": "磁化碎片.png",
+      "asset": "xxxx_12",
+      "path": "道具 - 副本\\绿色\\磁化碎片.png"
+    },
+    {
+      "original": "磁化碎片（带底图.png",
+      "asset": "xxxxxditu_11",
+      "path": "道具 - 副本\\绿色\\磁化碎片（带底图.png"
+    },
+    {
+      "original": "精密电路板.png",
+      "asset": "xxxxx_15",
+      "path": "道具 - 副本\\绿色\\精密电路板.png"
+    },
+    {
+      "original": "精密电路板（带底图.png",
+      "asset": "xxxxxxditu_15",
+      "path": "道具 - 副本\\绿色\\精密电路板（带底图.png"
+    },
+    {
+      "original": "老式煤油灯.png",
+      "asset": "xxxxx_16",
+      "path": "道具 - 副本\\绿色\\老式煤油灯.png"
+    },
+    {
+      "original": "老式煤油灯（带底图.png",
+      "asset": "xxxxxxditu_16",
+      "path": "道具 - 副本\\绿色\\老式煤油灯（带底图.png"
+    },
+    {
+      "original": "速食自热餐箱(带底图.png",
+      "asset": "xxxxxxxditu_11",
+      "path": "道具 - 副本\\绿色\\速食自热餐箱(带底图.png"
+    },
+    {
+      "original": "速食自热餐箱.png",
+      "asset": "xxxxxx_11",
+      "path": "道具 - 副本\\绿色\\速食自热餐箱.png"
+    },
+    {
+      "original": "防水帐篷包(带底图.png",
+      "asset": "xxxxxxditu_17",
+      "path": "道具 - 副本\\绿色\\防水帐篷包(带底图.png"
+    },
+    {
+      "original": "防水帐篷包.png",
+      "asset": "xxxxx_17",
+      "path": "道具 - 副本\\绿色\\防水帐篷包.png"
+    },
+    {
+      "original": "高能营养剂.png",
+      "asset": "xnengxxx",
+      "path": "道具 - 副本\\绿色\\高能营养剂.png"
+    },
+    {
+      "original": "高能营养剂（带底图.png",
+      "asset": "xnengxxxxditu",
+      "path": "道具 - 副本\\绿色\\高能营养剂（带底图.png"
+    },
+    {
+      "original": "便携净水器.png",
+      "asset": "xxxxx_18",
+      "path": "道具 - 副本\\蓝色\\便携净水器.png"
+    },
+    {
+      "original": "便携净水器（带底图.png",
+      "asset": "xxxxxxditu_18",
+      "path": "道具 - 副本\\蓝色\\便携净水器（带底图.png"
+    },
+    {
+      "original": "军用电台.png",
+      "asset": "xxxx_13",
+      "path": "道具 - 副本\\蓝色\\军用电台.png"
+    },
+    {
+      "original": "军用电台（带底图.png",
+      "asset": "xxxxxditu_12",
+      "path": "道具 - 副本\\蓝色\\军用电台（带底图.png"
+    },
+    {
+      "original": "冻干补给箱.png",
+      "asset": "xxxxx_19",
+      "path": "道具 - 副本\\蓝色\\冻干补给箱.png"
+    },
+    {
+      "original": "冻干补给箱（带底图.png",
+      "asset": "xxxxxxditu_19",
+      "path": "道具 - 副本\\蓝色\\冻干补给箱（带底图.png"
+    },
+    {
+      "original": "反重力碎片.png",
+      "asset": "xxxxx_20",
+      "path": "道具 - 副本\\蓝色\\反重力碎片.png"
+    },
+    {
+      "original": "反重力碎片（带底图.png",
+      "asset": "xxxxxxditu_20",
+      "path": "道具 - 副本\\蓝色\\反重力碎片（带底图.png"
+    },
+    {
+      "original": "异变木雕.png",
+      "asset": "xxxx_14",
+      "path": "道具 - 副本\\蓝色\\异变木雕.png"
+    },
+    {
+      "original": "异变木雕（带底图.png",
+      "asset": "xxxxxditu_13",
+      "path": "道具 - 副本\\蓝色\\异变木雕（带底图.png"
+    },
+    {
+      "original": "微光菌丝样本.png",
+      "asset": "xguangxxxx",
+      "path": "道具 - 副本\\蓝色\\微光菌丝样本.png"
+    },
+    {
+      "original": "微光菌丝样本（带底图.png",
+      "asset": "xguangxxxxxditu",
+      "path": "道具 - 副本\\蓝色\\微光菌丝样本（带底图.png"
+    },
+    {
+      "original": "战地医疗箱.png",
+      "asset": "xxxxx_21",
+      "path": "道具 - 副本\\蓝色\\战地医疗箱.png"
+    },
+    {
+      "original": "战地医疗箱（带底图.png",
+      "asset": "xxxxxxditu_21",
+      "path": "道具 - 副本\\蓝色\\战地医疗箱（带底图.png"
+    },
+    {
+      "original": "战术望远镜.png",
+      "asset": "xxxxx_22",
+      "path": "道具 - 副本\\蓝色\\战术望远镜.png"
+    },
+    {
+      "original": "战术望远镜（带底图.png",
+      "asset": "xxxxxxditu_22",
+      "path": "道具 - 副本\\蓝色\\战术望远镜（带底图.png"
+    },
+    {
+      "original": "旧型导航芯片.png",
+      "asset": "xxxxxx_12",
+      "path": "道具 - 副本\\蓝色\\旧型导航芯片.png"
+    },
+    {
+      "original": "旧型导航芯片（带底图.png",
+      "asset": "xxxxxxxditu_12",
+      "path": "道具 - 副本\\蓝色\\旧型导航芯片（带底图.png"
+    },
+    {
+      "original": "特级战地咖啡.png",
+      "asset": "texxxxx",
+      "path": "道具 - 副本\\蓝色\\特级战地咖啡.png"
+    },
+    {
+      "original": "特级战地咖啡（带底图.png",
+      "asset": "texxxxxxditu",
+      "path": "道具 - 副本\\蓝色\\特级战地咖啡（带底图.png"
+    },
+    {
+      "original": "琥珀吊坠.png",
+      "asset": "xxxx_15",
+      "path": "道具 - 副本\\蓝色\\琥珀吊坠.png"
+    },
+    {
+      "original": "琥珀吊坠（带底图.png",
+      "asset": "xxxxxditu_14",
+      "path": "道具 - 副本\\蓝色\\琥珀吊坠（带底图.png"
+    },
+    {
+      "original": "真空口粮箱(带底图.png",
+      "asset": "xkongxxxxditu",
+      "path": "道具 - 副本\\蓝色\\真空口粮箱(带底图.png"
+    },
+    {
+      "original": "真空口粮箱.png",
+      "asset": "xkongxxx",
+      "path": "道具 - 副本\\蓝色\\真空口粮箱.png"
+    },
+    {
+      "original": "碳纤维旅行箱.png",
+      "asset": "xxxxxx_13",
+      "path": "道具 - 副本\\蓝色\\碳纤维旅行箱.png"
+    },
+    {
+      "original": "碳纤维旅行箱（带底图.png",
+      "asset": "xxxxxxxditu_13",
+      "path": "道具 - 副本\\蓝色\\碳纤维旅行箱（带底图.png"
+    },
+    {
+      "original": "锈蚀舰船铭牌.png",
+      "asset": "xxxxxx_14",
+      "path": "道具 - 副本\\蓝色\\锈蚀舰船铭牌.png"
+    },
+    {
+      "original": "锈蚀舰船铭牌（带底图.png",
+      "asset": "xxxxxxxditu_14",
+      "path": "道具 - 副本\\蓝色\\锈蚀舰船铭牌（带底图.png"
+    },
+    {
+      "original": "防爆工具箱.png",
+      "asset": "xxxjux",
+      "path": "道具 - 副本\\蓝色\\防爆工具箱.png"
+    },
+    {
+      "original": "防爆工具箱（带底图.png",
+      "asset": "xxxjuxxditu",
+      "path": "道具 - 副本\\蓝色\\防爆工具箱（带底图.png"
+    },
+    {
+      "original": "黑曜石雕件(带底图.png",
+      "asset": "xxxxxxditu_23",
+      "path": "道具 - 副本\\蓝色\\黑曜石雕件(带底图.png"
+    },
+    {
+      "original": "黑曜石雕件.png",
+      "asset": "xxxxx_23",
+      "path": "道具 - 副本\\蓝色\\黑曜石雕件.png"
+    },
+    {
+      "original": "低语黑匣.png",
+      "asset": "xxxx_16",
+      "path": "道具 - 副本\\金色\\低语黑匣.png"
+    },
+    {
+      "original": "低语黑匣（带底图.png",
+      "asset": "xxxxxditu_15",
+      "path": "道具 - 副本\\金色\\低语黑匣（带底图.png"
+    },
+    {
+      "original": "复古打字机(带底图.png",
+      "asset": "xxxzixxditu",
+      "path": "道具 - 副本\\金色\\复古打字机(带底图.png"
+    },
+    {
+      "original": "复古打字机.png",
+      "asset": "xxxzix",
+      "path": "道具 - 副本\\金色\\复古打字机.png"
+    },
+    {
+      "original": "热成像模组.png",
+      "asset": "xxxiangxx",
+      "path": "道具 - 副本\\金色\\热成像模组.png"
+    },
+    {
+      "original": "热成像模组（带底图.png",
+      "asset": "xxxiangxxxditu",
+      "path": "道具 - 副本\\金色\\热成像模组（带底图.png"
+    },
+    {
+      "original": "祖母绿胸针.png",
+      "asset": "xxxxx_24",
+      "path": "道具 - 副本\\金色\\祖母绿胸针.png"
+    },
+    {
+      "original": "祖母绿胸针（带底图.png",
+      "asset": "xxxxxxditu_24",
+      "path": "道具 - 副本\\金色\\祖母绿胸针（带底图.png"
+    },
+    {
+      "original": "蓝焰蓝宝石(带底图.png",
+      "asset": "xxxxxxditu_25",
+      "path": "道具 - 副本\\金色\\蓝焰蓝宝石(带底图.png"
+    },
+    {
+      "original": "蓝焰蓝宝石.png",
+      "asset": "xxxxx_25",
+      "path": "道具 - 副本\\金色\\蓝焰蓝宝石.png"
+    },
+    {
+      "original": "量子测距仪.png",
+      "asset": "xzixxx",
+      "path": "道具 - 副本\\金色\\量子测距仪.png"
+    },
+    {
+      "original": "量子测距仪（带底图.png",
+      "asset": "xzixxxxditu",
+      "path": "道具 - 副本\\金色\\量子测距仪（带底图.png"
+    },
+    {
+      "original": "鎏金军功章.png",
+      "asset": "xjinxxx",
+      "path": "道具 - 副本\\金色\\鎏金军功章.png"
+    },
+    {
+      "original": "鎏金军功章（带底图.png",
+      "asset": "xjinxxxxditu",
+      "path": "道具 - 副本\\金色\\鎏金军功章（带底图.png"
+    },
+    {
+      "original": "钛合金无人机.png",
+      "asset": "xxjinxrenx",
+      "path": "道具 - 副本\\金色\\钛合金无人机.png"
+    },
+    {
+      "original": "钛合金无人机（带底图.png",
+      "asset": "xxjinxrenxxditu",
+      "path": "道具 - 副本\\金色\\钛合金无人机（带底图.png"
+    },
+    {
+      "original": "黄金鱼子酱.png",
+      "asset": "xjinxzix",
+      "path": "道具 - 副本\\金色\\黄金鱼子酱.png"
+    },
+    {
+      "original": "黄金鱼子酱（带底图.png",
+      "asset": "xjinxzixxditu",
+      "path": "道具 - 副本\\金色\\黄金鱼子酱（带底图.png"
+    },
+    {
+      "original": "黄铜潜水钟.png",
+      "asset": "xxxxx_26",
+      "path": "道具 - 副本\\金色\\黄铜潜水钟.png"
+    },
+    {
+      "original": "黄铜潜水钟（带底图.png",
+      "asset": "xxxxxxditu_26",
+      "path": "道具 - 副本\\金色\\黄铜潜水钟（带底图.png"
+    }
+  ],
+  "timestamp": "2026-09-01T06:30:29.186Z"
+}

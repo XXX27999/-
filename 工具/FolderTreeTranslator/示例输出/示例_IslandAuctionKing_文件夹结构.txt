@@ -1,0 +1,64 @@
+==============================================================================
+地图项目：D:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\IslandAuctionKing
+生成时间：2026-09-14 15:38:07
+==============================================================================
+
+【表格文件夹】配置表 / DataTable 目录
+------------------------------------------------------------------------------
+表格文件夹  (Asset/Data)  [配置表 / DataTable 目录]
+├── Table/  ->  配置表
+│   ├── Customized/  ->  自定义
+│   │   ├── Dress/  ->  装扮
+│   │   │   ├── DressConfigTable.uasset  ->  装扮配置表
+│   │   │   ├── DressControlTable.uasset  ->  装扮方案表
+│   │   │   ├── DressMaterialTable.uasset  ->  装扮材质配置表
+│   │   │   ├── UGCTemplateRowStruct_DressConfigTable.uasset  ->  表格行结构模板：装扮配置表
+│   │   │   ├── UGCTemplateRowStruct_DressControlTable.uasset  ->  表格行结构模板：装扮方案表
+│   │   │   └── UGCTemplateRowStruct_DressMaterialTable.uasset  ->  表格行结构模板：装扮材质配置表
+│   │   ├── Guarantee/  ->  保底
+│   │   │   ├── GuaranteeConfigTable.uasset  ->  保底配置表
+│   │   │   └── UGCTemplateRowStruct_GuaranteeConfigTable.uasset  ->  表格行结构模板：保底配置表
+│   │   ├── UI/  ->  界面
+│   │   │   ├── AuctionUITexturePathSet.uasset  ->  竞拍界面贴图路径集合
+│   │   │   ├── UGCTemplateRowStruct_UIConfigTable.uasset  ->  表格行结构模板：界面配置表
+│   │   │   └── UIConfigTable.uasset  ->  界面配置表
+│   │   ├── AuctionCharacterSkillTable.uasset  ->  竞拍角色技能配置表
+│   │   ├── AuctionGlobalConfigTable.uasset  ->  竞拍全局配置表
+│   │   ├── AuctionPropGroupTable.uasset  ->  竞拍道具分组配置表
+│   │   ├── AuctionPropTable.uasset  ->  竞拍道具配置表
+│   │   ├── AuctionPublicIntelTable.uasset  ->  竞拍公共情报配置表
+│   │   ├── CollectibleTable.uasset  ->  收藏品表
+│   │   ├── ImageMaterialTable.uasset  ->  图片材质配置表
+│   │   ├── UGCTemplateRowStruct_AuctionCharacterSkillTable.uasset  ->  表格行结构模板：竞拍角色技能配置表
+│   │   ├── UGCTemplateRowStruct_AuctionGlobalConfigTable.uasset  ->  表格行结构模板：竞拍全局配置表
+│   │   ├── UGCTemplateRowStruct_AuctionPropGroupTable.uasset  ->  表格行结构模板：竞拍道具分组配置表
+│   │   ├── UGCTemplateRowStruct_AuctionPropTable.uasset  ->  表格行结构模板：竞拍道具配置表
+│   │   ├── UGCTemplateRowStruct_AuctionPublicIntelTable.uasset  ->  表格行结构模板：竞拍公共情报配置表
+│   │   ├── UGCTemplateRowStruct_CollectibleTable.uasset  ->  表格行结构模板：收藏品表
+│   │   └── UGCTemplateRowStruct_ImageMaterialTable.uasset  ->  表格行结构模板：图片材质配置表
+│   ├── ExUIList.uasset  ->  扩展界面列表
+│   ├── UGCBattleItem.uasset  ->  战斗物品
+│   └── UGCWeaponAttachment.uasset  ->  武器配件
+└── DA_GameModeGeneral.uasset  ->  数据资产：游戏模式通用
+
+【UI 文件夹】界面蓝图预制体目录
+------------------------------------------------------------------------------
+UI 文件夹  (Asset/Blueprint/Prefabs/UI)  [界面蓝图预制体目录]
+├── AuctionCharacterSelectUI.uasset  ->  竞拍角色选择界面
+├── AuctionDressUI.uasset  ->  竞拍装扮界面
+├── AuctionGuaranteeGoldUI.uasset  ->  竞拍保底金色界面
+├── AuctionHouseSelectUI.uasset  ->  竞拍场次选择界面
+├── AuctionPropSelectUI.uasset  ->  竞拍道具选择界面
+├── AuctionSettlementUI.uasset  ->  竞拍结算界面
+├── AuctionTestUI.uasset  ->  竞拍测试界面
+├── CharacterPropSelectTestUI.uasset  ->  角色道具选择测试界面
+├── CollectibleCodexItemUI.uasset  ->  收藏品图鉴条目界面
+├── CollectibleCodexUI.uasset  ->  收藏品图鉴界面
+└── ZhuJieMian.uasset  ->  主界面
+
+【物品文件夹】物品编辑器（物编）物品资产目录
+------------------------------------------------------------------------------
+物品文件夹  (Asset/Blueprint/Prefabs/Items)  [物品编辑器（物编）物品资产目录]
+└── text.uasset  ->  文本
+
+扫描完成：8 个文件夹 · 41 个文件 · 合计 2.8 MB · 中文名完整率 100.0%

@@ -1,0 +1,12 @@
+# ESpawnActorCollisionHandlingMethod
+
+## Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Undefined | 0 |  |
+| AlwaysSpawn | 1 |  |
+| AdjustIfPossibleButAlwaysSpawn | 2 |  |
+| AdjustIfPossibleButDontSpawnIfColliding | 3 |  |
+| DontSpawnIfColliding | 4 |  |
+| TryToFindASuitablePlaceButAlwaysSpawn | 5 |  |

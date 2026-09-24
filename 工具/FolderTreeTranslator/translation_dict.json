@@ -1,0 +1,8 @@
+{
+  "_说明": "按需扩充翻译词典；words=单词表，segs=整段表，names=完整名表，prefixes=前缀表，exts=扩展名表。修改后重新扫描即可生效。",
+  "words": {},
+  "segs": {},
+  "names": {},
+  "prefixes": {},
+  "exts": {}
+}

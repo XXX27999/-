@@ -1,0 +1,7 @@
+interface:
+  display_name: "Oasis UI Screenshot"
+  short_description: "Click, render, crop, and verify a target UI from the Oasis editor"
+  default_prompt: "Use $oasis-ui-screenshot to capture the selected Oasis editor UI, or resolve a supplied /Project/Asset/.../File path recursively with FlaUI, click and activate the asset, then save a verified PNG containing only the requested red-box region."
+
+policy:
+  allow_implicit_invocation: true

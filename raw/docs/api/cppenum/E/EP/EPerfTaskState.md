@@ -1,0 +1,10 @@
+# EPerfTaskState
+
+## Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Pending | 0 |  |
+| Running | 1 |  |
+| Completed | 2 |  |
+| Failed | 3 |  |

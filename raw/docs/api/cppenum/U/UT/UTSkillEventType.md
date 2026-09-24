@@ -1,0 +1,32 @@
+# UTSkillEventType
+
+## Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| SET_KEY_DOWN | 0 |  |
+| SET_KEY_UP | 1 |  |
+| SET_COLLIDE_TARGET | 2 |  |
+| SET_MISS_TARGET | 3 |  |
+| SET_HIT_TARGET | 4 |  |
+| SET_KILL_TARGET | 5 |  |
+| SET_COLLIDE_ACTOR | 6 |  |
+| SET_FINDPATH_FINISH | 7 |  |
+| SET_SKILL_ACTIVE | 8 |  |
+| SET_SKILL_CAST | 9 |  |
+| SET_SKILL_INIT | 10 |  |
+| SET_PHASE_START | 11 |  |
+| SET_PHASE_FINISH | 12 |  |
+| SET_PHASE_FINISH_EARLY | 13 |  |
+| SET_PHASE_INTERRUPT | 14 |  |
+| SET_SKILL_FINISH | 15 |  |
+| SET_SKILL_CANCEL | 16 |  |
+| SET_SKILL_CLOSE | 17 |  |
+| SET_SKILL_INTERRUPT | 18 |  |
+| SET_NO_TARGET | 19 |  |
+| SET_NO_LOCATION | 20 |  |
+| SET_ATTEMPT_ACTIVE | 21 |  |
+| SET_SKILLENERGY_EMPTY | 22 |  |
+| SET_SKILLENERGY_FULL | 23 |  |
+| SET_SKILL_START_CONDITION | 24 |  |
+| SET_DEFAULT_MAX | 25 |  |

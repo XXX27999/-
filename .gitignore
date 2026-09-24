@@ -1,0 +1,34 @@
+# Local debug backups are intentionally not published.
+/备份/
+
+# Local editor and agent state, session history, and plugin binaries.
+/.obsidian/
+/.claudian/
+
+# Runtime/build artifacts and local environments.
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/*.dll
+**/*.exe
+**/*.node
+**/*.pdb
+**/*.onnx
+**/*.pkg
+**/*.zip
+**/*.7z
+**/*.rar
+**/*.bin
+**/*.pak
+**/node_modules/
+**/.venv/
+/工具/outputs/
+/工具/platform-tools/
+
+# Generated asset dumps are reproducible from the editor and can be very large.
+**/_JsonOutput/
+
+# Local credential-bearing configuration must stay out of the public repository.
+/工具/outputs/relay-latency-probe/settings.json
+/工具/AI配置归档/plugins/workbuddy/04_workbuddy_models.json

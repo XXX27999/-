@@ -1,0 +1,7 @@
+interface:
+  display_name: "绿洲提示词优化"
+  short_description: "把每个问题先优化成可检索、可执行、可验证的任务词再作答"
+  default_prompt: "使用 $oasis-prompt-optimize 先优化当前问题，再按优化后的任务词作答。"
+
+policy:
+  allow_implicit_invocation: true

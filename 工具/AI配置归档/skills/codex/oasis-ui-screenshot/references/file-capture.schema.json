@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.invalid/oasis-ui-screenshot/file-capture.schema.json",
+  "title": "Oasis UI file capture action",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["captureFile", "output"],
+  "properties": {
+    "captureFile": {
+      "type": "string",
+      "description": "Absolute Oasis asset path: /<ProjectName>/Asset/<folder>/.../<file>."
+    },
+    "output": {
+      "type": "string",
+      "pattern": "^(?:[A-Za-z]:[\\\\/]|/).+\\.png$",
+      "description": "Absolute PNG output path."
+    },
+    "processName": {
+      "type": "string",
+      "default": "ShadowTrackerExtraUGCEditor"
+    },
+    "title": {
+      "type": "string",
+      "description": "Exact visible window title returned by FlaUI --list."
+    },
+    "timeoutMs": {
+      "type": "integer",
+      "minimum": 1,
+      "default": 15000
+    },
+    "pollMs": {
+      "type": "integer",
+      "minimum": 1,
+      "default": 250
+    },
+    "stabilityFrames": {
+      "type": "integer",
+      "minimum": 1,
+      "default": 2
+    },
+    "cropRedBox": {
+      "type": "boolean",
+      "default": true,
+      "description": "Save only the target red-box interior; when no red annotation is present, use the selected UMG preview frame as a validated fallback crop."
+    }
+  },
+  "x-execution": {
+    "command": "dotnet run --project FlaUiCapture.csproj -c Release --no-build -- --capture-file <captureFile> --output <output> --crop-red-box",
+    "transport": "FlaUI.UIA3",
+    "capture": "FlaUI.Core.Capturing.Capture.Element",
+    "result": "JSON on stdout"
+  }
+}

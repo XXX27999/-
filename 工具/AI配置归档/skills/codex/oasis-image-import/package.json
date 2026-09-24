@@ -1,0 +1,13 @@
+{
+  "name": "oasis-image-import",
+  "version": "1.0.0",
+  "description": "绿洲编辑器图片批量导入工具",
+  "type": "module",
+  "main": "scripts/batch_import.mjs",
+  "scripts": {
+    "test": "node scripts/batch_import.mjs \"C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\可用\\主界面UI\" \"/IslandAuctionKing/Asset/TuPian/Test\" 16"
+  },
+  "keywords": ["oasis", "unreal", "import", "texture", "batch"],
+  "author": "",
+  "license": "MIT"
+}

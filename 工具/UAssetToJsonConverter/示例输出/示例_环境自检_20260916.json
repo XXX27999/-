@@ -1,0 +1,51 @@
+{
+  "app": "UAsset 转 JSON 同步工具",
+  "version": "1.0.0",
+  "frozen": true,
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "config": {
+    "project": "D:\\WeGameApps\\rail_apps\\OasisEraEditor(2001776)\\ShadowTrackerExtra\\UGCProjects\\IslandAuctionKing",
+    "output": "D:\\知识库\\和平精英绿洲起源\\raw\\IslandAuctionKing\\_JsonOutput",
+    "uassetgui": "C:\\Program Files (x86)\\UAssetGUI.exe",
+    "ue_version": "VER_UE4_24",
+    "poll_interval": 2
+  },
+  "ok": true,
+  "checks": [
+    {
+      "item": "uassetgui_exists",
+      "value": true,
+      "target": "C:\\Program Files (x86)\\UAssetGUI.exe"
+    },
+    {
+      "item": "project_exists",
+      "value": true,
+      "target": "D:\\WeGameApps\\rail_apps\\OasisEraEditor(2001776)\\ShadowTrackerExtra\\UGCProjects\\IslandAuctionKing"
+    },
+    {
+      "item": "output_exists",
+      "value": true,
+      "target": "D:\\知识库\\和平精英绿洲起源\\raw\\IslandAuctionKing\\_JsonOutput"
+    },
+    {
+      "item": "uasset_count",
+      "value": 284,
+      "target": "D:\\WeGameApps\\rail_apps\\OasisEraEditor(2001776)\\ShadowTrackerExtra\\UGCProjects\\IslandAuctionKing"
+    },
+    {
+      "item": "output_inside_project",
+      "value": false,
+      "target": "D:\\知识库\\和平精英绿洲起源\\raw\\IslandAuctionKing\\_JsonOutput"
+    },
+    {
+      "item": "sample_target",
+      "value": "D:\\知识库\\和平精英绿洲起源\\raw\\IslandAuctionKing\\_JsonOutput\\Asset\\Blueprint\\MainWidget.json",
+      "target": "D:\\WeGameApps\\rail_apps\\OasisEraEditor(2001776)\\ShadowTrackerExtra\\UGCProjects\\IslandAuctionKing\\Asset\\Blueprint\\MainWidget.uasset"
+    },
+    {
+      "item": "existing_json_count",
+      "value": 200,
+      "target": "D:\\知识库\\和平精英绿洲起源\\raw\\IslandAuctionKing\\_JsonOutput"
+    }
+  ]
+}

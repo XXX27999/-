@@ -1,0 +1,107 @@
+{
+  "sourceFolder": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能",
+  "targetPath": "/IslandAuctionKing/Asset/TuPian/Auction",
+  "textureGroup": 16,
+  "totalFiles": 8,
+  "files": [
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\参考.png",
+      "originalName": "参考.png",
+      "assetName": "cankao",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\技能勾选.png",
+      "originalName": "技能勾选.png",
+      "assetName": "jinenggouxuan",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\技能底.png",
+      "originalName": "技能底.png",
+      "assetName": "jinengdi",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\技能底部栏.png",
+      "originalName": "技能底部栏.png",
+      "assetName": "jinengdibulan",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\滑动块.png",
+      "originalName": "滑动块.png",
+      "assetName": "xxx",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\空槽位.png",
+      "originalName": "空槽位.png",
+      "assetName": "kongcaowei",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\选项格.png",
+      "originalName": "选项格.png",
+      "assetName": "xuanxx",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\技能\\长条透明底.png",
+      "originalName": "长条透明底.png",
+      "assetName": "xxxxdi",
+      "subDirectory": "",
+      "extension": ".png"
+    }
+  ],
+  "mapping": [
+    {
+      "original": "参考.png",
+      "asset": "cankao",
+      "path": "参考.png"
+    },
+    {
+      "original": "技能勾选.png",
+      "asset": "jinenggouxuan",
+      "path": "技能勾选.png"
+    },
+    {
+      "original": "技能底.png",
+      "asset": "jinengdi",
+      "path": "技能底.png"
+    },
+    {
+      "original": "技能底部栏.png",
+      "asset": "jinengdibulan",
+      "path": "技能底部栏.png"
+    },
+    {
+      "original": "滑动块.png",
+      "asset": "xxx",
+      "path": "滑动块.png"
+    },
+    {
+      "original": "空槽位.png",
+      "asset": "kongcaowei",
+      "path": "空槽位.png"
+    },
+    {
+      "original": "选项格.png",
+      "asset": "xuanxx",
+      "path": "选项格.png"
+    },
+    {
+      "original": "长条透明底.png",
+      "asset": "xxxxdi",
+      "path": "长条透明底.png"
+    }
+  ],
+  "timestamp": "2026-09-01T06:30:29.153Z"
+}

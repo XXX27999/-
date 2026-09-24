@@ -1,0 +1,228 @@
+==============================================================================
+地图项目：D:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\pet_paradise
+生成时间：2026-09-14 15:38:01
+==============================================================================
+
+【表格文件夹】配置表 / DataTable 目录
+------------------------------------------------------------------------------
+表格文件夹  (Asset/Data)  [配置表 / DataTable 目录]
+├── Table/  ->  配置表
+│   ├── Customized/  ->  自定义
+│   │   ├── PetPool/  ->  宠物池
+│   │   │   ├── BHCWD.uasset  ->  宠物池-白虎宠蛋
+│   │   │   ├── CSCWD.uasset  ->  宠物池-仓鼠宠蛋
+│   │   │   ├── DJCWD.uasset  ->  宠物池-道具宠蛋
+│   │   │   ├── GJCWD.uasset  ->  宠物池-高级宠蛋
+│   │   │   ├── HLCWD.uasset  ->  宠物池-葫芦宠蛋
+│   │   │   ├── NLCWD.uasset  ->  宠物池-NL 宠蛋
+│   │   │   ├── QLCWD.uasset  ->  宠物池-青龙宠蛋
+│   │   │   ├── UGCTemplateRowStruct_DJCWD.uasset  ->  表格行结构模板：宠物池-道具宠蛋
+│   │   │   ├── UGCTemplateRowStruct_GJCWD.uasset  ->  表格行结构模板：宠物池-高级宠蛋
+│   │   │   └── ZJCWD.uasset  ->  宠物池-紫金宠蛋
+│   │   ├── ChenHaoLuJin.uasset  ->  称号录金
+│   │   ├── ClassicIDWithPack.uasset  ->  经典编号配包
+│   │   ├── CoinShop.uasset  ->  金币商店
+│   │   ├── Help.uasset  ->  帮助
+│   │   ├── PetData.uasset  ->  宠物数据
+│   │   ├── Shop.uasset  ->  商店
+│   │   ├── TianFu.uasset  ->  天赋
+│   │   ├── UGCTemplateRowStruct_ChenHaoLuJin.uasset  ->  表格行结构模板：称号录金
+│   │   ├── UGCTemplateRowStruct_ClassicIDWithPack.uasset  ->  表格行结构模板：经典编号配包
+│   │   ├── UGCTemplateRowStruct_CoinShop.uasset  ->  表格行结构模板：金币商店
+│   │   ├── UGCTemplateRowStruct_Help.uasset  ->  表格行结构模板：帮助
+│   │   ├── UGCTemplateRowStruct_PetData.uasset  ->  表格行结构模板：宠物数据
+│   │   ├── UGCTemplateRowStruct_PetShop.uasset  ->  表格行结构模板：宠物商店
+│   │   ├── UGCTemplateRowStruct_PetTable.uasset  ->  表格行结构模板：宠物配置表
+│   │   ├── UGCTemplateRowStruct_Shop.uasset  ->  表格行结构模板：商店
+│   │   └── UGCTemplateRowStruct_TianFu.uasset  ->  表格行结构模板：天赋
+│   ├── ExUIList.uasset  ->  扩展界面列表
+│   ├── MonthlyAward.uasset  ->  月度奖励
+│   ├── NewUAEDataTable.uasset  ->  新版 UAE 数据表
+│   ├── TaskLineConfigList.uasset  ->  任务线配置列表
+│   ├── UGCBattleItem.uasset  ->  战斗物品
+│   ├── UGCDrop.uasset  ->  掉落
+│   ├── UGCGiftPack.uasset  ->  礼包
+│   ├── UGCObject.uasset  ->  对象
+│   ├── UGCObjectMapping.uasset  ->  对象映射
+│   ├── UGCRankingList.uasset  ->  排行榜列表
+│   ├── UGCShop.uasset  ->  商店
+│   ├── UGCShopV2ItemQualty.uasset  ->  商店 V2 物品品质
+│   └── UGCWeaponAttachment.uasset  ->  武器配件
+└── DA_GameModeGeneral.uasset  ->  数据资产：游戏模式通用
+
+【UI 文件夹】界面蓝图预制体目录
+------------------------------------------------------------------------------
+UI 文件夹  (Asset/Blueprint/Prefabs/UI)  [界面蓝图预制体目录]
+├── BackPackUI/  ->  背包界面
+│   └── ItemPadUI.uasset  ->  物品面板界面
+├── ChonWuFuHua/  ->  宠物孵化
+│   ├── ChonWuFuHua.uasset  ->  宠物孵化
+│   └── UI3D.uasset  ->  三维界面
+├── Dining/  ->  用餐
+│   ├── DiningAreaUI.uasset  ->  用餐区域界面
+│   └── PetChoiceDining.uasset  ->  用餐选择宠物
+├── districtDisplay/  ->  区域展示
+│   ├── Works/  ->  工作区
+│   │   ├── Work_10.uasset  ->  工作 10
+│   │   ├── Work_11.uasset  ->  工作 11
+│   │   ├── Work_12.uasset  ->  工作 12
+│   │   ├── Work_2.uasset  ->  工作 2
+│   │   ├── Work_3.uasset  ->  工作 3
+│   │   ├── Work_4.uasset  ->  工作 4
+│   │   ├── Work_5.uasset  ->  工作 5
+│   │   ├── Work_6.uasset  ->  工作 6
+│   │   ├── Work_7.uasset  ->  工作 7
+│   │   ├── Work_8.uasset  ->  工作 8
+│   │   └── Work_9.uasset  ->  工作 9
+│   ├── Clean.uasset  ->  清洁
+│   ├── CombatBox.uasset  ->  战斗框
+│   ├── Entertainment_MM.uasset  ->  娱乐 MM
+│   ├── Entertainment_MTL.uasset  ->  娱乐 MTL
+│   ├── Entertainment_TLJ.uasset  ->  娱乐 TLJ
+│   ├── Feed.uasset  ->  喂食
+│   ├── PetNameUI.uasset  ->  宠物名称界面
+│   └── Work.uasset  ->  工作
+├── GeRenXingXi/  ->  个人信息
+│   ├── ChenHao/  ->  称号
+│   │   ├── PaiHangBan.uasset  ->  排行榜
+│   │   └── YueKa.uasset  ->  月卡
+│   └── GeRenXinXi.uasset  ->  个人信息
+├── HelpUI/  ->  帮助界面
+│   ├── HelpDetailUI.uasset  ->  帮助详情界面
+│   └── MainHelpUI.uasset  ->  主帮助界面
+├── Name/  ->  名称
+│   ├── NamePet.uasset  ->  命名宠物
+│   └── NamePlayer.uasset  ->  命名玩家
+├── PlayerAttributeDetail/  ->  玩家属性详情
+│   └── PlayerAttributeDetailUI.uasset  ->  玩家属性详情界面
+├── RenWu/  ->  任务
+│   ├── RenWu_BuJian/  ->  任务部件
+│   │   ├── JiaGe_JingBi.uasset  ->  价格金币
+│   │   ├── JiaGe_LvZhouBi.uasset  ->  价格绿洲币
+│   │   └── RenWuLan.uasset  ->  任务栏
+│   ├── RenWu_1.uasset  ->  任务 1
+│   └── RenWu_2.uasset  ->  任务 2
+├── ShanDian/  ->  闪电
+│   ├── QueRen/  ->  确认
+│   │   ├── ChongWuChouQu.uasset  ->  宠物抽取
+│   │   ├── QueRen.uasset  ->  确认
+│   │   ├── QueRenCWJB.uasset  ->  确认-宠物金币部
+│   │   ├── QueRenCWLZB.uasset  ->  确认-宠物绿洲币部
+│   │   └── QueRenDJJB.uasset  ->  确认-道具金币部
+│   ├── ShanDian_CWJB.uasset  ->  闪电宠物金币部
+│   ├── ShanDian_CWLZB.uasset  ->  闪电宠物绿洲币部
+│   ├── ShanDian_DJJB.uasset  ->  闪电道具金币部
+│   ├── ShanDian_DJLZB.uasset  ->  闪电道具绿洲币部
+│   ├── ShanDian_DJLZB_2.uasset  ->  闪电道具绿洲币部 2
+│   ├── ShanDian_FL.uasset  ->  闪电分类
+│   └── ShanDianZhuUI.uasset  ->  闪电主界面
+├── TianFu/  ->  天赋
+│   └── TianFu.uasset  ->  天赋
+├── YueKa/  ->  月卡
+│   ├── LinQu/  ->  领取
+│   │   ├── JiKaLQ.uasset  ->  季卡领取
+│   │   ├── YueJiKaLQ.uasset  ->  月季卡领取
+│   │   └── YueKaLQ.uasset  ->  月卡领取
+│   └── YueKa.uasset  ->  月卡
+├── AN_DKDGQ.uasset  ->  活动：DKDGQ
+├── AN_QXAN.uasset  ->  活动：QXAN
+├── AN_TZ.uasset  ->  活动：TZ
+├── AN_WSAN.uasset  ->  活动：WSAN
+├── AN_YLAN.uasset  ->  活动：YLAN
+├── BuyMonthCard.uasset  ->  购买月卡
+├── BuySeasonCard.uasset  ->  购买赛季卡
+├── ExclusiveTitle.uasset  ->  专属称号
+├── FirstAdoptPet.uasset  ->  首次领养宠物
+├── mod.uasset  ->  模块
+├── NewPlayerTutorialPanelMCP.uasset  ->  新玩家教程面板 MCP
+├── OpenShop.uasset  ->  打开商店
+├── PercentTestUI.uasset  ->  百分比测试界面
+├── PetPowerUI.uasset  ->  宠物能量界面
+├── StopWorkUI.uasset  ->  停止工作界面
+├── TimeItem.uasset  ->  时限物品
+├── TipsUI.uasset  ->  提示界面
+├── TiShi.uasset  ->  提示
+├── UseItemForPet.uasset  ->  对宠物使用物品
+├── WorkPercent.uasset  ->  工作百分比
+└── WorkPercentUI.uasset  ->  工作百分比界面
+
+【物品文件夹】物品编辑器（物编）物品资产目录
+------------------------------------------------------------------------------
+物品文件夹  (Asset/Blueprint/Prefabs/Items)  [物品编辑器（物编）物品资产目录]
+├── Current/  ->  当前
+│   ├── BackPackV2_Currency.uasset  ->  背包 V2 货币
+│   ├── Gold.uasset  ->  金色
+│   ├── Pets_Currency.uasset  ->  宠物货币
+│   └── shit.uasset  ->  测试
+├── GiftPack/  ->  礼包
+│   ├── ProMaxWorkPackItem/  ->  顶级工作包物品
+│   │   ├── ForeverWorkRewardCard_3.uasset  ->  永久工作奖励卡 3
+│   │   └── LineClothes_2.uasset  ->  线条服饰 2
+│   ├── Level_GiftPack.uasset  ->  等级礼包
+│   └── ProMaxWorkPack.uasset  ->  顶级工作礼包
+├── ItemFragment/  ->  物品碎片
+│   ├── AdvancedDecorationFragment.uasset  ->  高级装饰碎片
+│   ├── BodyUpgradeAcceleratorFragment.uasset  ->  身体升级加速碎片
+│   ├── CommonCleaningltemFragment.uasset  ->  通用清洁物碎片
+│   ├── CommonDecorationFragment.uasset  ->  通用装饰碎片
+│   ├── CommonFoodFragment.uasset  ->  通用食物碎片
+│   ├── GrowthAcceleratorFragment.uasset  ->  成长加速碎片
+│   ├── GrowthProtectionFragment.uasset  ->  成长保护碎片
+│   ├── HappySnackFragment.uasset  ->  快乐零食碎片
+│   ├── HostingCardFragment.uasset  ->  托管卡碎片
+│   ├── LimitedEditionDecorationFragment.uasset  ->  限定装饰碎片
+│   ├── RareDecorationFragment.uasset  ->  稀有装饰碎片
+│   └── WorkDoubleCardFragment.uasset  ->  工作双倍卡碎片
+├── SkillItem/  ->  技能物品
+│   ├── advanced/  ->  进阶
+│   │   ├── Clean.uasset  ->  清洁
+│   │   ├── Feed.uasset  ->  喂食
+│   │   └── Interact.uasset  ->  互动
+│   ├── Base/  ->  基础
+│   │   └── SkillBase.uasset  ->  技能基础
+│   ├── clean.uasset  ->  清洁
+│   ├── feed.uasset  ->  喂食
+│   └── interact.uasset  ->  互动
+├── Work/  ->  工作
+│   ├── A1.uasset  ->  工作 A1
+│   ├── A10.uasset  ->  工作 A10
+│   ├── A2.uasset  ->  工作 A2
+│   ├── A3.uasset  ->  工作 A3
+│   ├── A4.uasset  ->  工作 A4
+│   ├── A6.uasset  ->  工作 A6
+│   ├── A7.uasset  ->  工作 A7
+│   ├── A8.uasset  ->  工作 A8
+│   └── A9.uasset  ->  工作 A9
+├── WorkItems/  ->  工作物品集
+│   ├── Base/  ->  基础
+│   │   ├── clean.uasset  ->  清洁
+│   │   ├── clean2.uasset  ->  清洁 2
+│   │   ├── feed1.uasset  ->  喂食 1
+│   │   ├── feed2.uasset  ->  喂食 2
+│   │   └── flower.uasset  ->  花
+│   ├── CustodyItems/  ->  托管物品
+│   │   ├── Adv_Custody_Card.uasset  ->  高级托管卡
+│   │   ├── Always_Custody_Card_3.uasset  ->  永久托管卡 3
+│   │   └── Nomal_Custody_Card.uasset  ->  普通托管卡
+│   ├── ExpCard/  ->  经验卡
+│   │   ├── LevelExperinceCard_Large.uasset  ->  等级经验卡 大
+│   │   ├── LevelExperinceCard_Mid.uasset  ->  等级经验卡 中
+│   │   └── LevelExperinceCard_Small.uasset  ->  等级经验卡 小
+│   ├── LevelOneHundredPack/  ->  一百级礼包
+│   │   └── ProMaxGMPack.uasset  ->  顶级 GM 礼包
+│   ├── TagItems/  ->  标签物品
+│   │   ├── AllHealthCard.uasset  ->  全健康卡
+│   │   └── Pet_First_Aid_Kit.uasset  ->  宠物急救包
+│   ├── WorkItem/  ->  工作物品
+│   │   ├── NameCard.uasset  ->  名片
+│   │   ├── SDK.uasset  ->  SDK
+│   │   ├── WorkMult.uasset  ->  工作倍数
+│   │   └── WorkPerfectCard.uasset  ->  工作完美卡
+│   └── WorkRewardItem/  ->  工作奖励物品
+│       ├── HelpLienCard.uasset  ->  帮助链卡
+│       └── WorkRewardCard.uasset  ->  工作奖励卡
+├── sdf.uasset  ->  测试
+├── test1.uasset  ->  测试 1
+└── testuzi.uasset  ->  测试用字
+
+扫描完成：39 个文件夹 · 174 个文件 · 合计 3.0 MB · 中文名完整率 96.6%

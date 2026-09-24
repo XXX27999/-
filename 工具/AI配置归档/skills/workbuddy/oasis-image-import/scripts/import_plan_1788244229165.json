@@ -1,0 +1,59 @@
+{
+  "sourceFolder": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\说明",
+  "targetPath": "/IslandAuctionKing/Asset/TuPian/Auction",
+  "textureGroup": 16,
+  "totalFiles": 4,
+  "files": [
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\说明\\箭头右.png",
+      "originalName": "箭头右.png",
+      "assetName": "xtouyou",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\说明\\箭头左.png",
+      "originalName": "箭头左.png",
+      "assetName": "xtoux",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\说明\\说明.png",
+      "originalName": "说明.png",
+      "assetName": "xx",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\说明\\说明参考图.png",
+      "originalName": "说明参考图.png",
+      "assetName": "xxcankaotu",
+      "subDirectory": "",
+      "extension": ".png"
+    }
+  ],
+  "mapping": [
+    {
+      "original": "箭头右.png",
+      "asset": "xtouyou",
+      "path": "箭头右.png"
+    },
+    {
+      "original": "箭头左.png",
+      "asset": "xtoux",
+      "path": "箭头左.png"
+    },
+    {
+      "original": "说明.png",
+      "asset": "xx",
+      "path": "说明.png"
+    },
+    {
+      "original": "说明参考图.png",
+      "asset": "xxcankaotu",
+      "path": "说明参考图.png"
+    }
+  ],
+  "timestamp": "2026-09-01T06:30:29.163Z"
+}

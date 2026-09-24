@@ -1,0 +1,35 @@
+
+EXIT_WB=1
+CODEX_oasis-dev-record=1
+CODEX_oasis-image-import=1
+CODEX_oasis-official-docs=1
+CODEX_oasis-prompt-optimize=1
+CODEX_oasis-ui-screenshot=1
+CODEX_sq-skill=1
+CODEX_ugc-log-bug-analyzer=1
+CODEX_ui-ux-pro-max=1
+CODEX_ergouzi-image-gen=1
+CODEX_ergouzi-video-gen=1
+EXIT_CCSWITCH=1
+EXIT_REPO=1
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\mcp\workbuddy\01_workbuddy_mcp.json  <- C:\Users\Administrator\.workbuddy\mcp.json
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\mcp\workbuddy\02_workbuddy_mcp-approvals.json  <- C:\Users\Administrator\.workbuddy\mcp-approvals.json
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\mcp\workbuddy\03_connectors_default_mcp.json  <- C:\Users\Administrator\.workbuddy\connectors\default\mcp.json
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\mcp\workbuddy\04_connectors_default_mcp.json.bak-20260914  <- C:\Users\Administrator\.workbuddy\connectors\default\mcp.json.bak-20260914
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\mcp\workbuddy\05_connectors_user_mcp.json  <- C:\Users\Administrator\.workbuddy\connectors\4ecddcfb-f52c-441a-aa1d-b5524460933c\mcp.json
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\mcp\workbuddy\06_connectors_user_connector-states.json  <- C:\Users\Administrator\.workbuddy\connectors\4ecddcfb-f52c-441a-aa1d-b5524460933c\connector-states.json
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\mcp\workbuddy\07_connectors_user_connector-states.v3.json  <- C:\Users\Administrator\.workbuddy\connectors\4ecddcfb-f52c-441a-aa1d-b5524460933c\connector-states.v3.json
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\mcp\workbuddy\08_connectors_user_README-DO-NOT-DELETE.txt  <- C:\Users\Administrator\.workbuddy\connectors\4ecddcfb-f52c-441a-aa1d-b5524460933c\README-DO-NOT-DELETE.txt
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\mcp\workbuddy\09_connector-github_SKILL.md  <- C:\Users\Administrator\.workbuddy\connectors\skills\connector-github\SKILL.md
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\mcp\codex\01_codex_config.toml  <- C:\Users\Administrator\.codex\config.toml
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\plugins\workbuddy\01_workbuddy_settings.json  <- C:\Users\Administrator\.workbuddy\settings.json
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\plugins\workbuddy\02_installed_plugins.json  <- C:\Users\Administrator\.workbuddy\plugins\installed_plugins.json
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\plugins\workbuddy\03_known_marketplaces.json  <- C:\Users\Administrator\.workbuddy\plugins\known_marketplaces.json
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\plugins\workbuddy\04_workbuddy_models.json  <- C:\Users\Administrator\.workbuddy\models.json
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\全局提示词\原件04_Codex全局提示词_AGENTS.md  <- C:\Users\Administrator\.codex\AGENTS.md
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\全局提示词\原件01_WorkBuddy规则_oasis-global.md  <- C:\Users\Administrator\.workbuddy\rules\oasis-global.md
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\全局提示词\原件02_WorkBuddy规则_island-auction-king-config.md  <- C:\Users\Administrator\.workbuddy\rules\island-auction-king-config.md
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\全局提示词\原件03_WorkBuddy用户记忆_CODEBUDDY.md  <- C:\Users\Administrator\.workbuddy\CODEBUDDY.md
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\skills\repo_oasis-skill-plus\README.md  <- D:\oasis-skill-plus\README.md
+OK   D:\知识库\和平精英绿洲起源\工具\AI配置归档\skills\repo_oasis-skill-plus\_oasis-sync_manifest.json  <- D:\oasis-skill-plus\.oasis-sync\manifest.json
+ROBOCOPY_EXIT=1

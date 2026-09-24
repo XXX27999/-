@@ -1,0 +1,155 @@
+{
+  "sourceFolder": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴",
+  "targetPath": "/IslandAuctionKing/Asset/TuPian/TuJian",
+  "textureGroup": 16,
+  "totalFiles": 12,
+  "files": [
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\右侧图鉴层.png",
+      "originalName": "右侧图鉴层.png",
+      "assetName": "youcetuxx",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\名称UI.png",
+      "originalName": "名称UI.png",
+      "assetName": "mingchengUI",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\图鉴参考图.png",
+      "originalName": "图鉴参考图.png",
+      "assetName": "tuxcankaotu",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\左侧UI选项.png",
+      "originalName": "左侧UI选项.png",
+      "assetName": "xceUIxuanx",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\左侧选项格.png",
+      "originalName": "左侧选项格.png",
+      "assetName": "xcexuanxx",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\底板.png",
+      "originalName": "底板.png",
+      "assetName": "dix",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\最顶部UI.png",
+      "originalName": "最顶部UI.png",
+      "assetName": "xdingbuUI",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\滚轮.png",
+      "originalName": "滚轮.png",
+      "assetName": "xx",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\滚轮底.png",
+      "originalName": "滚轮底.png",
+      "assetName": "xxdi",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\背景底.png",
+      "originalName": "背景底.png",
+      "assetName": "beijingdi",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\藏品格子.png",
+      "originalName": "藏品格子.png",
+      "assetName": "xxxzi",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "C:\\Users\\Administrator\\Desktop\\素材\\竞拍\\图鉴\\退出叉号.png",
+      "originalName": "退出叉号.png",
+      "assetName": "xxxx",
+      "subDirectory": "",
+      "extension": ".png"
+    }
+  ],
+  "mapping": [
+    {
+      "original": "右侧图鉴层.png",
+      "asset": "youcetuxx",
+      "path": "右侧图鉴层.png"
+    },
+    {
+      "original": "名称UI.png",
+      "asset": "mingchengUI",
+      "path": "名称UI.png"
+    },
+    {
+      "original": "图鉴参考图.png",
+      "asset": "tuxcankaotu",
+      "path": "图鉴参考图.png"
+    },
+    {
+      "original": "左侧UI选项.png",
+      "asset": "xceUIxuanx",
+      "path": "左侧UI选项.png"
+    },
+    {
+      "original": "左侧选项格.png",
+      "asset": "xcexuanxx",
+      "path": "左侧选项格.png"
+    },
+    {
+      "original": "底板.png",
+      "asset": "dix",
+      "path": "底板.png"
+    },
+    {
+      "original": "最顶部UI.png",
+      "asset": "xdingbuUI",
+      "path": "最顶部UI.png"
+    },
+    {
+      "original": "滚轮.png",
+      "asset": "xx",
+      "path": "滚轮.png"
+    },
+    {
+      "original": "滚轮底.png",
+      "asset": "xxdi",
+      "path": "滚轮底.png"
+    },
+    {
+      "original": "背景底.png",
+      "asset": "beijingdi",
+      "path": "背景底.png"
+    },
+    {
+      "original": "藏品格子.png",
+      "asset": "xxxzi",
+      "path": "藏品格子.png"
+    },
+    {
+      "original": "退出叉号.png",
+      "asset": "xxxx",
+      "path": "退出叉号.png"
+    }
+  ],
+  "timestamp": "2026-08-25T08:13:58.014Z"
+}

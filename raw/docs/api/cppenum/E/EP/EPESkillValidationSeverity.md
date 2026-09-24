@@ -1,0 +1,9 @@
+# EPESkillValidationSeverity
+
+## Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Info | 0 |  |
+| Warning | 1 |  |
+| Error | 2 |  |

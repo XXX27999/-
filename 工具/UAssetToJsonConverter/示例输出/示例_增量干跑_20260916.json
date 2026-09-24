@@ -1,0 +1,20 @@
+{
+  "mode": "convert",
+  "config": {
+    "project": "D:\\WeGameApps\\rail_apps\\OasisEraEditor(2001776)\\ShadowTrackerExtra\\UGCProjects\\IslandAuctionKing",
+    "output": "D:\\知识库\\和平精英绿洲起源\\raw\\IslandAuctionKing\\_JsonOutput",
+    "uassetgui": "C:\\Program Files (x86)\\UAssetGUI.exe",
+    "ue_version": "VER_UE4_24",
+    "poll_interval": 2
+  },
+  "dry_run": true,
+  "stats": {
+    "ok": true,
+    "total": 284,
+    "converted": 151,
+    "skipped": 133,
+    "failed": 0,
+    "cleaned": 0,
+    "failures": []
+  }
+}

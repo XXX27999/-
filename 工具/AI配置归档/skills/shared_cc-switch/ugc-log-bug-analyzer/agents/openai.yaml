@@ -1,0 +1,7 @@
+interface:
+  display_name: "UGC 日志诊断"
+  short_description: "自动分析最新 UGCRepository 客户端与 DS 日志并定位可疑 bug"
+  default_prompt: "Use $ugc-log-bug-analyzer to analyze the latest UGCRepository logs, pair them by DebugID, and summarize the most likely bug with evidence, root cause, and fixes."
+
+policy:
+  allow_implicit_invocation: true

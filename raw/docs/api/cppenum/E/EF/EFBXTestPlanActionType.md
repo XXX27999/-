@@ -1,0 +1,11 @@
+# EFBXTestPlanActionType
+
+## Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Import | 0 |  |
+| Reimport | 1 |  |
+| AddLOD | 2 |  |
+| ReimportLOD | 3 |  |
+| ImportReload | 4 |  |

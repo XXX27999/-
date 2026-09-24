@@ -1,0 +1,72 @@
+# EReplayCollectType
+
+## Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Default | 0 |  |
+| ReportSkillInfo | 1 |  |
+| ReportHealthChangeInfo | 2 |  |
+| ReportSuperPeopleChips | 3 |  |
+| ReportUploadScreenMoveRecord | 4 |  |
+| ReportViewPortBaseInfo | 5 |  |
+| ReportInOutHouseFlow | 6 |  |
+| ReportAttackFlow | 7 |  |
+| ExcellentOpFlow | 8 |  |
+| RevivallFlow | 9 |  |
+| ReportMaxKiller | 10 |  |
+| ReportCircleInfo | 11 |  |
+| ReportPlayerInfo | 12 |  |
+| ReportAirLineInfo | 13 |  |
+| ReportAirLineAttachInfo | 14 |  |
+| ReportThrowInfo | 15 |  |
+| ReportEquipInfo | 16 |  |
+| ReportBeatInfo | 17 |  |
+| ReportAirDropInfo | 18 |  |
+| ReportAirDropOpen | 19 |  |
+| ReportParachuteInfo | 20 |  |
+| ReportVehicle | 21 |  |
+| ReportVehicleSkinChange | 22 |  |
+| ReportPickItem | 23 |  |
+| ReportGunAttachmentFlow | 24 |  |
+| ReportUseItem | 25 |  |
+| ReportHealFlow | 26 |  |
+| ReportKillFlow | 27 |  |
+| ReportAssistFlow | 28 |  |
+| ReportWXCommonEvent | 29 |  |
+| ReportWeaponShootFlow | 30 |  |
+| ReportDanceFlow | 31 |  |
+| ReportBRGameEndWinner | 32 |  |
+| ReportSuperPeopleUpgrade | 33 |  |
+| ReportSuperPeopleSkillCast | 34 |  |
+| ReportSuperPeopleSkillCD | 35 |  |
+| ReportSuperPeopleSkillDamage | 36 |  |
+| ReportSuperPeopleStationInfo | 37 |  |
+| ReportScanCompassState | 38 |  |
+| ReportVechicleType | 39 |  |
+| ReportVechicleSkinID | 40 |  |
+| ReportCarryFlow | 41 |  |
+| ReportWXSurpriseGiftInfo | 42 |  |
+| ReportGunReloadInfo | 43 |  |
+| ReportBulletHitInfo | 44 |  |
+| ReportCGCommonReplayMsg | 45 |  |
+| ReportAirFlow | 46 |  |
+| ReportShootHitPlayerFlow | 47 |  |
+| ReportShootHitVehicleFlow | 48 |  |
+| FReplayParser_DoubleVaultFlow | 49 |  |
+| ReportOccupyPointInfo | 50 |  |
+| ReportServerUpdateCamera | 51 |  |
+| ReportCameraChangeReasonData | 52 |  |
+| ReportSetInfoAndBtnInfo | 53 |  |
+| ReportEscapePlayerBattleResult | 54 |  |
+| ReportBasePlayerInfo | 55 |  |
+| ReportEscapePlayerIncome | 56 |  |
+| ReportAIEventFlow | 57 |  |
+| ReportItemInfo | 58 |  |
+| ReportSimulateCircleInfo | 59 |  |
+| ReportDeadBox | 60 |  |
+| ReportLTPlayerIncome | 61 |  |
+| ReportLTPlayerSeasonIncome | 62 |  |
+| ReportLTAIBattleResult | 63 |  |
+| ReportPCKeyInput | 64 |  |
+| Max | 65 |  |

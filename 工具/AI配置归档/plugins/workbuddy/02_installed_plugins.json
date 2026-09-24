@@ -1,0 +1,410 @@
+{
+  "version": 2,
+  "plugins": {
+    "welcomemode-code@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\welcomemode-code\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.169Z",
+        "lastUpdated": "2026-09-14T04:25:56.169Z"
+      }
+    ],
+    "welcomemode-work@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\welcomemode-work\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.190Z",
+        "lastUpdated": "2026-09-14T04:25:56.190Z"
+      }
+    ],
+    "welcomemode-design@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\welcomemode-design\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.244Z",
+        "lastUpdated": "2026-09-14T04:25:56.244Z"
+      }
+    ],
+    "interactionmode-craft@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\interactionmode-craft\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.272Z",
+        "lastUpdated": "2026-09-14T04:25:56.272Z"
+      }
+    ],
+    "interactionmode-ask@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\interactionmode-ask\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.295Z",
+        "lastUpdated": "2026-09-14T04:25:56.295Z"
+      }
+    ],
+    "interactionmode-plan@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\interactionmode-plan\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.320Z",
+        "lastUpdated": "2026-09-14T04:25:56.320Z"
+      }
+    ],
+    "interactionmode-expert@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\interactionmode-expert\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.344Z",
+        "lastUpdated": "2026-09-14T04:25:56.344Z"
+      }
+    ],
+    "prompt-common@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\prompt-common\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.364Z",
+        "lastUpdated": "2026-09-14T04:25:56.364Z"
+      }
+    ],
+    "skill-ardot-design-core@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-ardot-design-core\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.403Z",
+        "lastUpdated": "2026-09-14T04:25:56.403Z"
+      }
+    ],
+    "skill-expert-manager@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-expert-manager\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.435Z",
+        "lastUpdated": "2026-09-14T04:25:56.435Z"
+      }
+    ],
+    "skill-wb-finance-skill@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-wb-finance-skill\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.535Z",
+        "lastUpdated": "2026-09-14T04:25:56.535Z"
+      }
+    ],
+    "skill-ardot-poster@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-ardot-poster\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.551Z",
+        "lastUpdated": "2026-09-14T04:25:56.551Z"
+      }
+    ],
+    "skill-livestream-poster@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-livestream-poster\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.584Z",
+        "lastUpdated": "2026-09-14T04:25:56.584Z"
+      }
+    ],
+    "skill-marketplace-skill-installer@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-marketplace-skill-installer\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.597Z",
+        "lastUpdated": "2026-09-14T04:25:56.597Z"
+      }
+    ],
+    "skill-recommend-connectors@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-recommend-connectors\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.610Z",
+        "lastUpdated": "2026-09-14T04:25:56.610Z"
+      }
+    ],
+    "skill-recommend-experts@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-recommend-experts\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.623Z",
+        "lastUpdated": "2026-09-14T04:25:56.623Z"
+      }
+    ],
+    "skill-design-router@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-design-router\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.636Z",
+        "lastUpdated": "2026-09-14T04:25:56.636Z"
+      }
+    ],
+    "skill-ardot-design-to-code@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-ardot-design-to-code\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.659Z",
+        "lastUpdated": "2026-09-14T04:25:56.659Z"
+      }
+    ],
+    "skill-buddy-multimodal-generation@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-buddy-multimodal-generation\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.675Z",
+        "lastUpdated": "2026-09-14T04:25:56.675Z"
+      }
+    ],
+    "skill-buddy-image-processing@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-buddy-image-processing\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.692Z",
+        "lastUpdated": "2026-09-14T04:25:56.692Z"
+      }
+    ],
+    "skill-ardot-ui-design@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-ardot-ui-design\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.715Z",
+        "lastUpdated": "2026-09-14T04:25:56.715Z"
+      }
+    ],
+    "skill-skill-creator@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-skill-creator\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.737Z",
+        "lastUpdated": "2026-09-14T04:25:56.737Z"
+      }
+    ],
+    "skill-sites@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-sites\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.753Z",
+        "lastUpdated": "2026-09-14T04:25:56.753Z"
+      }
+    ],
+    "skill-ardot-slides@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-ardot-slides\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.774Z",
+        "lastUpdated": "2026-09-14T04:25:56.774Z"
+      }
+    ],
+    "skill-geo-map-compliance-guard@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-geo-map-compliance-guard\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.789Z",
+        "lastUpdated": "2026-09-14T04:25:56.789Z"
+      }
+    ],
+    "skill-library@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-library\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.926Z",
+        "lastUpdated": "2026-09-14T04:25:56.926Z"
+      }
+    ],
+    "skill-tencent-docs-routing@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-tencent-docs-routing\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.941Z",
+        "lastUpdated": "2026-09-14T04:25:56.941Z"
+      }
+    ],
+    "skill-tencent-local-office-edit@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-tencent-local-office-edit\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.962Z",
+        "lastUpdated": "2026-09-14T04:25:56.962Z"
+      }
+    ],
+    "skill-miora-creative-core@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-miora-creative-core\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.980Z",
+        "lastUpdated": "2026-09-14T04:25:56.980Z"
+      }
+    ],
+    "skill-miora-brand-design@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-miora-brand-design\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:56.999Z",
+        "lastUpdated": "2026-09-14T04:25:56.999Z"
+      }
+    ],
+    "skill-miora-image-generation@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-miora-image-generation\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:57.016Z",
+        "lastUpdated": "2026-09-14T04:25:57.016Z"
+      }
+    ],
+    "skill-miora-video-generation@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-miora-video-generation\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:57.032Z",
+        "lastUpdated": "2026-09-14T04:25:57.032Z"
+      }
+    ],
+    "skill-cloud-service@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-cloud-service\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:57.057Z",
+        "lastUpdated": "2026-09-14T04:25:57.057Z"
+      }
+    ],
+    "skill-wecom-forwarded-chat-resources@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\skill-wecom-forwarded-chat-resources\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:57.070Z",
+        "lastUpdated": "2026-09-14T04:25:57.070Z"
+      }
+    ],
+    "mcp-ardot-mcp-app@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\mcp-ardot-mcp-app\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:57.085Z",
+        "lastUpdated": "2026-09-14T04:25:57.085Z"
+      }
+    ],
+    "weixinpay@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\weixinpay\\1.6.109",
+        "version": "1.6.109",
+        "installedAt": "2026-09-14T04:25:57.194Z",
+        "lastUpdated": "2026-09-14T04:25:57.194Z"
+      }
+    ],
+    "tencent-docs-plugin@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\tencent-docs-plugin\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:57.307Z",
+        "lastUpdated": "2026-09-14T04:25:57.307Z"
+      }
+    ],
+    "sheetagent@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\sheetagent\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:57.379Z",
+        "lastUpdated": "2026-09-14T04:25:57.379Z"
+      }
+    ],
+    "tencent-pptx@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\tencent-pptx\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:57.422Z",
+        "lastUpdated": "2026-09-14T04:25:57.422Z"
+      }
+    ],
+    "tencent-docx@workbuddy-builtin": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\workbuddy-builtin\\tencent-docx\\5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "version": "5.5.6-wb.38337834.g5f969292.h7826dc9400fd",
+        "installedAt": "2026-09-14T04:25:57.638Z",
+        "lastUpdated": "2026-09-14T04:25:57.638Z"
+      }
+    ],
+    "document-skills@cb_teams_marketplace": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\cb_teams_marketplace\\document-skills\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-09-14T06:30:40.565Z",
+        "lastUpdated": "2026-09-14T06:30:40.565Z"
+      }
+    ],
+    "finance-data@cb_teams_marketplace": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\cb_teams_marketplace\\finance-data\\1.5.0",
+        "version": "1.5.0",
+        "installedAt": "2026-09-14T06:30:40.701Z",
+        "lastUpdated": "2026-09-14T06:30:40.701Z"
+      }
+    ],
+    "agent-browser@codebuddy-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\codebuddy-plugins-official\\agent-browser\\1.3.0",
+        "version": "1.3.0",
+        "installedAt": "2026-09-14T06:31:08.928Z",
+        "lastUpdated": "2026-09-14T06:31:08.968Z"
+      }
+    ],
+    "playwright-cli@codebuddy-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\codebuddy-plugins-official\\playwright-cli\\0.1.0",
+        "version": "0.1.0",
+        "installedAt": "2026-09-14T06:31:09.039Z",
+        "lastUpdated": "2026-09-14T06:31:09.065Z"
+      }
+    ],
+    "find-skills@codebuddy-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\Administrator\\.workbuddy\\plugins\\cache\\codebuddy-plugins-official\\find-skills\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-09-14T06:31:09.100Z",
+        "lastUpdated": "2026-09-14T06:31:09.141Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+# EPropertyClass
+
+## Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Byte | 0 |  |
+| Int8 | 1 |  |
+| Int16 | 2 |  |
+| Int | 3 |  |
+| Int64 | 4 |  |
+| UInt16 | 5 |  |
+| UInt32 | 6 |  |
+| UInt64 | 7 |  |
+| UnsizedInt | 8 |  |
+| UnsizedUInt | 9 |  |
+| Float | 10 |  |
+| Double | 11 |  |
+| Bool | 12 |  |
+| SoftClass | 13 |  |
+| WeakObject | 14 |  |
+| LazyObject | 15 |  |
+| SoftObject | 16 |  |
+| Class | 17 |  |
+| Object | 18 |  |
+| Interface | 19 |  |
+| Name | 20 |  |
+| Str | 21 |  |
+| Array | 22 |  |
+| Map | 23 |  |
+| Set | 24 |  |
+| Struct | 25 |  |
+| Delegate | 26 |  |
+| MulticastDelegate | 27 |  |
+| Text | 28 |  |
+| Enum | 29 |  |

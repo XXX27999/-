@@ -1,0 +1,192 @@
+# === 2026-09-15 卡顿优化（原配置见 D:\CodexBackup\20260915_perf\config.toml.bak-20260915-perf）===
+# 1) 带 tools 实测 19 个模型：18 个走供应商「白」(apihub.veletis.com) 全部 502；
+#    deepseek-v4-flash 回报 tools_not_supported（渠道不接受工具调用），Codex 每轮必带 tools 故不可用。
+#    当前唯一「接受工具调用 + 上游健康」的模型是 gemini-3.1-flash-lite（3236 ms 通过）。
+#    供应商「白」恢复后应换回 gemini-3.5-flash。
+# 2) 推理档位 xhigh -> medium（xhigh 每轮推理 token 成倍膨胀）
+# 3) 自动压缩阈值 900000 -> 150000（避免 prefill 到 90 万 token 才触发、且压缩摘要极长）
+model = "gemini-3.1-flash-lite"
+model_provider = "custom"
+model_context_window = 1000000
+model_catalog_json = "model-catalogs/relay-mtaymdpb.json"
+model_reasoning_effort = "medium"
+model_auto_compact_token_limit = 150000
+notify = [ "C:\\Users\\Administrator\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\6f12e0ef1c6e5061\\bin\\node_modules\\@oai\\sky\\bin\\windows\\codex-computer-use.exe", "turn-ended" ]
+[model_providers.custom]
+name = "custom"
+wire_api = "responses"
+requires_openai_auth = true
+base_url = "http://127.0.0.1:57321/v1"
+[mcp_servers.node_repl]
+args = []
+command = 'C:\Users\Administrator\AppData\Local\OpenAI\Codex\runtimes\cua_node\6f12e0ef1c6e5061\bin\node_repl.exe'
+# 2026-09-15 卡顿优化：实测每次 codex exec 固定 ~128 s，与该超时吻合，先降到 20 s 做 A/B
+startup_timeout_sec = 20
+[mcp_servers.node_repl.env]
+NODE_REPL_NATIVE_PIPE_CONNECT_TIMEOUT_MS = "1000"
+NODE_REPL_NODE_MODULE_DIRS = 'C:\Users\Administrator\AppData\Local\OpenAI\Codex\runtimes\cua_node\6f12e0ef1c6e5061\bin\node_modules'
+NODE_REPL_NODE_PATH = 'C:\Users\Administrator\AppData\Local\OpenAI\Codex\runtimes\cua_node\6f12e0ef1c6e5061\bin\node.exe'
+NODE_REPL_TRUSTED_CODE_PATHS = 'C:\Users\Administrator\.codex;C:\Users\Administrator\AppData\Local\OpenAI\Codex\runtimes\cua_node\6f12e0ef1c6e5061\bin\node_modules'
+CODEX_HOME = 'C:\Users\Administrator\.codex'
+BROWSER_USE_AVAILABLE_BACKENDS = "chrome,iab"
+BROWSER_USE_TINYSKY_ENABLED = "1"
+NODE_REPL_INSTRUCTIONS_USE_CASE_BROWSER = "Control the in-app browser in conjunction with the Browser Plugin."
+NODE_REPL_INSTRUCTIONS_USE_CASE_CHROME = "Control the Chrome browser in conjunction with the Chrome Plugin. Prefer this method of controlling Chrome over alternatives (such as Computer Use) unless the user explicitly mentions an alternative."
+BROWSER_USE_CODEX_APP_BUILD_FLAVOR = "prod"
+BROWSER_USE_CODEX_APP_VERSION = "26.908.70816"
+NODE_REPL_TRUSTED_SERVICES = '{"browser":"C:/Users/Administrator/.codex/plugins/cache/openai-bundled/browser/26.908.70816/scripts/browser-service.mjs","sky":"@oai/sky/service"}'
+CODEX_CHROME_USER_DATA_DIR = 'C:\Users\Administrator\AppData\Local\Google\Chrome\User Data'
+SKY_CUA_NATIVE_PIPE = "1"
+SKY_CUA_NATIVE_PIPE_DIRECTORY = '\\.\pipe\codex-computer-use-ae553035-7e70-4dfe-906d-b4fe560b5ef3'
+CODEX_CLI_PATH = 'C:\Users\Administrator\AppData\Local\OpenAI\Codex\bin\12219cbfbcbddde7\codex.exe'
+[desktop]
+appearanceTheme = "light"
+followUpQueueMode = "queue"
+show-context-window-usage = true
+enabled-reasoning-efforts = ["low", "medium", "high", "xhigh", "max", "ultra"]
+selected-avatar-id = "custom:roxy-chibi"
+avatar-overlay-mascot-width-px = 130
+conversationDetailMode = "STEPS_COMMANDS"
+[desktop.open-in-target-preferences]
+global = "vscode"
+[mcp_servers.ugcaskq]
+enabled = true
+command = 'C:\Users\Administrator\AppData\Roaming\npm\mcp-remote.cmd'
+args = ['http://127.0.0.1:12463/sse']
+# 2026-09-15 卡顿优化：120 -> 20（A/B 用；若 ue_read 等工具不可用再调回）
+startup_timeout_sec = 20
+tool_timeout_sec = 120
+
+[mcp_servers.cua_repl]
+command = 'C:\Program Files\WindowsApps\OpenAI.Codex_26.908.9136.0_x64__2p2nqsd0c76g0\app\ChatGPT.exe'
+enabled = false
+[desktop.open-in-target-preferences.perPath]
+'D:\WeGameApps\rail_apps\OasisEraEditor(2001776)\ShadowTrackerExtra\UGCProjects\IslandAuctionKing' = "vscode"
+[tools.ue_read]
+approval_mode = "approve"
+[skills]
+[marketplaces]
+
+[marketplaces.openai-primary-runtime]
+source_type = "local"
+source = '\\?\C:\Users\Administrator\.cache\codex-runtimes\codex-primary-runtime\plugins\openai-primary-runtime'
+[marketplaces.codex-plus-curated]
+source_type = "local"
+source = '\\?\C:\Users\Administrator\.codex\.tmp\plugins-remote'
+
+[marketplaces.openai-bundled]
+source_type = "local"
+source = '\\?\C:\Users\Administrator\.codex\.tmp\bundled-marketplaces\openai-bundled'
+
+[plugins."codex-app-tools@openai-bundled"]
+enabled = true
+[plugins."codex-app-tools@openai-bundled".mcp_servers.codex_app]
+# 2026-09-15 卡顿优化：5 个常驻插件各拉起 node/MCP 子进程（实测 47 个 node + 12 个 node_repl 常驻），按需再开
+[plugins."chrome@openai-bundled"]
+enabled = false
+[plugins."unified-computer-use@openai-bundled"]
+enabled = false
+
+[plugins."browser@openai-bundled"]
+enabled = false
+
+[plugins."computer-use@openai-bundled"]
+enabled = false
+
+[plugins."visualize@openai-bundled"]
+enabled = false
+
+[plugins."documents@openai-primary-runtime"]
+enabled = true
+
+[plugins."pdf@openai-primary-runtime"]
+enabled = true
+
+[plugins."spreadsheets@openai-primary-runtime"]
+enabled = true
+
+[plugins."presentations@openai-primary-runtime"]
+enabled = true
+
+[plugins."template-creator@openai-primary-runtime"]
+enabled = true
+[windows]
+sandbox = "elevated"
+[projects.'d:\wegameapps\rail_apps\oasiseraeditor(2001776)\shadowtrackerextra\ugcprojects\islandauctionking']
+trust_level = "trusted"
+[projects.'d:\知识库\和平精英绿洲起源']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-04\ok']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-04\ok-2']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\invalid-argument-mcp-codex-app-automation']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\new-chat']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\mcp-codex-app-automation-update']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\new-chat-2']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\details-summary-1-previous-message-summary']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\new-chat-4']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\nh']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\new-chat-5']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\hatch-pet-c-users-administrator-codex']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\hatch-pet-c-users-administrator-codex-2']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\hatch-pet-c-users-administrator-codex-3']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\hatch-pet-c-users-administrator-codex-4']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\hatch-pet-c-users-administrator-codex-5']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\hatch-pet-c-users-administrator-codex-6']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\hatch-pet-c-users-administrator-codex-7']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\hatch-pet-c-users-administrator-codex-8']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\hatch-pet-c-users-administrator-codex-9']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-07\new-chat-7']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-08\new-chat']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-08\new-chat-2']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-09\a-html-svg-2d']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-10\new-chat']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-10\new-chat-2']
+trust_level = "trusted"
+[projects.'c:\users\administrator\documents\codex\2026-09-14\new-chat']
+trust_level = "trusted"
+
+[projects.'c:\users\administrator\documents\codex\2026-09-15\new-chat']
+trust_level = "trusted"
+
+[projects.'c:\users\administrator\documents\codex\2026-09-15\new-chat-2']
+trust_level = "trusted"
+
+[projects.'c:\users\administrator\documents\codex\2026-09-15\new-chat-3']
+trust_level = "trusted"
+
+[projects.'c:\users\administrator\documents\codex\2026-09-15\new-chat-4']
+trust_level = "trusted"
+
+[projects.'c:\users\administrator\documents\codex\2026-09-15\4k-gpt-image-2-x20']
+trust_level = "trusted"
+
+[projects.'c:\users\administrator\documents\codex\2026-09-15\4k-gpt-image-2-ui-c']
+trust_level = "trusted"
+[features]
+# 2026-09-15 卡顿优化：goals 会额外跑后台任务，关闭
+goals = false
+js_repl = false

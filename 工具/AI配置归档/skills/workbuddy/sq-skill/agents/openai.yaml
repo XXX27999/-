@@ -1,0 +1,7 @@
+interface:
+  display_name: "绿洲启元社区资料检索"
+  short_description: "检索本地社区帖子，补充编辑器与 Lua 实践证据"
+  default_prompt: "Use $sq-skill to search the local Oasis community archive and cite the most relevant posts for this editor question."
+
+policy:
+  allow_implicit_invocation: true

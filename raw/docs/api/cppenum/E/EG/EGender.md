@@ -1,0 +1,8 @@
+# EGender
+
+## Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| Male | 0 |  |
+| Female | 1 |  |

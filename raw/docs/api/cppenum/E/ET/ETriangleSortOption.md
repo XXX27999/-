@@ -1,0 +1,13 @@
+# ETriangleSortOption
+
+## Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| TRISORT_None | 0 |  |
+| TRISORT_CenterRadialDistance | 1 |  |
+| TRISORT_Random | 2 |  |
+| TRISORT_MergeContiguous | 3 |  |
+| TRISORT_Custom | 4 |  |
+| TRISORT_CustomLeftRight | 5 |  |
+| TRISORT_MAX | 6 |  |

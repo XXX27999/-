@@ -1,0 +1,72 @@
+# EOBReportReason_BP
+
+## Values
+
+| Name | Value | Description |
+| --- | --- | --- |
+| None | 0 |  |
+| SwitchToFollowView | 1 |  |
+| SwitchToFreeView | 2 |  |
+| SwitchShowOwnWeapon | 3 |  |
+| ToggleMapInOB | 4 |  |
+| TogglePlayerListInOB | 5 |  |
+| SwitchToTeammatePrev | 6 |  |
+| SwitchToTeammateNext | 7 |  |
+| ToggleTPPFreeView | 8 |  |
+| ToggleVehicleView | 9 |  |
+| OBVehicleLookBack | 10 |  |
+| ToggleAirPhoto | 11 |  |
+| CameraMoveFar | 12 |  |
+| CameraMoveNear | 13 |  |
+| SwitchMouseShowType | 14 |  |
+| ReplaySkipTimeComfirm | 15 |  |
+| OBForceToggleTPPView | 16 |  |
+| SwitchToTeam_InputOneNum | 17 |  |
+| SwitchToTeam_DelOneNum | 18 |  |
+| SwitchToTeam_ClearTeamID | 19 |  |
+| SwitchToTeam_PostTeamID | 20 |  |
+| SwitchToTeammate | 21 |  |
+| SwitchToTeammate_WithBlend | 22 |  |
+| ToggleUI | 23 |  |
+| ToggleLiteOBUI | 24 |  |
+| ToggleLockMouseInOB | 25 |  |
+| RotatingOBFreeViewCamera_Clockwise | 26 |  |
+| RotatingOBFreeViewCamera_Counterclockwise | 27 |  |
+| OBSSwitchTeamLogo | 28 |  |
+| OBSSwitchToPreTeam | 29 |  |
+| OBSSwitchToNextTeam | 30 |  |
+| OBChangeCheckDistance_Add | 31 |  |
+| OBChangeCheckDistance_Reduce | 32 |  |
+| OBChangeCheckDistance_ReSet | 33 |  |
+| OBChangeBisOpenEnemyHeadUI | 34 |  |
+| OBChangeProjSmokeAlpha | 35 |  |
+| SpeedUpMovement | 36 |  |
+| SpeedDownMovement | 37 |  |
+| OnSpeedUpLevel | 38 |  |
+| OnSpeedDownLevel | 39 |  |
+| OnSpeedResetLevel | 40 |  |
+| OnRotSpeedUpLevel | 41 |  |
+| OnRotSpeedDownLevel | 42 |  |
+| OnRotSpeedResetLevel | 43 |  |
+| OnRightClickOBMap | 44 |  |
+| ToggleOutline | 45 |  |
+| ToggleBackUpMovementAndCameraParams | 46 |  |
+| ClickPlayerListJump | 47 |  |
+| ClickTeamInfoJump | 48 |  |
+| ClickSceneNameJump | 49 |  |
+| JumpToKillBattlefield | 50 |  |
+| ClickMapOBButton | 51 |  |
+| ClickMapRouteButton | 52 |  |
+| CameraPitchDown | 53 |  |
+| CameraPitchUp | 54 |  |
+| CameraDirectionInFreeView | 55 |  |
+| ToggleGrenadeWindow | 56 |  |
+| TogglePickupList | 57 |  |
+| ShowPlayerBackpackInSubway | 58 |  |
+| ShowTeamLine | 59 |  |
+| ShowTeamPoint | 60 |  |
+| TogglePlayerInfoPanelInSubway | 61 |  |
+| RemoveFogInSubway | 62 |  |
+| SwitchToDamagerView | 63 |  |
+| ToggleMouseInDefaultView | 64 |  |
+| TogglePlayerOverview | 65 |  |

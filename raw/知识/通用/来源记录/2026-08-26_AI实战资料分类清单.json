@@ -1,0 +1,100 @@
+[
+  {
+    "Source": "raw/docs/ai/3D_UI_MOUNTING_GUIDE.md",
+    "Target": "raw/知识/通用/UI与交互/3D_UI_MOUNTING_GUIDE.md",
+    "Project": "",
+    "Topic": "3D UI 方案选型",
+    "Tags": "3DUI,WidgetComponent,AddObjectPositionUI"
+  },
+  {
+    "Source": "raw/docs/ai/20401_3D角色渲染为2D预览图（RenderTarget+MID）.md",
+    "Target": "raw/知识/通用/UI与交互/20401_3D角色渲染为2D预览图（RenderTarget+MID）.md",
+    "Project": "",
+    "Topic": "3D角色转2D预览",
+    "Tags": "RenderTarget,MID,UImage"
+  },
+  {
+    "Source": "raw/docs/ai/2026-07-13_RPC编码规范标准文档.md",
+    "Target": "raw/知识/通用/程序与网络/2026-07-13_RPC编码规范标准文档.md",
+    "Project": "",
+    "Topic": "RPC分发与端侧规范",
+    "Tags": "RPC,HasAuthority,CF_KHDRPC,CF_FWDRPC"
+  },
+  {
+    "Source": "raw/docs/ai/2026-06-08_离线存档架构重构.md",
+    "Target": "raw/pet_paradise/开发记录/2026-06-08_离线存档架构重构.md",
+    "Project": "pet_paradise",
+    "Topic": "离线存档",
+    "Tags": "存档,Pawn,Controller,属性缓存"
+  },
+  {
+    "Source": "raw/docs/ai/2026-06-24_称号3DUI架构重构.md",
+    "Target": "raw/pet_paradise/蓝图与UI/2026-06-24_称号3DUI架构重构.md",
+    "Project": "pet_paradise",
+    "Topic": "称号3DUI",
+    "Tags": "称号,3DUI,Widget"
+  },
+  {
+    "Source": "raw/docs/ai/2026-06-24_UI_Switch_Pattern.md",
+    "Target": "raw/pet_paradise/蓝图与UI/2026-06-24_UI_Switch_Pattern.md",
+    "Project": "pet_paradise",
+    "Topic": "商店分页UI",
+    "Tags": "UI切换,商店,Widget生命周期"
+  },
+  {
+    "Source": "raw/docs/ai/2026-06-30_仓库3D预览模型双创建修复.md",
+    "Target": "raw/pet_paradise/开发记录/2026-06-30_仓库3D预览模型双创建修复.md",
+    "Project": "pet_paradise",
+    "Topic": "仓库3D预览",
+    "Tags": "3D预览,_G,PIE"
+  },
+  {
+    "Source": "raw/docs/ai/2026-07-13_跳楼机多人座椅与宠物朝向修复记录.md",
+    "Target": "raw/pet_paradise/开发记录/2026-07-13_跳楼机多人座椅与宠物朝向修复记录.md",
+    "Project": "pet_paradise",
+    "Topic": "跳楼机多人座椅",
+    "Tags": "座椅,附着,宠物,旋转"
+  },
+  {
+    "Source": "raw/docs/ai/2026-07-15_打工区3DUI挂载与显示距离修复.md",
+    "Target": "raw/pet_paradise/蓝图与UI/2026-07-15_打工区3DUI挂载与显示距离修复.md",
+    "Project": "pet_paradise",
+    "Topic": "打工区3DUI",
+    "Tags": "3DUI,显示距离,WorkingArea"
+  },
+  {
+    "Source": "raw/docs/ai/2026-07-20_跳楼机本地玩家宠物附着与客户端座位同步修复记录.md",
+    "Target": "raw/pet_paradise/开发记录/2026-07-20_跳楼机本地玩家宠物附着与客户端座位同步修复记录.md",
+    "Project": "pet_paradise",
+    "Topic": "跳楼机客户端同步",
+    "Tags": "附着,客户端,RPC,宠物"
+  },
+  {
+    "Source": "raw/docs/ai/20379_给怪物角色动态挂载粒子特效.md",
+    "Target": "raw/pet_paradise/开发记录/20379_给怪物角色动态挂载粒子特效.md",
+    "Project": "pet_paradise",
+    "Topic": "动态粒子特效",
+    "Tags": "粒子,SpawnEmitterAttached,资源加载"
+  },
+  {
+    "Source": "raw/docs/ai/20380_Actor骨骼网格缩放失效问题排查与解决方案.md",
+    "Target": "raw/pet_paradise/开发记录/20380_Actor骨骼网格缩放失效问题排查与解决方案.md",
+    "Project": "pet_paradise",
+    "Topic": "宠物缩放",
+    "Tags": "骨骼网格,AvatarDisplayProxyComp,缩放"
+  },
+  {
+    "Source": "raw/docs/ai/2026-08-03_GM私有实体碰撞血条伤害隔离.md",
+    "Target": "raw/DanDuan/开发记录/2026-08-03_GM私有实体碰撞血条伤害隔离.md",
+    "Project": "DanDuan",
+    "Topic": "GM私有实体隔离",
+    "Tags": "GM,私有实体,碰撞,伤害,血条"
+  },
+  {
+    "Source": "raw/docs/ai/20260824_图鉴UI素材批量导入与视觉优化.md",
+    "Target": "raw/IslandAuctionKing/开发记录/20260824_图鉴UI素材批量导入与视觉优化.md",
+    "Project": "IslandAuctionKing",
+    "Topic": "图鉴UI素材优化",
+    "Tags": "图鉴UI,贴图,配置表,资产导入"
+  }
+]

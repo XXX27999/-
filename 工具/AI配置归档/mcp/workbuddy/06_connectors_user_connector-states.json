@@ -1,0 +1,31 @@
+{
+  "version": 4,
+  "encryption": {
+    "scheme": "aes-256-gcm",
+    "kdf": "hkdf-sha256",
+    "salt": "SJRGd/zZi3Xu2AridS5s0g==",
+    "userIdCheck": "pb9Br7THKxyqgkH+tUXiQw==",
+    "keyCheck": "fZALNN0phXeGlricvgpI/w==",
+    "createdAt": 1789359865677
+  },
+  "connectors": {
+    "github": {
+      "bound": true,
+      "enabled": false
+    }
+  },
+  "accountIdentityKey": "4ecddcfb-f52c-441a-aa1d-b5524460933c||enterprise",
+  "headerOverridesBearerStripped": true,
+  "staleManagedAuthHeadersPurged": true,
+  "mcpSecurityMigrated": true,
+  "headerOverrides": {
+    "github": {
+      "Authorization": {
+        "iv": "s+6Nn7L5eBnNfzKU",
+        "tag": "aN/lHlGApvao3ifPUjvhSQ==",
+        "ct": "5asihHiEPXhYmtG0XuqY8KHZ0xLqw0a5M795g0DPam8zB23gOYc3wk1v+RsTiMI="
+      }
+    }
+  },
+  "envOverrides": {}
+}

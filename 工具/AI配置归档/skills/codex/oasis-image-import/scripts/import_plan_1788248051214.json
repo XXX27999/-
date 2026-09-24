@@ -1,0 +1,71 @@
+{
+  "sourceFolder": "D:\\WeGameApps\\rail_apps\\OasisEraEditor(2001776)\\ShadowTrackerExtra\\UGCProjects\\IslandAuctionKing\\_ImportStaging\\AuctionUI\\RoundDetail",
+  "targetPath": "/IslandAuctionKing/Asset/TuPian/AuctionUI/RoundDetail",
+  "textureGroup": 16,
+  "totalFiles": 5,
+  "files": [
+    {
+      "originalPath": "D:\\WeGameApps\\rail_apps\\OasisEraEditor(2001776)\\ShadowTrackerExtra\\UGCProjects\\IslandAuctionKing\\_ImportStaging\\AuctionUI\\RoundDetail\\RoundDetailClose.png",
+      "originalName": "RoundDetailClose.png",
+      "assetName": "RoundDetailClose",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "D:\\WeGameApps\\rail_apps\\OasisEraEditor(2001776)\\ShadowTrackerExtra\\UGCProjects\\IslandAuctionKing\\_ImportStaging\\AuctionUI\\RoundDetail\\RoundDetailInfoFrame.png",
+      "originalName": "RoundDetailInfoFrame.png",
+      "assetName": "RoundDetailInfoFrame",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "D:\\WeGameApps\\rail_apps\\OasisEraEditor(2001776)\\ShadowTrackerExtra\\UGCProjects\\IslandAuctionKing\\_ImportStaging\\AuctionUI\\RoundDetail\\RoundDetailNameFrame.png",
+      "originalName": "RoundDetailNameFrame.png",
+      "assetName": "RoundDetailNameFrame",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "D:\\WeGameApps\\rail_apps\\OasisEraEditor(2001776)\\ShadowTrackerExtra\\UGCProjects\\IslandAuctionKing\\_ImportStaging\\AuctionUI\\RoundDetail\\RoundDetailPanel.png",
+      "originalName": "RoundDetailPanel.png",
+      "assetName": "RoundDetailPanel",
+      "subDirectory": "",
+      "extension": ".png"
+    },
+    {
+      "originalPath": "D:\\WeGameApps\\rail_apps\\OasisEraEditor(2001776)\\ShadowTrackerExtra\\UGCProjects\\IslandAuctionKing\\_ImportStaging\\AuctionUI\\RoundDetail\\RoundDetailPlayerFrame.png",
+      "originalName": "RoundDetailPlayerFrame.png",
+      "assetName": "RoundDetailPlayerFrame",
+      "subDirectory": "",
+      "extension": ".png"
+    }
+  ],
+  "mapping": [
+    {
+      "original": "RoundDetailClose.png",
+      "asset": "RoundDetailClose",
+      "path": "RoundDetailClose.png"
+    },
+    {
+      "original": "RoundDetailInfoFrame.png",
+      "asset": "RoundDetailInfoFrame",
+      "path": "RoundDetailInfoFrame.png"
+    },
+    {
+      "original": "RoundDetailNameFrame.png",
+      "asset": "RoundDetailNameFrame",
+      "path": "RoundDetailNameFrame.png"
+    },
+    {
+      "original": "RoundDetailPanel.png",
+      "asset": "RoundDetailPanel",
+      "path": "RoundDetailPanel.png"
+    },
+    {
+      "original": "RoundDetailPlayerFrame.png",
+      "asset": "RoundDetailPlayerFrame",
+      "path": "RoundDetailPlayerFrame.png"
+    }
+  ],
+  "timestamp": "2026-09-01T07:34:11.213Z"
+}

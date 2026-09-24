@@ -1,0 +1,43 @@
+{
+  "cb_teams_marketplace": {
+    "manifestName": "cb_teams_marketplace",
+    "type": "zip",
+    "source": {
+      "source": "zip",
+      "path": "https://download.codebuddy.cn/plugin-marketplace/cb_teams_marketplace-f720c74a-e9b0-4925-8d69-a5cab4ecb953.zip",
+      "url": "https://download.codebuddy.cn/plugin-marketplace/cb_teams_marketplace-f720c74a-e9b0-4925-8d69-a5cab4ecb953.zip"
+    },
+    "installLocation": "C:\\Users\\Administrator\\.workbuddy\\plugins\\marketplaces\\cb_teams_marketplace",
+    "description": "Marketplace from https://download.codebuddy.cn/plugin-marketplace/cb_teams_marketplace-f720c74a-e9b0-4925-8d69-a5cab4ecb953.zip",
+    "lastUpdated": "2026-09-15T09:13:11.856Z",
+    "autoUpdate": true,
+    "isBuiltIn": true
+  },
+  "codebuddy-plugins-official": {
+    "manifestName": "codebuddy-plugins-official",
+    "type": "zip",
+    "source": {
+      "source": "zip",
+      "path": "https://download.codebuddy.cn/plugin-marketplace/codebuddy-plugins-official-4b9366ac-f7e5-4cef-b60a-99a5229ce2b2.zip",
+      "url": "https://download.codebuddy.cn/plugin-marketplace/codebuddy-plugins-official-4b9366ac-f7e5-4cef-b60a-99a5229ce2b2.zip"
+    },
+    "installLocation": "C:\\Users\\Administrator\\.workbuddy\\plugins\\marketplaces\\codebuddy-plugins-official",
+    "description": "Marketplace from https://download.codebuddy.cn/plugin-marketplace/codebuddy-plugins-official-4b9366ac-f7e5-4cef-b60a-99a5229ce2b2.zip",
+    "lastUpdated": "2026-09-15T09:13:15.871Z",
+    "autoUpdate": true,
+    "isBuiltIn": true
+  },
+  "workbuddy-builtin": {
+    "manifestName": "workbuddy-builtin",
+    "type": "directory",
+    "source": {
+      "source": "directory",
+      "path": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\WorkBuddy\\resources\\app.asar.unpacked\\resources\\plugins\\workbuddy-builtin"
+    },
+    "installLocation": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\WorkBuddy\\resources\\app.asar.unpacked\\resources\\plugins\\workbuddy-builtin",
+    "description": "Marketplace from C:\\Users\\Administrator\\AppData\\Local\\Programs\\WorkBuddy\\resources\\app.asar.unpacked\\resources\\plugins\\workbuddy-builtin",
+    "lastUpdated": "2026-09-16T07:40:13.551Z",
+    "autoUpdate": false,
+    "isBuiltIn": true
+  }
+}

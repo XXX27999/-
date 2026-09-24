@@ -1,0 +1,32 @@
+# UMaterialExpressionSingleLayerWaterMaterialOutput
+
+Material output expression for writing single layer water volume material properties.
+
+## Parents
+
+- UMaterialExpressionCustomOutput
+
+## Variables
+
+| Name | Type | Description |
+| --- | --- | --- |
+| ScatteringCoefficients | [FExpressionInput](../../cppstruct/F/FE/FExpressionInput.md) | Input for scattering coefficient describing how light scatter around and is absorbed. Valid range is [0,+inf[. Unit is 1cm. |
+| AbsorptionCoefficients | [FExpressionInput](../../cppstruct/F/FE/FExpressionInput.md) | Input for scattering coefficient describing how light bounce is absorbed. Valid range is [0,+inf[. Unit is 1cm. |
+| PhaseG | [FExpressionInput](../../cppstruct/F/FE/FExpressionInput.md) | Input for phase function 'g' parameter describing how much forward(g>0) or backward (g<0) light scatter around. Valid range is [-1,1]. |
+| ColorScaleBehindWater | [FExpressionInput](../../cppstruct/F/FE/FExpressionInput.md) | Input for custom color multiplier for scene color behind water. Can be used for caustics textures etc. Defaults to 1.0. Valid range is [0,+inf[. |
+
+## Functions
+
+_None_
+
+## Event
+
+_None_
+
+## Delegate
+
+_None_
+
+## Language
+
+cpp
